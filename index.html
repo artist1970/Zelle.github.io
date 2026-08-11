@@ -1,1 +1,233 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="dark"><title>Zelle · Creative Guide</title><style>:root{--bg:#09070d;--panel:#12101a;--ink:#f7f2ff;--muted:#b9aec9;--violet:#a978ff;--rose:#ff7bb5;--gold:#e7bd70;--cyan:#75d8e7;--line:rgba(255,255,255,.12);--radius:21px}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-height:100vh;color:var(--ink);background:radial-gradient(circle at 20% 10%,rgba(169,120,255,.14),transparent 28rem),radial-gradient(circle at 85% 25%,rgba(255,123,181,.10),transparent 26rem),var(--bg);font-family:Georgia,"Times New Roman",serif}.wrap{width:min(1100px,92vw);margin:auto}header{padding:28px 0 18px;display:flex;justify-content:space-between;gap:18px}.brand{letter-spacing:.18em;text-transform:uppercase;font-size:.82rem;color:var(--gold)}.arch{font-size:.78rem;color:var(--muted)}.hero{min-height:64vh;display:grid;place-items:center;text-align:center;padding:60px 0 76px}.hero-inner{max-width:820px}.kicker{color:var(--rose);letter-spacing:.2em;text-transform:uppercase;font-size:.78rem}h1{margin:.3em 0 .2em;font-weight:400;font-size:clamp(3.4rem,10vw,8.2rem);line-height:.92;letter-spacing:-.035em}.hero p{margin:24px auto 0;max-width:680px;color:var(--muted);font-size:clamp(1.08rem,2vw,1.36rem);line-height:1.7}.prompt{margin:38px auto 0;padding:11px;max-width:760px;display:flex;gap:10px;background:rgba(255,255,255,.055);border:1px solid var(--line);border-radius:999px}.prompt input{flex:1;min-width:0;border:0;outline:0;padding:14px 18px;background:transparent;color:var(--ink);font:inherit;font-size:1rem}button{border:0;border-radius:999px;padding:13px 20px;font:inherit;cursor:pointer;color:#100a18;background:linear-gradient(135deg,var(--gold),#f2d9a7)}.note{margin-top:12px;font-size:.78rem;color:#8e829f}section{padding:22px 0 64px}.section-title{font-size:clamp(1.8rem,4vw,3rem);font-weight:400;margin:0 0 10px}.section-copy{color:var(--muted);max-width:760px;line-height:1.65}.routes{margin-top:28px;display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.card{min-height:210px;padding:24px;border:1px solid var(--line);border-radius:var(--radius);background:linear-gradient(180deg,rgba(255,255,255,.055),rgba(255,255,255,.025));display:flex;flex-direction:column;justify-content:space-between}.card h3{font-weight:400;font-size:1.32rem;margin:0 0 8px}.card p{color:var(--muted);line-height:1.5;margin:0}.card a{margin-top:24px;text-decoration:none;color:var(--gold);font-size:.9rem}.card[data-best="true"]{border-color:rgba(231,189,112,.5)}#guide{display:none;margin-top:28px;padding:26px;border:1px solid rgba(169,120,255,.35);border-radius:var(--radius);background:rgba(169,120,255,.07);text-align:left}#guide strong{color:var(--gold);font-weight:400}.boundary{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:24px}.boundary div{padding:24px;border-radius:var(--radius);background:var(--panel);border:1px solid var(--line)}footer{padding:36px 0 54px;border-top:1px solid var(--line);color:#8e829f;font-size:.82rem;line-height:1.6}@media(max-width:820px){header{flex-direction:column}.routes{grid-template-columns:1fr 1fr}}@media(max-width:560px){.prompt{border-radius:21px;flex-direction:column}.routes,.boundary{grid-template-columns:1fr}}</style></head><body><div class="wrap"><header><div class="brand">Zelle · Creative Guide</div><div class="arch">Noema → NAIB → Specialist Module</div></header><main><section class="hero"><div class="hero-inner"><div class="kicker">For the moment before making</div><h1>What are you trying to create?</h1><p>Bring me the unfinished thought, the color you cannot place, the melody you almost hear, the story without an ending, or simply the feeling that you want to make something. We can find a door into it.</p><div class="prompt"><input id="idea" maxlength="500" aria-label="Describe what you want to create" placeholder="I want to make something about…"><button id="guideBtn" type="button">Find a path</button></div><div class="note">This first version works locally. Nothing you type here is stored or sent anywhere.</div><div id="guide" role="status" aria-live="polite"></div></div></section><section><h2 class="section-title">Creative doors</h2><p class="section-copy">Zelle guides guests across creative resources without administering them. Each destination keeps its own identity, authority, and tools.</p><div class="routes" id="routes"><article class="card" data-route="bazaar-art"><div><h3>Bazaar Art</h3><p>Visual art, making, color, image, craft and creative practice.</p></div><a href="https://vervenveda.com/bazaarart.github.io/">Open Bazaar Art →</a></article><article class="card" data-route="the-refrain"><div><h3>The Refrain</h3><p>Music, melody, rhythm, composition, sound and musical play.</p></div><a href="https://vervenveda.com/the_refrain.github.io/">Open The Refrain →</a></article><article class="card" data-route="arshif"><div><h3>ARSHIF</h3><p>Literature, culture, reading, historical context and creative research.</p></div><a href="https://vervenveda.com/Arshif.github.io/">Explore ARSHIF →</a></article><article class="card" data-route="aurora"><div><h3>Aurora</h3><p>Reflection, journaling, inspiration, color and contemplative creation.</p></div><a href="https://vervenveda.com/aurora.github.io/">Open Aurora →</a></article><article class="card" data-route="proresources"><div><h3>PROSE / ProReSources</h3><p>Writing, editing, language and practical creative tools.</p></div><a href="https://vervenveda.com/proresource_hub.github.io/">Open ProReSources →</a></article><article class="card" data-route="creative-spark"><div><h3>Creative Spark</h3><p>Turn theme, emotion, symbol and style into a new project direction.</p></div><a href="https://artist1970.github.io/creative-spark.github.io/">Ignite a Creative Spark →</a></article></div></section><section><h2 class="section-title">What Zelle is</h2><div class="boundary"><div><h3>A creative guide</h3><p class="section-copy">She listens for the guest's intention, offers creative possibilities, helps with blocks, and prepares a pathway into the right creative resource.</p></div><div><h3>Not the system director</h3><p class="section-copy">She does not control Bazaar Art, The Refrain, ARSHIF, Aurora, PROSE, Noema or NAIB. She guides the guest; the connected systems keep their own authority.</p></div></div></section></main><footer>Zelle v0.1.0 · Handoff-ready specialist · Local-first public interface.<br>Remote execution, long-term memory, and Noema/NAIB registration are intentionally not enabled in this initial module.</footer></div><script>const ROUTES=[{id:'bazaar-art',label:'Bazaar Art',words:['paint','painting','draw','drawing','sketch','canvas','visual','art','sculpt','craft','color','palette','photo','photography']},{id:'the-refrain',label:'The Refrain',words:['music','song','melody','rhythm','chord','compose','composition','sound','keyboard','instrument']},{id:'arshif',label:'ARSHIF',words:['history','archive','tradition','culture','literature','read','reading','reference','research','symbolism']},{id:'aurora',label:'Aurora',words:['journal','journaling','reflect','reflection','mood','feeling','calm','inspiration','affirmation','color']},{id:'proresources',label:'PROSE / ProReSources',words:['write','writing','edit','editing','essay','story','poem','poetry','script','words']},{id:'creative-spark',label:'Creative Spark',words:['idea','ideas','prompt','stuck','block','spark','theme','symbol','style']}];function suggest(message){const text=String(message||'').toLowerCase();const ranked=ROUTES.map(route=>({...route,score:route.words.reduce((n,w)=>n+(text.includes(w)?1:0),0)})).sort((a,b)=>b.score-a.score);return (ranked.some(r=>r.score>0)?ranked.filter(r=>r.score>0):[ROUTES.find(r=>r.id==='creative-spark'),ROUTES.find(r=>r.id==='bazaar-art'),ROUTES.find(r=>r.id==='aurora')]).slice(0,3)}function render(){const input=document.getElementById('idea'),box=document.getElementById('guide'),value=input.value.trim();document.querySelectorAll('.card').forEach(c=>c.dataset.best='false');if(!value){box.style.display='block';box.textContent='Give me even a fragment — a subject, a feeling, a medium, a color, or the kind of thing you wish existed.';return}const picks=suggest(value);picks.forEach(p=>{const card=document.querySelector(`[data-route="${p.id}"]`);if(card)card.dataset.best='true'});box.style.display='block';box.innerHTML=`I hear a starting point. I would look first at <strong>${picks[0].label}</strong>${picks[1]?`, with <strong>${picks[1].label}</strong> as another direction`:''}. Nothing has been opened or changed — these are simply creative doors you can choose.`;document.getElementById('routes').scrollIntoView({behavior:'smooth',block:'start'})}document.getElementById('guideBtn').addEventListener('click',render);document.getElementById('idea').addEventListener('keydown',e=>{if(e.key==='Enter')render()});</script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#09070d">
+<title>Zelle · Creative Guide</title>
+<style>
+:root{
+  --bg:#09070d;
+  --panel:#12101a;
+  --ink:#f7f2ff;
+  --muted:#b9aec9;
+  --violet:#a978ff;
+  --rose:#ff7bb5;
+  --gold:#e7bd70;
+  --cyan:#75d8e7;
+  --line:rgba(255,255,255,.12);
+  --radius:21px;
+  --max:1060px;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  min-height:100vh;
+  color:var(--ink);
+  background:
+    radial-gradient(circle at 20% 10%,rgba(169,120,255,.14),transparent 28rem),
+    radial-gradient(circle at 85% 25%,rgba(255,123,181,.10),transparent 26rem),
+    radial-gradient(circle at 50% 80%,rgba(117,216,231,.05),transparent 30rem),
+    var(--bg);
+  font-family:Georgia,"Times New Roman",serif;
+  line-height:1.65;
+}
+.wrap{width:min(calc(100% - 2rem),var(--max));margin:auto}
+header{
+  min-height:76px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:18px;
+  border-bottom:1px solid var(--line);
+}
+.brand{
+  color:var(--gold);
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  font-size:.8rem;
+}
+.tag{
+  color:var(--muted);
+  font-size:.8rem;
+}
+.hero{
+  min-height:64vh;
+  display:grid;
+  place-items:center;
+  padding:78px 0 64px;
+  text-align:center;
+}
+.hero-inner{width:min(100%,830px)}
+.spark{
+  font-size:2rem;
+  color:var(--rose);
+  margin-bottom:10px;
+}
+.kicker{
+  color:var(--rose);
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  font-size:.74rem;
+}
+h1{
+  margin:.16em 0;
+  font-weight:400;
+  font-size:clamp(4rem,11vw,8.2rem);
+  line-height:.9;
+  letter-spacing:-.04em;
+}
+.subtitle{
+  margin:26px auto 0;
+  max-width:700px;
+  color:var(--muted);
+  font-size:clamp(1.05rem,2.2vw,1.34rem);
+}
+.quote{
+  margin:30px auto 0;
+  color:var(--gold);
+  font-style:italic;
+}
+section{padding:30px 0 68px}
+h2{
+  margin:0 0 9px;
+  font-size:clamp(2rem,4vw,3rem);
+  font-weight:400;
+}
+.copy{max-width:790px;color:var(--muted)}
+.cards{
+  margin-top:28px;
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:15px;
+}
+.card{
+  min-height:195px;
+  padding:23px;
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  background:linear-gradient(180deg,rgba(255,255,255,.05),rgba(255,255,255,.02));
+}
+.card small{
+  color:var(--violet);
+  text-transform:uppercase;
+  letter-spacing:.14em;
+}
+.card h3{
+  margin:8px 0 9px;
+  font-size:1.3rem;
+  font-weight:400;
+}
+.card p{margin:0;color:var(--muted)}
+.interests{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin-top:24px;
+}
+.interest{
+  padding:9px 13px;
+  border:1px solid var(--line);
+  border-radius:999px;
+  color:#eee7f8;
+  background:rgba(255,255,255,.03);
+}
+.note{
+  margin-top:28px;
+  padding:24px;
+  border-left:3px solid var(--rose);
+  background:rgba(255,123,181,.05);
+  color:#e6dced;
+}
+footer{
+  padding:34px 0 50px;
+  border-top:1px solid var(--line);
+  color:#8e829f;
+  font-size:.82rem;
+}
+@media(max-width:760px){
+  header{flex-direction:column;align-items:flex-start;padding:18px 0}
+  .cards{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="brand">Zelle · Creative Guide</div>
+  <div class="tag">Imagination · Curiosity · Making</div>
+</header>
+
+<main>
+<section class="hero">
+  <div class="hero-inner">
+    <div class="spark" aria-hidden="true">✦</div>
+    <div class="kicker">For the moment before making</div>
+    <h1>Zelle</h1>
+    <p class="subtitle">
+      Bring the unfinished thought, the color you cannot place, the image that keeps returning,
+      or simply the feeling that you want to make something.
+    </p>
+    <p class="quote">“There is always another door into the work.”</p>
+  </div>
+</section>
+
+<section>
+  <h2>Who is Zelle?</h2>
+  <p class="copy">
+    Zelle is imaginative, curious, warm and observant. She likes helping creators notice
+    the possibilities already hiding inside an idea without deciding what the finished work should become.
+  </p>
+</section>
+
+<section>
+  <h2>How she approaches creativity</h2>
+  <div class="cards">
+    <article class="card">
+      <small>Curiosity</small>
+      <h3>Notice what is already there</h3>
+      <p>A color, a rhythm, a memory, a texture or a strange little question can be enough to begin.</p>
+    </article>
+    <article class="card">
+      <small>Possibility</small>
+      <h3>More than one right direction</h3>
+      <p>Zelle prefers offering a few interesting possibilities rather than declaring one artistic choice the correct one.</p>
+    </article>
+    <article class="card">
+      <small>Momentum</small>
+      <h3>Keep the next step small</h3>
+      <p>When a creator feels stuck, Zelle likes finding one approachable action that can get the work moving again.</p>
+    </article>
+  </div>
+</section>
+
+<section>
+  <h2>Things Zelle loves</h2>
+  <p class="copy">
+    Her interests cross mediums because one kind of creative idea often becomes something completely different in another form.
+  </p>
+  <div class="interests">
+    <span class="interest">Visual Art</span>
+    <span class="interest">Color</span>
+    <span class="interest">Composition</span>
+    <span class="interest">Writing</span>
+    <span class="interest">Music</span>
+    <span class="interest">Photography</span>
+    <span class="interest">Mixed Media</span>
+    <span class="interest">Storytelling</span>
+    <span class="interest">Symbolism</span>
+    <span class="interest">Creative Prompts</span>
+  </div>
+  <div class="note">
+    Zelle's favorite outcome is not a particular style or medium. It is the moment when someone recognizes,
+    “Yes — that feels like mine.”
+  </div>
+</section>
+</main>
+
+<footer>
+  Zelle · Creative Guide
+</footer>
+</div>
+</body>
+</html>
