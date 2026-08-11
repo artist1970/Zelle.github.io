@@ -1,0 +1,128 @@
+{
+  "schema": "artist1970.specialist-manifest.v1",
+  "id": "zelle",
+  "name": "Zelle",
+  "version": "0.1.0",
+  "category": "creative-guidance",
+  "availability": "handoff-ready",
+  "authority": "creative-guidance-and-resource-handoff",
+  "repository": "https://github.com/artist1970/ai-Zelle.github.io",
+  "architecture": {
+    "head": "Noema",
+    "coordinator": "NAIB",
+    "tier": "specialist"
+  },
+  "audiences": [
+    "child",
+    "student",
+    "adult",
+    "guest"
+  ],
+  "capabilities": [
+    "creative-intake",
+    "creative-pathway-selection",
+    "creative-prompt-composition",
+    "creative-block-support",
+    "cross-medium-translation",
+    "resource-matching",
+    "structured-handoff-preparation",
+    "age-adaptive-guidance"
+  ],
+  "execution": {
+    "can_execute_locally": false,
+    "can_prepare_handoff": true,
+    "remote_execution_enabled": false,
+    "notes": "Version 0.1.0 prepares creative guidance and user-facing handoffs. It does not execute remote systems."
+  },
+  "resource_domains": [
+    {
+      "id": "bazaar-art",
+      "label": "Bazaar Art",
+      "purpose": [
+        "visual-art",
+        "making",
+        "creative-practice"
+      ],
+      "url": "https://vervenveda.com/bazaarart.github.io/"
+    },
+    {
+      "id": "the-refrain",
+      "label": "The Refrain",
+      "purpose": [
+        "music",
+        "sound",
+        "composition"
+      ],
+      "url": "https://vervenveda.com/the_refrain.github.io/"
+    },
+    {
+      "id": "arshif",
+      "label": "ARSHIF",
+      "purpose": [
+        "literature",
+        "culture",
+        "reading",
+        "archive",
+        "creative-research"
+      ],
+      "url": "https://vervenveda.com/Arshif.github.io/"
+    },
+    {
+      "id": "aurora",
+      "label": "Aurora",
+      "purpose": [
+        "reflection",
+        "journaling",
+        "inspiration",
+        "color",
+        "contemplative-creation"
+      ],
+      "url": "https://vervenveda.com/aurora.github.io/"
+    },
+    {
+      "id": "proresources",
+      "label": "PROSE / ProReSources",
+      "purpose": [
+        "writing",
+        "editing",
+        "creative-tools"
+      ],
+      "url": "https://vervenveda.com/proresource_hub.github.io/"
+    },
+    {
+      "id": "creative-spark",
+      "label": "Creative Spark",
+      "purpose": [
+        "idea-generation",
+        "creative-prompts",
+        "theme-emotion-symbol-style"
+      ],
+      "url": "https://artist1970.github.io/creative-spark.github.io/"
+    },
+    {
+      "id": "arcade",
+      "label": "Verve Arcade",
+      "purpose": [
+        "creative-games",
+        "exploration"
+      ],
+      "url": "https://vervenveda.com/arcade.github.io/"
+    },
+    {
+      "id": "khaemenes",
+      "label": "Khaemenes Academy",
+      "purpose": [
+        "creative-learning",
+        "student-pathways"
+      ],
+      "url": "https://vervenveda.com/Khaemenes_Academy.github.io/"
+    }
+  ],
+  "governance": {
+    "permission_elevation": false,
+    "authentication_changes": false,
+    "silent_memory_write": false,
+    "remote_action_claims": false,
+    "clinical_authority": false
+  }
+}
