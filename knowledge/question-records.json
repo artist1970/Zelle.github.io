@@ -2473,6 +2473,3521 @@
       "status": "approved",
       "source": "editorial-seed",
       "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-001",
+      "topic": "elementary-art",
+      "question": "What colors make green?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what colors make green",
+        "colors",
+        "green"
+      ],
+      "responses": [
+        {
+          "id": "elementary-001-r1",
+          "text": "Mix yellow and blue paint to make green.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-001-r2",
+          "text": "Mix yellow and blue paint to make green. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-001-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-002",
+      "topic": "elementary-art",
+      "question": "What colors make orange?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what colors make orange",
+        "colors",
+        "orange"
+      ],
+      "responses": [
+        {
+          "id": "elementary-002-r1",
+          "text": "Mix yellow and red paint to make orange.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-002-r2",
+          "text": "Mix yellow and red paint to make orange. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-002-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-003",
+      "topic": "elementary-art",
+      "question": "What colors make purple?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what colors make purple",
+        "colors",
+        "purple"
+      ],
+      "responses": [
+        {
+          "id": "elementary-003-r1",
+          "text": "Mix red and blue paint to make purple.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-003-r2",
+          "text": "Mix red and blue paint to make purple. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-003-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-004",
+      "topic": "elementary-art",
+      "question": "What colors make pink?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what colors make pink",
+        "colors"
+      ],
+      "responses": [
+        {
+          "id": "elementary-004-r1",
+          "text": "Mix red and white paint to make pink.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-004-r2",
+          "text": "Mix red and white paint to make pink. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-004-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-005",
+      "topic": "elementary-art",
+      "question": "What colors make brown?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what colors make brown",
+        "colors",
+        "brown"
+      ],
+      "responses": [
+        {
+          "id": "elementary-005-r1",
+          "text": "Mix orange with a little blue paint to try making brown.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-005-r2",
+          "text": "Mix orange with a little blue paint to try making brown. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-005-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-006",
+      "topic": "elementary-art",
+      "question": "What colors make gray?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what colors make gray",
+        "colors"
+      ],
+      "responses": [
+        {
+          "id": "elementary-006-r1",
+          "text": "Mix a little black with white paint to make gray.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-006-r2",
+          "text": "Mix a little black with white paint to make gray. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-006-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-007",
+      "topic": "elementary-art",
+      "question": "How do I make light blue?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make light blue",
+        "light"
+      ],
+      "responses": [
+        {
+          "id": "elementary-007-r1",
+          "text": "Add white to blue paint a little at a time.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-007-r2",
+          "text": "Add white to blue paint a little at a time. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-007-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-008",
+      "topic": "elementary-art",
+      "question": "How do I make dark green?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make dark green",
+        "green"
+      ],
+      "responses": [
+        {
+          "id": "elementary-008-r1",
+          "text": "Try mixing a little blue into green paint.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-008-r2",
+          "text": "Try mixing a little blue into green paint. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-008-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-009",
+      "topic": "elementary-art",
+      "question": "What is a rainbow?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a rainbow",
+        "rainbow"
+      ],
+      "responses": [
+        {
+          "id": "elementary-009-r1",
+          "text": "A rainbow shows colors of light separated by water droplets.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-009-r2",
+          "text": "A rainbow shows colors of light separated by water droplets. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-009-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-010",
+      "topic": "elementary-art",
+      "question": "How many colors are in a rainbow?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how many colors are in a rainbow",
+        "colors",
+        "rainbow"
+      ],
+      "responses": [
+        {
+          "id": "elementary-010-r1",
+          "text": "People often name seven rainbow colors, though the colors blend smoothly.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-010-r2",
+          "text": "People often name seven rainbow colors, though the colors blend smoothly. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-010-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-011",
+      "topic": "elementary-art",
+      "question": "What are primary paint colors?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what are primary paint colors",
+        "primary",
+        "paint"
+      ],
+      "responses": [
+        {
+          "id": "elementary-011-r1",
+          "text": "In a traditional beginner paint wheel, red, yellow and blue are primary colors.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-011-r2",
+          "text": "In a traditional beginner paint wheel, red, yellow and blue are primary colors. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-011-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-012",
+      "topic": "elementary-art",
+      "question": "What are secondary paint colors?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what are secondary paint colors",
+        "secondary",
+        "paint"
+      ],
+      "responses": [
+        {
+          "id": "elementary-012-r1",
+          "text": "Green, orange and purple are secondary colors in a traditional paint wheel.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-012-r2",
+          "text": "Green, orange and purple are secondary colors in a traditional paint wheel. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-012-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-013",
+      "topic": "elementary-art",
+      "question": "What is a warm color?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a warm color",
+        "color"
+      ],
+      "responses": [
+        {
+          "id": "elementary-013-r1",
+          "text": "Red, orange and yellow are often called warm colors.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-013-r2",
+          "text": "Red, orange and yellow are often called warm colors. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-013-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-014",
+      "topic": "elementary-art",
+      "question": "What is a cool color?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a cool color",
+        "color"
+      ],
+      "responses": [
+        {
+          "id": "elementary-014-r1",
+          "text": "Blue, green and violet are often called cool colors.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-014-r2",
+          "text": "Blue, green and violet are often called cool colors. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-014-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-015",
+      "topic": "elementary-art",
+      "question": "Why is my paint muddy?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why is my paint muddy",
+        "paint",
+        "muddy"
+      ],
+      "responses": [
+        {
+          "id": "elementary-015-r1",
+          "text": "Mixing many pigments can make dull brown or gray colors.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-015-r2",
+          "text": "Mixing many pigments can make dull brown or gray colors. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-015-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-016",
+      "topic": "elementary-art",
+      "question": "Can I make white by mixing paints?",
+      "alternateQuestions": [],
+      "keywords": [
+        "can i make white by mixing paints",
+        "white",
+        "mixing"
+      ],
+      "responses": [
+        {
+          "id": "elementary-016-r1",
+          "text": "Ordinary colored paints do not mix into clean white.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-016-r2",
+          "text": "Ordinary colored paints do not mix into clean white. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-016-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-017",
+      "topic": "elementary-art",
+      "question": "How do I make paint lighter?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make paint lighter",
+        "paint",
+        "lighter"
+      ],
+      "responses": [
+        {
+          "id": "elementary-017-r1",
+          "text": "Add white to opaque paint or more clean water to watercolor.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-017-r2",
+          "text": "Add white to opaque paint or more clean water to watercolor. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-017-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-018",
+      "topic": "elementary-art",
+      "question": "How do I make paint darker?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make paint darker",
+        "paint",
+        "darker"
+      ],
+      "responses": [
+        {
+          "id": "elementary-018-r1",
+          "text": "Add a tiny amount of darker pigment and test the result.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-018-r2",
+          "text": "Add a tiny amount of darker pigment and test the result. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-018-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-019",
+      "topic": "elementary-art",
+      "question": "How do I paint a rainbow?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i paint a rainbow",
+        "paint",
+        "rainbow"
+      ],
+      "responses": [
+        {
+          "id": "elementary-019-r1",
+          "text": "Paint curved bands of red, orange, yellow, green, blue and violet.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-019-r2",
+          "text": "Paint curved bands of red, orange, yellow, green, blue and violet. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-019-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-020",
+      "topic": "elementary-art",
+      "question": "What colors look good together?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what colors look good together",
+        "colors",
+        "together"
+      ],
+      "responses": [
+        {
+          "id": "elementary-020-r1",
+          "text": "Try neighboring colors for harmony or opposite colors for contrast.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-020-r2",
+          "text": "Try neighboring colors for harmony or opposite colors for contrast. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-020-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-021",
+      "topic": "elementary-art",
+      "question": "How do I draw a circle?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a circle",
+        "circle"
+      ],
+      "responses": [
+        {
+          "id": "elementary-021-r1",
+          "text": "Move your pencil in a gentle round motion before darkening the line.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-021-r2",
+          "text": "Move your pencil in a gentle round motion before darkening the line. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-021-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-022",
+      "topic": "elementary-art",
+      "question": "How do I draw a square?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a square",
+        "square"
+      ],
+      "responses": [
+        {
+          "id": "elementary-022-r1",
+          "text": "Draw four equal straight sides.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-022-r2",
+          "text": "Draw four equal straight sides. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-022-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-023",
+      "topic": "elementary-art",
+      "question": "How do I draw a triangle?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a triangle",
+        "triangle"
+      ],
+      "responses": [
+        {
+          "id": "elementary-023-r1",
+          "text": "Connect three straight lines.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-023-r2",
+          "text": "Connect three straight lines. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-023-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-024",
+      "topic": "elementary-art",
+      "question": "How do I draw a star?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a star"
+      ],
+      "responses": [
+        {
+          "id": "elementary-024-r1",
+          "text": "Make five points and connect them.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-024-r2",
+          "text": "Make five points and connect them. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-024-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-025",
+      "topic": "elementary-art",
+      "question": "How do I draw a heart?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a heart",
+        "heart"
+      ],
+      "responses": [
+        {
+          "id": "elementary-025-r1",
+          "text": "Draw two rounded bumps and bring the sides to a point.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-025-r2",
+          "text": "Draw two rounded bumps and bring the sides to a point. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-025-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-026",
+      "topic": "elementary-art",
+      "question": "How do I draw a spiral?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a spiral",
+        "spiral"
+      ],
+      "responses": [
+        {
+          "id": "elementary-026-r1",
+          "text": "Start in the center and draw a line circling outward.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-026-r2",
+          "text": "Start in the center and draw a line circling outward. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-026-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-027",
+      "topic": "elementary-art",
+      "question": "What is a zigzag?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a zigzag",
+        "zigzag"
+      ],
+      "responses": [
+        {
+          "id": "elementary-027-r1",
+          "text": "A zigzag is a line that turns sharply back and forth.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-027-r2",
+          "text": "A zigzag is a line that turns sharply back and forth. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-027-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-028",
+      "topic": "elementary-art",
+      "question": "What is a pattern?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a pattern",
+        "pattern"
+      ],
+      "responses": [
+        {
+          "id": "elementary-028-r1",
+          "text": "A pattern repeats shapes, colors or marks.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-028-r2",
+          "text": "A pattern repeats shapes, colors or marks. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-028-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-029",
+      "topic": "elementary-art",
+      "question": "What is symmetry?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is symmetry",
+        "symmetry"
+      ],
+      "responses": [
+        {
+          "id": "elementary-029-r1",
+          "text": "Symmetry means matching parts across a line.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-029-r2",
+          "text": "Symmetry means matching parts across a line. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-029-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-030",
+      "topic": "elementary-art",
+      "question": "How do I draw a cube?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a cube"
+      ],
+      "responses": [
+        {
+          "id": "elementary-030-r1",
+          "text": "Draw two offset squares and connect their matching corners.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-030-r2",
+          "text": "Draw two offset squares and connect their matching corners. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-030-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-031",
+      "topic": "elementary-art",
+      "question": "What is a 3D shape?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a 3d shape",
+        "shape"
+      ],
+      "responses": [
+        {
+          "id": "elementary-031-r1",
+          "text": "A 3D shape has height, width and depth.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-031-r2",
+          "text": "A 3D shape has height, width and depth. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-031-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-032",
+      "topic": "elementary-art",
+      "question": "How do I draw a cylinder?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a cylinder",
+        "cylinder"
+      ],
+      "responses": [
+        {
+          "id": "elementary-032-r1",
+          "text": "Draw an oval top, two straight sides and a curved bottom.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-032-r2",
+          "text": "Draw an oval top, two straight sides and a curved bottom. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-032-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-033",
+      "topic": "elementary-art",
+      "question": "What is an outline?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is an outline",
+        "outline"
+      ],
+      "responses": [
+        {
+          "id": "elementary-033-r1",
+          "text": "An outline shows the outside edge of a shape.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-033-r2",
+          "text": "An outline shows the outside edge of a shape. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-033-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-034",
+      "topic": "elementary-art",
+      "question": "How do I make a thick line?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make a thick line",
+        "thick"
+      ],
+      "responses": [
+        {
+          "id": "elementary-034-r1",
+          "text": "Use a wider marker or a softer pencil.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-034-r2",
+          "text": "Use a wider marker or a softer pencil. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-034-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-035",
+      "topic": "elementary-art",
+      "question": "How do I draw a cat?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a cat"
+      ],
+      "responses": [
+        {
+          "id": "elementary-035-r1",
+          "text": "Start with an oval head, triangle ears and a body.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-035-r2",
+          "text": "Start with an oval head, triangle ears and a body. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-035-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-036",
+      "topic": "elementary-art",
+      "question": "How do I draw a dog?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a dog"
+      ],
+      "responses": [
+        {
+          "id": "elementary-036-r1",
+          "text": "Draw a round head, ears, oval body and tail.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-036-r2",
+          "text": "Draw a round head, ears, oval body and tail. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-036-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-037",
+      "topic": "elementary-art",
+      "question": "How do I draw a bird?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a bird"
+      ],
+      "responses": [
+        {
+          "id": "elementary-037-r1",
+          "text": "Start with a small round head and an oval body.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-037-r2",
+          "text": "Start with a small round head and an oval body. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-037-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-038",
+      "topic": "elementary-art",
+      "question": "How do I draw a fish?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a fish"
+      ],
+      "responses": [
+        {
+          "id": "elementary-038-r1",
+          "text": "Draw an oval body and a triangle tail.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-038-r2",
+          "text": "Draw an oval body and a triangle tail. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-038-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-039",
+      "topic": "elementary-art",
+      "question": "How do I draw a butterfly?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a butterfly",
+        "butterfly"
+      ],
+      "responses": [
+        {
+          "id": "elementary-039-r1",
+          "text": "Draw a thin body and two pairs of wings.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-039-r2",
+          "text": "Draw a thin body and two pairs of wings. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-039-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-040",
+      "topic": "elementary-art",
+      "question": "How do I draw a flower?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a flower",
+        "flower"
+      ],
+      "responses": [
+        {
+          "id": "elementary-040-r1",
+          "text": "Draw a center circle with petals around it.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-040-r2",
+          "text": "Draw a center circle with petals around it. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-040-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-041",
+      "topic": "elementary-art",
+      "question": "How do I draw a tree?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a tree"
+      ],
+      "responses": [
+        {
+          "id": "elementary-041-r1",
+          "text": "Draw a trunk, branches and a leafy shape.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-041-r2",
+          "text": "Draw a trunk, branches and a leafy shape. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-041-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-042",
+      "topic": "elementary-art",
+      "question": "How do I draw a house?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a house",
+        "house"
+      ],
+      "responses": [
+        {
+          "id": "elementary-042-r1",
+          "text": "Draw a rectangle with a triangle roof.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-042-r2",
+          "text": "Draw a rectangle with a triangle roof. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-042-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-043",
+      "topic": "elementary-art",
+      "question": "How do I draw a car?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a car"
+      ],
+      "responses": [
+        {
+          "id": "elementary-043-r1",
+          "text": "Draw a long body and two round wheels.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-043-r2",
+          "text": "Draw a long body and two round wheels. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-043-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-044",
+      "topic": "elementary-art",
+      "question": "How do I draw a rocket?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a rocket",
+        "rocket"
+      ],
+      "responses": [
+        {
+          "id": "elementary-044-r1",
+          "text": "Draw a tall body, pointed top, fins and a window.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-044-r2",
+          "text": "Draw a tall body, pointed top, fins and a window. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-044-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-045",
+      "topic": "elementary-art",
+      "question": "How do I draw a dinosaur?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a dinosaur",
+        "dinosaur"
+      ],
+      "responses": [
+        {
+          "id": "elementary-045-r1",
+          "text": "Start with a large body, legs and a tail.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-045-r2",
+          "text": "Start with a large body, legs and a tail. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-045-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-046",
+      "topic": "elementary-art",
+      "question": "How do I draw a dragon?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a dragon",
+        "dragon"
+      ],
+      "responses": [
+        {
+          "id": "elementary-046-r1",
+          "text": "Combine a long body, wings and a playful face.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-046-r2",
+          "text": "Combine a long body, wings and a playful face. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-046-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-047",
+      "topic": "elementary-art",
+      "question": "How do I draw a unicorn?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a unicorn",
+        "unicorn"
+      ],
+      "responses": [
+        {
+          "id": "elementary-047-r1",
+          "text": "Draw a horse-like head with one horn.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-047-r2",
+          "text": "Draw a horse-like head with one horn. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-047-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-048",
+      "topic": "elementary-art",
+      "question": "How do I draw the sun?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw the sun"
+      ],
+      "responses": [
+        {
+          "id": "elementary-048-r1",
+          "text": "Draw a circle with rays around it.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-048-r2",
+          "text": "Draw a circle with rays around it. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-048-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-049",
+      "topic": "elementary-art",
+      "question": "How do I draw the moon?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw the moon"
+      ],
+      "responses": [
+        {
+          "id": "elementary-049-r1",
+          "text": "Draw a circle or curved crescent.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-049-r2",
+          "text": "Draw a circle or curved crescent. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-049-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-050",
+      "topic": "elementary-art",
+      "question": "How do I draw a cloud?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a cloud",
+        "cloud"
+      ],
+      "responses": [
+        {
+          "id": "elementary-050-r1",
+          "text": "Join several soft rounded bumps.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-050-r2",
+          "text": "Join several soft rounded bumps. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-050-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-051",
+      "topic": "elementary-art",
+      "question": "How do I draw a mountain?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a mountain",
+        "mountain"
+      ],
+      "responses": [
+        {
+          "id": "elementary-051-r1",
+          "text": "Draw tall uneven triangle-like shapes.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-051-r2",
+          "text": "Draw tall uneven triangle-like shapes. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-051-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-052",
+      "topic": "elementary-art",
+      "question": "How do I draw ocean waves?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw ocean waves",
+        "ocean",
+        "waves"
+      ],
+      "responses": [
+        {
+          "id": "elementary-052-r1",
+          "text": "Use curved lines with little white spaces for foam.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-052-r2",
+          "text": "Use curved lines with little white spaces for foam. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-052-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-053",
+      "topic": "elementary-art",
+      "question": "How do I draw a snowman?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a snowman",
+        "snowman"
+      ],
+      "responses": [
+        {
+          "id": "elementary-053-r1",
+          "text": "Stack three circles, largest on the bottom.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-053-r2",
+          "text": "Stack three circles, largest on the bottom. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-053-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-054",
+      "topic": "elementary-art",
+      "question": "How do I draw a robot?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a robot",
+        "robot"
+      ],
+      "responses": [
+        {
+          "id": "elementary-054-r1",
+          "text": "Build a robot from rectangles and circles.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-054-r2",
+          "text": "Build a robot from rectangles and circles. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-054-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-055",
+      "topic": "elementary-art",
+      "question": "What is a paintbrush?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a paintbrush",
+        "paintbrush"
+      ],
+      "responses": [
+        {
+          "id": "elementary-055-r1",
+          "text": "A paintbrush carries paint onto a surface.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-055-r2",
+          "text": "A paintbrush carries paint onto a surface. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-055-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-056",
+      "topic": "elementary-art",
+      "question": "Why wash a paintbrush?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why wash a paintbrush",
+        "paintbrush"
+      ],
+      "responses": [
+        {
+          "id": "elementary-056-r1",
+          "text": "Washing removes old colors and protects the bristles.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-056-r2",
+          "text": "Washing removes old colors and protects the bristles. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-056-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-057",
+      "topic": "elementary-art",
+      "question": "Can I finger paint?",
+      "alternateQuestions": [],
+      "keywords": [
+        "can i finger paint",
+        "finger",
+        "paint"
+      ],
+      "responses": [
+        {
+          "id": "elementary-057-r1",
+          "text": "Yes, use paint labeled safe for finger painting and wash afterward.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-057-r2",
+          "text": "Yes, use paint labeled safe for finger painting and wash afterward. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-057-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-058",
+      "topic": "elementary-art",
+      "question": "What is watercolor?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is watercolor",
+        "watercolor"
+      ],
+      "responses": [
+        {
+          "id": "elementary-058-r1",
+          "text": "Watercolor is paint mixed with water to make colorful washes.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-058-r2",
+          "text": "Watercolor is paint mixed with water to make colorful washes. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-058-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-059",
+      "topic": "elementary-art",
+      "question": "What is acrylic paint?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is acrylic paint",
+        "acrylic",
+        "paint"
+      ],
+      "responses": [
+        {
+          "id": "elementary-059-r1",
+          "text": "Acrylic paint dries to a usually water-resistant layer.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-059-r2",
+          "text": "Acrylic paint dries to a usually water-resistant layer. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-059-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-060",
+      "topic": "elementary-art",
+      "question": "What is a crayon?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a crayon",
+        "crayon"
+      ],
+      "responses": [
+        {
+          "id": "elementary-060-r1",
+          "text": "A crayon is a wax-based drawing tool.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-060-r2",
+          "text": "A crayon is a wax-based drawing tool. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-060-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-061",
+      "topic": "elementary-art",
+      "question": "What is a marker?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a marker",
+        "marker"
+      ],
+      "responses": [
+        {
+          "id": "elementary-061-r1",
+          "text": "A marker makes colored lines using ink.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-061-r2",
+          "text": "A marker makes colored lines using ink. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-061-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-062",
+      "topic": "elementary-art",
+      "question": "What is a colored pencil?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a colored pencil",
+        "colored",
+        "pencil"
+      ],
+      "responses": [
+        {
+          "id": "elementary-062-r1",
+          "text": "A colored pencil draws and shades with color.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-062-r2",
+          "text": "A colored pencil draws and shades with color. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-062-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-063",
+      "topic": "elementary-art",
+      "question": "What is chalk?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is chalk",
+        "chalk"
+      ],
+      "responses": [
+        {
+          "id": "elementary-063-r1",
+          "text": "Chalk is a soft material that leaves powdery marks.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-063-r2",
+          "text": "Chalk is a soft material that leaves powdery marks. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-063-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-064",
+      "topic": "elementary-art",
+      "question": "What is a palette?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a palette",
+        "palette"
+      ],
+      "responses": [
+        {
+          "id": "elementary-064-r1",
+          "text": "A palette is a place to hold and mix paint.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-064-r2",
+          "text": "A palette is a place to hold and mix paint. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-064-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-065",
+      "topic": "elementary-art",
+      "question": "How much water goes in watercolor?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how much water goes in watercolor",
+        "water",
+        "watercolor"
+      ],
+      "responses": [
+        {
+          "id": "elementary-065-r1",
+          "text": "Start with a little water and test on scrap paper.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-065-r2",
+          "text": "Start with a little water and test on scrap paper. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-065-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-066",
+      "topic": "elementary-art",
+      "question": "Why does wet paper wrinkle?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why does wet paper wrinkle",
+        "paper",
+        "wrinkle"
+      ],
+      "responses": [
+        {
+          "id": "elementary-066-r1",
+          "text": "Water makes paper fibers swell and bend.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-066-r2",
+          "text": "Water makes paper fibers swell and bend. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-066-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-067",
+      "topic": "elementary-art",
+      "question": "How do I keep my art desk clean?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i keep my art desk clean",
+        "clean"
+      ],
+      "responses": [
+        {
+          "id": "elementary-067-r1",
+          "text": "Cover the desk and keep paint and water in steady containers.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-067-r2",
+          "text": "Cover the desk and keep paint and water in steady containers. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-067-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-068",
+      "topic": "elementary-art",
+      "question": "Can I paint on cardboard?",
+      "alternateQuestions": [],
+      "keywords": [
+        "can i paint on cardboard",
+        "paint",
+        "cardboard"
+      ],
+      "responses": [
+        {
+          "id": "elementary-068-r1",
+          "text": "Yes, but test first because wet paint can bend it.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-068-r2",
+          "text": "Yes, but test first because wet paint can bend it. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-068-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-069",
+      "topic": "elementary-art",
+      "question": "How do I make a stamp?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make a stamp",
+        "stamp"
+      ],
+      "responses": [
+        {
+          "id": "elementary-069-r1",
+          "text": "Use a safe sponge shape with washable paint.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-069-r2",
+          "text": "Use a safe sponge shape with washable paint. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-069-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-070",
+      "topic": "elementary-art",
+      "question": "What should I draw when bored?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what should i draw when bored",
+        "should",
+        "bored"
+      ],
+      "responses": [
+        {
+          "id": "elementary-070-r1",
+          "text": "Draw an animal wearing a silly hat.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-070-r2",
+          "text": "Draw an animal wearing a silly hat. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-070-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-071",
+      "topic": "elementary-art",
+      "question": "What if I make a mistake in art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what if i make a mistake in art",
+        "mistake"
+      ],
+      "responses": [
+        {
+          "id": "elementary-071-r1",
+          "text": "Try turning the unexpected mark into a new idea.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-071-r2",
+          "text": "Try turning the unexpected mark into a new idea. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-071-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-072",
+      "topic": "elementary-art",
+      "question": "How can I make my art special?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how can i make my art special",
+        "special"
+      ],
+      "responses": [
+        {
+          "id": "elementary-072-r1",
+          "text": "Add your favorite colors, memories and ideas.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-072-r2",
+          "text": "Add your favorite colors, memories and ideas. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-072-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-073",
+      "topic": "elementary-art",
+      "question": "What is a collage?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a collage",
+        "collage"
+      ],
+      "responses": [
+        {
+          "id": "elementary-073-r1",
+          "text": "A collage is art made by arranging and attaching pieces.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-073-r2",
+          "text": "A collage is art made by arranging and attaching pieces. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-073-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-074",
+      "topic": "elementary-art",
+      "question": "What is origami?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is origami",
+        "origami"
+      ],
+      "responses": [
+        {
+          "id": "elementary-074-r1",
+          "text": "Origami is the art of folding paper into shapes.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-074-r2",
+          "text": "Origami is the art of folding paper into shapes. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-074-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-075",
+      "topic": "elementary-art",
+      "question": "How do I make a paper butterfly?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make a paper butterfly",
+        "paper",
+        "butterfly"
+      ],
+      "responses": [
+        {
+          "id": "elementary-075-r1",
+          "text": "Fold paper and cut matching wings with safe scissors.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-075-r2",
+          "text": "Fold paper and cut matching wings with safe scissors. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-075-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-076",
+      "topic": "elementary-art",
+      "question": "What is a mosaic?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a mosaic",
+        "mosaic"
+      ],
+      "responses": [
+        {
+          "id": "elementary-076-r1",
+          "text": "A mosaic is a picture made from many small pieces.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-076-r2",
+          "text": "A mosaic is a picture made from many small pieces. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-076-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-077",
+      "topic": "elementary-art",
+      "question": "How can I make art with leaves?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how can i make art with leaves",
+        "leaves"
+      ],
+      "responses": [
+        {
+          "id": "elementary-077-r1",
+          "text": "Put a leaf under paper and rub over it with a crayon.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-077-r2",
+          "text": "Put a leaf under paper and rub over it with a crayon. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-077-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-078",
+      "topic": "elementary-art",
+      "question": "Can I use recycled materials for art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "can i use recycled materials for art",
+        "recycled",
+        "materials"
+      ],
+      "responses": [
+        {
+          "id": "elementary-078-r1",
+          "text": "Clean boxes and paper scraps can become art.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-078-r2",
+          "text": "Clean boxes and paper scraps can become art. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-078-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-079",
+      "topic": "elementary-art",
+      "question": "How do I make a comic strip?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make a comic strip",
+        "comic",
+        "strip"
+      ],
+      "responses": [
+        {
+          "id": "elementary-079-r1",
+          "text": "Draw three boxes for a beginning, middle and end.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-079-r2",
+          "text": "Draw three boxes for a beginning, middle and end. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-079-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-080",
+      "topic": "elementary-art",
+      "question": "How do I draw a cartoon face?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a cartoon face",
+        "cartoon"
+      ],
+      "responses": [
+        {
+          "id": "elementary-080-r1",
+          "text": "Start with simple shapes and expressive eyes.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-080-r2",
+          "text": "Start with simple shapes and expressive eyes. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-080-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-081",
+      "topic": "elementary-art",
+      "question": "How do I show happiness in art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i show happiness in art",
+        "happiness"
+      ],
+      "responses": [
+        {
+          "id": "elementary-081-r1",
+          "text": "Use colors and shapes that feel happy to you.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-081-r2",
+          "text": "Use colors and shapes that feel happy to you. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-081-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-082",
+      "topic": "elementary-art",
+      "question": "How do I show sadness in art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i show sadness in art",
+        "sadness"
+      ],
+      "responses": [
+        {
+          "id": "elementary-082-r1",
+          "text": "Choose colors and shapes that express a quiet mood.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-082-r2",
+          "text": "Choose colors and shapes that express a quiet mood. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-082-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-083",
+      "topic": "elementary-art",
+      "question": "How do I make a birthday card?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make a birthday card",
+        "birthday"
+      ],
+      "responses": [
+        {
+          "id": "elementary-083-r1",
+          "text": "Fold paper, decorate the front and write a kind message.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-083-r2",
+          "text": "Fold paper, decorate the front and write a kind message. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-083-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-084",
+      "topic": "elementary-art",
+      "question": "How do I make a bookmark?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make a bookmark",
+        "bookmark"
+      ],
+      "responses": [
+        {
+          "id": "elementary-084-r1",
+          "text": "Decorate a long rectangle of sturdy paper.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-084-r2",
+          "text": "Decorate a long rectangle of sturdy paper. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-084-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-085",
+      "topic": "elementary-art",
+      "question": "How do I make a poster?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make a poster",
+        "poster"
+      ],
+      "responses": [
+        {
+          "id": "elementary-085-r1",
+          "text": "Use one big message and a clear picture.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-085-r2",
+          "text": "Use one big message and a clear picture. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-085-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-086",
+      "topic": "elementary-art",
+      "question": "What is an art museum?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is an art museum",
+        "museum"
+      ],
+      "responses": [
+        {
+          "id": "elementary-086-r1",
+          "text": "An art museum cares for and displays artworks.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-086-r2",
+          "text": "An art museum cares for and displays artworks. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-086-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-087",
+      "topic": "elementary-art",
+      "question": "Who is an artist?",
+      "alternateQuestions": [],
+      "keywords": [
+        "who is an artist",
+        "artist"
+      ],
+      "responses": [
+        {
+          "id": "elementary-087-r1",
+          "text": "An artist creates or explores ideas through art.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-087-r2",
+          "text": "An artist creates or explores ideas through art. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-087-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-088",
+      "topic": "elementary-art",
+      "question": "Can kids be artists?",
+      "alternateQuestions": [],
+      "keywords": [
+        "can kids be artists",
+        "artists"
+      ],
+      "responses": [
+        {
+          "id": "elementary-088-r1",
+          "text": "Yes! Children can create original art and practice new skills.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-088-r2",
+          "text": "Yes! Children can create original art and practice new skills. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-088-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-089",
+      "topic": "elementary-art",
+      "question": "How do I draw a ladybug?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a ladybug",
+        "ladybug"
+      ],
+      "responses": [
+        {
+          "id": "elementary-089-r1",
+          "text": "Draw a round body, a head and spotted wings.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-089-r2",
+          "text": "Draw a round body, a head and spotted wings. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-089-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-090",
+      "topic": "elementary-art",
+      "question": "How do I draw a turtle?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a turtle",
+        "turtle"
+      ],
+      "responses": [
+        {
+          "id": "elementary-090-r1",
+          "text": "Start with an oval shell, a head and four feet.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-090-r2",
+          "text": "Start with an oval shell, a head and four feet. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-090-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-091",
+      "topic": "elementary-art",
+      "question": "How do I draw a bee?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a bee"
+      ],
+      "responses": [
+        {
+          "id": "elementary-091-r1",
+          "text": "Draw an oval body, stripes, wings and antennae.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-091-r2",
+          "text": "Draw an oval body, stripes, wings and antennae. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-091-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-092",
+      "topic": "elementary-art",
+      "question": "How do I draw a castle?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a castle",
+        "castle"
+      ],
+      "responses": [
+        {
+          "id": "elementary-092-r1",
+          "text": "Combine tall rectangles, towers and pointed roofs.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-092-r2",
+          "text": "Combine tall rectangles, towers and pointed roofs. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-092-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-093",
+      "topic": "elementary-art",
+      "question": "How do I make a paper crown?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make a paper crown",
+        "paper",
+        "crown"
+      ],
+      "responses": [
+        {
+          "id": "elementary-093-r1",
+          "text": "Cut a strip of paper and decorate it with shapes.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-093-r2",
+          "text": "Cut a strip of paper and decorate it with shapes. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-093-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-094",
+      "topic": "elementary-art",
+      "question": "How do I draw a smiling face?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a smiling face",
+        "smiling"
+      ],
+      "responses": [
+        {
+          "id": "elementary-094-r1",
+          "text": "Draw two eyes and an upward-curving mouth.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-094-r2",
+          "text": "Draw two eyes and an upward-curving mouth. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-094-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-095",
+      "topic": "elementary-art",
+      "question": "How do I make a paper chain?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make a paper chain",
+        "paper",
+        "chain"
+      ],
+      "responses": [
+        {
+          "id": "elementary-095-r1",
+          "text": "Connect loops of paper strips with child-safe supplies.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-095-r2",
+          "text": "Connect loops of paper strips with child-safe supplies. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-095-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-096",
+      "topic": "elementary-art",
+      "question": "How do I paint dots?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i paint dots",
+        "paint"
+      ],
+      "responses": [
+        {
+          "id": "elementary-096-r1",
+          "text": "Touch the paper gently with a paint-filled brush tip.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-096-r2",
+          "text": "Touch the paper gently with a paint-filled brush tip. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-096-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-097",
+      "topic": "elementary-art",
+      "question": "How do I draw a kite?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a kite"
+      ],
+      "responses": [
+        {
+          "id": "elementary-097-r1",
+          "text": "Draw a diamond shape with a long string.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-097-r2",
+          "text": "Draw a diamond shape with a long string. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-097-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-098",
+      "topic": "elementary-art",
+      "question": "How do I draw a balloon?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a balloon",
+        "balloon"
+      ],
+      "responses": [
+        {
+          "id": "elementary-098-r1",
+          "text": "Draw an oval, a small knot and a string.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-098-r2",
+          "text": "Draw an oval, a small knot and a string. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-098-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-099",
+      "topic": "elementary-art",
+      "question": "How do I draw a rainbow fish?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a rainbow fish",
+        "rainbow"
+      ],
+      "responses": [
+        {
+          "id": "elementary-099-r1",
+          "text": "Draw a fish shape and decorate its scales with colors.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-099-r2",
+          "text": "Draw a fish shape and decorate its scales with colors. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-099-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "elementary-100",
+      "topic": "elementary-art",
+      "question": "How do I make a paper flower?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make a paper flower",
+        "paper",
+        "flower"
+      ],
+      "responses": [
+        {
+          "id": "elementary-100-r1",
+          "text": "Cut petal shapes safely and attach them around a center.",
+          "weight": 1
+        },
+        {
+          "id": "elementary-100-r2",
+          "text": "Cut petal shapes safely and attach them around a center. Try it on scrap paper and see what you discover!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "elementary-100-f1",
+          "text": "Would you like to try a little art activity?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "elementary-editorial-seed",
+      "version": 1,
+      "ageBand": "elementary"
     }
   ]
 }
