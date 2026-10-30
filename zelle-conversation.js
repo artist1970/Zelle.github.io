@@ -34,7 +34,7 @@
     const message = input.value.trim().slice(0, 2000);
     if (!message) return;
     add("You", message);
-    add("Zelle · guided prompt", reply(message));
+    add("Zelle", reply(message));
     input.value = "";
     status.textContent = "Local guided response. No message was sent to a server.";
     input.focus();
