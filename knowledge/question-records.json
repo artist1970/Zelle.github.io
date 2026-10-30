@@ -5988,6 +5988,3565 @@
       "source": "elementary-editorial-seed",
       "version": 1,
       "ageBand": "elementary"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-001",
+      "topic": "middle-school-art",
+      "question": "Why do drawings look flat?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why do drawings look flat",
+        "drawings"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-001-r1",
+          "text": "Value changes help show three-dimensional form.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-001-r2",
+          "text": "Value changes help show three-dimensional form. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-001-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-002",
+      "topic": "middle-school-art",
+      "question": "How can I draw more accurately?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how can i draw more accurately",
+        "accurately"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-002-r1",
+          "text": "Compare the actual shapes and angles before adding details.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-002-r2",
+          "text": "Compare the actual shapes and angles before adding details. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-002-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-003",
+      "topic": "middle-school-art",
+      "question": "How can I measure proportions?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how can i measure proportions",
+        "measure",
+        "proportions"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-003-r1",
+          "text": "Use a pencil at arm's length to compare relative sizes.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-003-r2",
+          "text": "Use a pencil at arm's length to compare relative sizes. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-003-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-004",
+      "topic": "middle-school-art",
+      "question": "What is sighting in drawing?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is sighting in drawing",
+        "sighting",
+        "drawing"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-004-r1",
+          "text": "Sighting means checking angles and proportions against a reference.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-004-r2",
+          "text": "Sighting means checking angles and proportions against a reference. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-004-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-005",
+      "topic": "middle-school-art",
+      "question": "How do I draw an ellipse?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw an ellipse",
+        "ellipse"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-005-r1",
+          "text": "Draw a smooth flattened circle without pointed ends.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-005-r2",
+          "text": "Draw a smooth flattened circle without pointed ends. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-005-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-006",
+      "topic": "middle-school-art",
+      "question": "What is foreshortening?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is foreshortening",
+        "foreshortening"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-006-r1",
+          "text": "A form pointing toward the viewer appears shorter.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-006-r2",
+          "text": "A form pointing toward the viewer appears shorter. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-006-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-007",
+      "topic": "middle-school-art",
+      "question": "How do I draw shiny metal?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw shiny metal",
+        "shiny",
+        "metal"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-007-r1",
+          "text": "Observe sharp changes between highlights and dark reflections.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-007-r2",
+          "text": "Observe sharp changes between highlights and dark reflections. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-007-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-008",
+      "topic": "middle-school-art",
+      "question": "How do I draw glass?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw glass",
+        "glass"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-008-r1",
+          "text": "Focus on reflections, visible edges and distorted shapes behind it.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-008-r2",
+          "text": "Focus on reflections, visible edges and distorted shapes behind it. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-008-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-009",
+      "topic": "middle-school-art",
+      "question": "How do I draw realistic texture?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw realistic texture",
+        "realistic",
+        "texture"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-009-r1",
+          "text": "Simplify texture into patterns of light and shadow.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-009-r2",
+          "text": "Simplify texture into patterns of light and shadow. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-009-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-010",
+      "topic": "middle-school-art",
+      "question": "How do I draw a moving figure?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a moving figure",
+        "moving",
+        "figure"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-010-r1",
+          "text": "Start with a flowing gesture line.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-010-r2",
+          "text": "Start with a flowing gesture line. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-010-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-011",
+      "topic": "middle-school-art",
+      "question": "What is two-point perspective?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is two-point perspective",
+        "two-point",
+        "perspective"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-011-r1",
+          "text": "Two-point perspective uses two vanishing points on the horizon.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-011-r2",
+          "text": "Two-point perspective uses two vanishing points on the horizon. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-011-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-012",
+      "topic": "middle-school-art",
+      "question": "What is three-point perspective?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is three-point perspective",
+        "three-point",
+        "perspective"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-012-r1",
+          "text": "Three-point perspective adds a vanishing point for vertical edges.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-012-r2",
+          "text": "Three-point perspective adds a vanishing point for vertical edges. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-012-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-013",
+      "topic": "middle-school-art",
+      "question": "How do I draw a room in perspective?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a room in perspective",
+        "perspective"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-013-r1",
+          "text": "Choose a horizon and vanishing points, then align receding edges.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-013-r2",
+          "text": "Choose a horizon and vanishing points, then align receding edges. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-013-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-014",
+      "topic": "middle-school-art",
+      "question": "What is a horizon line?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a horizon line",
+        "horizon"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-014-r1",
+          "text": "The horizon line represents the viewer's eye level.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-014-r2",
+          "text": "The horizon line represents the viewer's eye level. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-014-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-015",
+      "topic": "middle-school-art",
+      "question": "Why do parallel lines appear to meet?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why do parallel lines appear to meet",
+        "parallel",
+        "lines"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-015-r1",
+          "text": "Receding parallel lines seem to converge at a vanishing point.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-015-r2",
+          "text": "Receding parallel lines seem to converge at a vanishing point. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-015-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-016",
+      "topic": "middle-school-art",
+      "question": "What is atmospheric perspective?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is atmospheric perspective",
+        "atmospheric",
+        "perspective"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-016-r1",
+          "text": "Distant forms often look lighter and less detailed.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-016-r2",
+          "text": "Distant forms often look lighter and less detailed. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-016-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-017",
+      "topic": "middle-school-art",
+      "question": "How do I shade a sphere?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i shade a sphere",
+        "shade",
+        "sphere"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-017-r1",
+          "text": "Place highlights, midtones, core shadows and cast shadows.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-017-r2",
+          "text": "Place highlights, midtones, core shadows and cast shadows. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-017-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-018",
+      "topic": "middle-school-art",
+      "question": "How do I draw stairs in perspective?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw stairs in perspective",
+        "stairs",
+        "perspective"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-018-r1",
+          "text": "Use perspective guides and repeat steps with consistent spacing.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-018-r2",
+          "text": "Use perspective guides and repeat steps with consistent spacing. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-018-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-019",
+      "topic": "middle-school-art",
+      "question": "How do I draw a building from below?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i draw a building from below",
+        "building",
+        "below"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-019-r1",
+          "text": "Try three-point perspective with converging vertical edges.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-019-r2",
+          "text": "Try three-point perspective with converging vertical edges. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-019-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-020",
+      "topic": "middle-school-art",
+      "question": "How does overlapping show depth?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how does overlapping show depth",
+        "overlapping",
+        "depth"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-020-r1",
+          "text": "Near objects hide parts of objects behind them.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-020-r2",
+          "text": "Near objects hide parts of objects behind them. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-020-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-021",
+      "topic": "middle-school-art",
+      "question": "What is hue in art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is hue in art"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-021-r1",
+          "text": "Hue is a color family such as red, blue or green.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-021-r2",
+          "text": "Hue is a color family such as red, blue or green. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-021-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-022",
+      "topic": "middle-school-art",
+      "question": "What is saturation in art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is saturation in art",
+        "saturation"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-022-r1",
+          "text": "Saturation describes how vivid or muted a color appears.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-022-r2",
+          "text": "Saturation describes how vivid or muted a color appears. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-022-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-023",
+      "topic": "middle-school-art",
+      "question": "What is value in art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is value in art",
+        "value"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-023-r1",
+          "text": "Value is how light or dark a color is.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-023-r2",
+          "text": "Value is how light or dark a color is. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-023-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-024",
+      "topic": "middle-school-art",
+      "question": "What is a monochromatic palette?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a monochromatic palette",
+        "monochromatic",
+        "palette"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-024-r1",
+          "text": "It uses variations of one hue.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-024-r2",
+          "text": "It uses variations of one hue. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-024-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-025",
+      "topic": "middle-school-art",
+      "question": "What is an analogous palette?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is an analogous palette",
+        "analogous",
+        "palette"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-025-r1",
+          "text": "It uses neighboring hues on a color wheel.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-025-r2",
+          "text": "It uses neighboring hues on a color wheel. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-025-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-026",
+      "topic": "middle-school-art",
+      "question": "What is a triadic palette?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a triadic palette",
+        "triadic",
+        "palette"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-026-r1",
+          "text": "It uses three hues spaced roughly evenly around a color wheel.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-026-r2",
+          "text": "It uses three hues spaced roughly evenly around a color wheel. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-026-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-027",
+      "topic": "middle-school-art",
+      "question": "What is simultaneous contrast?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is simultaneous contrast",
+        "simultaneous",
+        "contrast"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-027-r1",
+          "text": "Surrounding colors can change how a color appears.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-027-r2",
+          "text": "Surrounding colors can change how a color appears. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-027-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-028",
+      "topic": "middle-school-art",
+      "question": "Why do shadows sometimes look blue?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why do shadows sometimes look blue",
+        "shadows",
+        "sometimes"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-028-r1",
+          "text": "Shadows may reflect cool skylight or nearby colors.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-028-r2",
+          "text": "Shadows may reflect cool skylight or nearby colors. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-028-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-029",
+      "topic": "middle-school-art",
+      "question": "How do I mix different skin tones?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i mix different skin tones",
+        "different",
+        "tones"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-029-r1",
+          "text": "Observe the subject and mix a range of warm and cool tones.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-029-r2",
+          "text": "Observe the subject and mix a range of warm and cool tones. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-029-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-030",
+      "topic": "middle-school-art",
+      "question": "Why do print colors differ from screens?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why do print colors differ from screens",
+        "print",
+        "colors"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-030-r1",
+          "text": "Screens emit RGB light while printers use ink and paper.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-030-r2",
+          "text": "Screens emit RGB light while printers use ink and paper. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-030-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-031",
+      "topic": "middle-school-art",
+      "question": "What is wet-on-wet watercolor?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is wet-on-wet watercolor",
+        "wet-on-wet",
+        "watercolor"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-031-r1",
+          "text": "Wet paint is applied to a wet surface.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-031-r2",
+          "text": "Wet paint is applied to a wet surface. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-031-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-032",
+      "topic": "middle-school-art",
+      "question": "What is wet-on-dry watercolor?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is wet-on-dry watercolor",
+        "wet-on-dry",
+        "watercolor"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-032-r1",
+          "text": "Wet paint is applied to a dry surface.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-032-r2",
+          "text": "Wet paint is applied to a dry surface. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-032-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-033",
+      "topic": "middle-school-art",
+      "question": "How do I avoid watercolor blooms?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i avoid watercolor blooms",
+        "avoid",
+        "watercolor"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-033-r1",
+          "text": "Avoid dropping extra water into a partly drying wash.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-033-r2",
+          "text": "Avoid dropping extra water into a partly drying wash. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-033-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-034",
+      "topic": "middle-school-art",
+      "question": "What is dry brushing?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is dry brushing",
+        "brushing"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-034-r1",
+          "text": "It uses relatively little paint for textured marks.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-034-r2",
+          "text": "It uses relatively little paint for textured marks. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-034-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-035",
+      "topic": "middle-school-art",
+      "question": "How do I paint a smooth gradient?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i paint a smooth gradient",
+        "paint",
+        "smooth"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-035-r1",
+          "text": "Blend adjacent tones while wet or layer gradually.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-035-r2",
+          "text": "Blend adjacent tones while wet or layer gradually. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-035-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-036",
+      "topic": "middle-school-art",
+      "question": "Why can acrylic dry darker?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why can acrylic dry darker",
+        "acrylic",
+        "darker"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-036-r1",
+          "text": "Some acrylic pigments shift as the binder dries.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-036-r2",
+          "text": "Some acrylic pigments shift as the binder dries. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-036-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-037",
+      "topic": "middle-school-art",
+      "question": "What is impasto?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is impasto",
+        "impasto"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-037-r1",
+          "text": "Impasto is thick paint with visible raised texture.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-037-r2",
+          "text": "Impasto is thick paint with visible raised texture. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-037-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-038",
+      "topic": "middle-school-art",
+      "question": "What is a limited palette?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a limited palette",
+        "limited",
+        "palette"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-038-r1",
+          "text": "It uses a small number of pigments.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-038-r2",
+          "text": "It uses a small number of pigments. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-038-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-039",
+      "topic": "middle-school-art",
+      "question": "How do I paint fabric folds?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i paint fabric folds",
+        "paint",
+        "fabric"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-039-r1",
+          "text": "Simplify the folds into directional shapes and value changes.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-039-r2",
+          "text": "Simplify the folds into directional shapes and value changes. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-039-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-040",
+      "topic": "middle-school-art",
+      "question": "How do I paint soft clouds?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i paint soft clouds",
+        "paint",
+        "clouds"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-040-r1",
+          "text": "Use soft edges and large shapes rather than hard outlines.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-040-r2",
+          "text": "Use soft edges and large shapes rather than hard outlines. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-040-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-041",
+      "topic": "middle-school-art",
+      "question": "What is visual hierarchy?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is visual hierarchy",
+        "visual",
+        "hierarchy"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-041-r1",
+          "text": "Visual hierarchy guides attention through size, contrast and placement.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-041-r2",
+          "text": "Visual hierarchy guides attention through size, contrast and placement. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-041-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-042",
+      "topic": "middle-school-art",
+      "question": "What is a focal point?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a focal point",
+        "focal",
+        "point"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-042-r1",
+          "text": "A focal point is the main area of attention.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-042-r2",
+          "text": "A focal point is the main area of attention. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-042-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-043",
+      "topic": "middle-school-art",
+      "question": "What are leading lines?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what are leading lines",
+        "leading",
+        "lines"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-043-r1",
+          "text": "They are visual directions that guide the viewer's eye.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-043-r2",
+          "text": "They are visual directions that guide the viewer's eye. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-043-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-044",
+      "topic": "middle-school-art",
+      "question": "What is the rule of thirds?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is the rule of thirds",
+        "thirds"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-044-r1",
+          "text": "It divides a picture into a three-by-three grid.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-044-r2",
+          "text": "It divides a picture into a three-by-three grid. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-044-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-045",
+      "topic": "middle-school-art",
+      "question": "Do I have to follow the rule of thirds?",
+      "alternateQuestions": [],
+      "keywords": [
+        "do i have to follow the rule of thirds",
+        "follow",
+        "thirds"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-045-r1",
+          "text": "No, it is an option rather than a strict rule.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-045-r2",
+          "text": "No, it is an option rather than a strict rule. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-045-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-046",
+      "topic": "middle-school-art",
+      "question": "What is asymmetrical balance?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is asymmetrical balance",
+        "asymmetrical",
+        "balance"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-046-r1",
+          "text": "Unequal elements can still feel visually balanced.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-046-r2",
+          "text": "Unequal elements can still feel visually balanced. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-046-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-047",
+      "topic": "middle-school-art",
+      "question": "Why is negative space important?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why is negative space important",
+        "negative",
+        "space"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-047-r1",
+          "text": "Clear space helps important elements stand out.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-047-r2",
+          "text": "Clear space helps important elements stand out. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-047-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-048",
+      "topic": "middle-school-art",
+      "question": "Why use repetition in design?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why use repetition in design",
+        "repetition",
+        "design"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-048-r1",
+          "text": "Repetition builds visual rhythm and consistency.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-048-r2",
+          "text": "Repetition builds visual rhythm and consistency. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-048-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-049",
+      "topic": "middle-school-art",
+      "question": "How can I make a poster readable?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how can i make a poster readable",
+        "poster",
+        "readable"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-049-r1",
+          "text": "Use a short headline, strong contrast and large lettering.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-049-r2",
+          "text": "Use a short headline, strong contrast and large lettering. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-049-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-050",
+      "topic": "middle-school-art",
+      "question": "How do I choose fonts for a poster?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i choose fonts for a poster",
+        "choose",
+        "fonts"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-050-r1",
+          "text": "Choose readable typefaces and limit competing styles.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-050-r2",
+          "text": "Choose readable typefaces and limit competing styles. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-050-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-051",
+      "topic": "middle-school-art",
+      "question": "What is raster art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is raster art",
+        "raster"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-051-r1",
+          "text": "Raster images are made from pixels.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-051-r2",
+          "text": "Raster images are made from pixels. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-051-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-052",
+      "topic": "middle-school-art",
+      "question": "How are raster and vector images different?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how are raster and vector images different",
+        "raster",
+        "vector"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-052-r1",
+          "text": "Raster uses pixels; vector uses scalable paths.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-052-r2",
+          "text": "Raster uses pixels; vector uses scalable paths. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-052-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-053",
+      "topic": "middle-school-art",
+      "question": "What is a clipping mask?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a clipping mask",
+        "clipping"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-053-r1",
+          "text": "It restricts visible content to another shape.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-053-r2",
+          "text": "It restricts visible content to another shape. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-053-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-054",
+      "topic": "middle-school-art",
+      "question": "What is a layer mask?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a layer mask",
+        "layer"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-054-r1",
+          "text": "It hides or reveals parts of a layer without deleting them.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-054-r2",
+          "text": "It hides or reveals parts of a layer without deleting them. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-054-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-055",
+      "topic": "middle-school-art",
+      "question": "Why use layers in digital art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why use layers in digital art",
+        "layers",
+        "digital"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-055-r1",
+          "text": "Layers let you revise different parts independently.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-055-r2",
+          "text": "Layers let you revise different parts independently. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-055-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-056",
+      "topic": "middle-school-art",
+      "question": "What resolution should I draw at?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what resolution should i draw at",
+        "resolution",
+        "should"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-056-r1",
+          "text": "Choose dimensions based on final display or print size.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-056-r2",
+          "text": "Choose dimensions based on final display or print size. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-056-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-057",
+      "topic": "middle-school-art",
+      "question": "What does DPI mean?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what does dpi mean"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-057-r1",
+          "text": "DPI means printer dots per inch; image pixels and size also matter.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-057-r2",
+          "text": "DPI means printer dots per inch; image pixels and size also matter. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-057-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-058",
+      "topic": "middle-school-art",
+      "question": "How do I create a digital gradient?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i create a digital gradient",
+        "create",
+        "digital"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-058-r1",
+          "text": "Use a gradient tool or softly blend colors.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-058-r2",
+          "text": "Use a gradient tool or softly blend colors. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-058-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-059",
+      "topic": "middle-school-art",
+      "question": "What is opacity?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is opacity",
+        "opacity"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-059-r1",
+          "text": "Opacity controls how much a layer blocks what is behind it.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-059-r2",
+          "text": "Opacity controls how much a layer blocks what is behind it. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-059-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-060",
+      "topic": "middle-school-art",
+      "question": "How do I save an editable art file?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i save an editable art file",
+        "editable"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-060-r1",
+          "text": "Keep a layered master and export separate copies.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-060-r2",
+          "text": "Keep a layered master and export separate copies. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-060-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-061",
+      "topic": "middle-school-art",
+      "question": "What does ISO do in photography?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what does iso do in photography",
+        "photography"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-061-r1",
+          "text": "Higher ISO settings can brighten images but may add noise.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-061-r2",
+          "text": "Higher ISO settings can brighten images but may add noise. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-061-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-062",
+      "topic": "middle-school-art",
+      "question": "How does shutter speed affect motion?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how does shutter speed affect motion",
+        "shutter",
+        "speed"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-062-r1",
+          "text": "Fast speeds freeze motion and slow speeds can blur it.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-062-r2",
+          "text": "Fast speeds freeze motion and slow speeds can blur it. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-062-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-063",
+      "topic": "middle-school-art",
+      "question": "What does aperture change?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what does aperture change",
+        "aperture",
+        "change"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-063-r1",
+          "text": "Aperture affects incoming light and depth of field.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-063-r2",
+          "text": "Aperture affects incoming light and depth of field. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-063-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-064",
+      "topic": "middle-school-art",
+      "question": "What is white balance?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is white balance",
+        "white",
+        "balance"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-064-r1",
+          "text": "White balance adjusts how colors appear under different lighting.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-064-r2",
+          "text": "White balance adjusts how colors appear under different lighting. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-064-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-065",
+      "topic": "middle-school-art",
+      "question": "What is a photo histogram?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a photo histogram",
+        "photo",
+        "histogram"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-065-r1",
+          "text": "It shows the distribution of dark and bright tones.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-065-r2",
+          "text": "It shows the distribution of dark and bright tones. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-065-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-066",
+      "topic": "middle-school-art",
+      "question": "How can I photograph art without glare?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how can i photograph art without glare",
+        "photograph",
+        "without"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-066-r1",
+          "text": "Use soft side lighting and avoid direct reflections.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-066-r2",
+          "text": "Use soft side lighting and avoid direct reflections. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-066-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-067",
+      "topic": "middle-school-art",
+      "question": "How do I take sharp close-up photos?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i take sharp close-up photos",
+        "sharp",
+        "close-up"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-067-r1",
+          "text": "Steady the camera, focus carefully and use enough light.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-067-r2",
+          "text": "Steady the camera, focus carefully and use enough light. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-067-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-068",
+      "topic": "middle-school-art",
+      "question": "What is a storyboard?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a storyboard",
+        "storyboard"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-068-r1",
+          "text": "A storyboard uses sketches to plan a sequence of shots.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-068-r2",
+          "text": "A storyboard uses sketches to plan a sequence of shots. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-068-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-069",
+      "topic": "middle-school-art",
+      "question": "How do I make stop-motion animation?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i make stop-motion animation",
+        "stop-motion",
+        "animation"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-069-r1",
+          "text": "Move an object slightly between photos and play them in order.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-069-r2",
+          "text": "Move an object slightly between photos and play them in order. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-069-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-070",
+      "topic": "middle-school-art",
+      "question": "What is frame rate?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is frame rate",
+        "frame"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-070-r1",
+          "text": "Frame rate is the number of images shown each second.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-070-r2",
+          "text": "Frame rate is the number of images shown each second. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-070-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-071",
+      "topic": "middle-school-art",
+      "question": "What is Impressionism?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is impressionism",
+        "impressionism"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-071-r1",
+          "text": "Impressionism often explores changing light and visible brushwork.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-071-r2",
+          "text": "Impressionism often explores changing light and visible brushwork. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-071-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-072",
+      "topic": "middle-school-art",
+      "question": "What is Cubism?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is cubism",
+        "cubism"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-072-r1",
+          "text": "Cubism explores geometric forms and multiple viewpoints.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-072-r2",
+          "text": "Cubism explores geometric forms and multiple viewpoints. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-072-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-073",
+      "topic": "middle-school-art",
+      "question": "What is Surrealism?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is surrealism",
+        "surrealism"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-073-r1",
+          "text": "Surrealism explores dreams and unexpected imagery.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-073-r2",
+          "text": "Surrealism explores dreams and unexpected imagery. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-073-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-074",
+      "topic": "middle-school-art",
+      "question": "What is Pop Art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is pop art"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-074-r1",
+          "text": "Pop Art often draws from advertising and popular culture.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-074-r2",
+          "text": "Pop Art often draws from advertising and popular culture. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-074-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-075",
+      "topic": "middle-school-art",
+      "question": "What is Abstract Expressionism?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is abstract expressionism",
+        "abstract",
+        "expressionism"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-075-r1",
+          "text": "It includes expressive gesture, color and abstract forms.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-075-r2",
+          "text": "It includes expressive gesture, color and abstract forms. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-075-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-076",
+      "topic": "middle-school-art",
+      "question": "What is a mural?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a mural",
+        "mural"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-076-r1",
+          "text": "A mural is an artwork made on or attached to a wall.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-076-r2",
+          "text": "A mural is an artwork made on or attached to a wall. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-076-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-077",
+      "topic": "middle-school-art",
+      "question": "What is fresco painting?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is fresco painting",
+        "fresco",
+        "painting"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-077-r1",
+          "text": "Fresco uses pigment applied to fresh wet plaster.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-077-r2",
+          "text": "Fresco uses pigment applied to fresh wet plaster. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-077-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-078",
+      "topic": "middle-school-art",
+      "question": "Why study art from other cultures?",
+      "alternateQuestions": [],
+      "keywords": [
+        "why study art from other cultures",
+        "study",
+        "other"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-078-r1",
+          "text": "It helps us understand histories and artistic ideas in context.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-078-r2",
+          "text": "It helps us understand histories and artistic ideas in context. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-078-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-079",
+      "topic": "middle-school-art",
+      "question": "What is cultural appropriation in art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is cultural appropriation in art",
+        "cultural",
+        "appropriation"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-079-r1",
+          "text": "It can involve using cultural elements without respect or context.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-079-r2",
+          "text": "It can involve using cultural elements without respect or context. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-079-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-080",
+      "topic": "middle-school-art",
+      "question": "How can I study traditional art respectfully?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how can i study traditional art respectfully",
+        "study",
+        "traditional"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-080-r1",
+          "text": "Credit communities and avoid copying restricted or sacred designs.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-080-r2",
+          "text": "Credit communities and avoid copying restricted or sacred designs. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-080-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-081",
+      "topic": "middle-school-art",
+      "question": "How do I develop my own art style?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i develop my own art style",
+        "develop",
+        "style"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-081-r1",
+          "text": "Experiment and notice the choices you return to.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-081-r2",
+          "text": "Experiment and notice the choices you return to. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-081-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-082",
+      "topic": "middle-school-art",
+      "question": "What is an art critique?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is an art critique",
+        "critique"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-082-r1",
+          "text": "A critique discusses what art communicates and how it works.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-082-r2",
+          "text": "A critique discusses what art communicates and how it works. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-082-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-083",
+      "topic": "middle-school-art",
+      "question": "How do I give helpful feedback on art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i give helpful feedback on art",
+        "helpful",
+        "feedback"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-083-r1",
+          "text": "Describe strengths and offer constructive observations.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-083-r2",
+          "text": "Describe strengths and offer constructive observations. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-083-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-084",
+      "topic": "middle-school-art",
+      "question": "How can I improve a disappointing drawing?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how can i improve a disappointing drawing",
+        "improve",
+        "disappointing"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-084-r1",
+          "text": "Practice one specific skill and make another attempt.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-084-r2",
+          "text": "Practice one specific skill and make another attempt. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-084-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-085",
+      "topic": "middle-school-art",
+      "question": "How do I plan a large art project?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i plan a large art project",
+        "large",
+        "project"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-085-r1",
+          "text": "Make thumbnails and divide the work into stages.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-085-r2",
+          "text": "Make thumbnails and divide the work into stages. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-085-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-086",
+      "topic": "middle-school-art",
+      "question": "What is a thumbnail sketch?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a thumbnail sketch",
+        "thumbnail",
+        "sketch"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-086-r1",
+          "text": "It is a small quick composition study.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-086-r2",
+          "text": "It is a small quick composition study. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-086-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-087",
+      "topic": "middle-school-art",
+      "question": "Can I copy art to practice?",
+      "alternateQuestions": [],
+      "keywords": [
+        "can i copy art to practice",
+        "practice"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-087-r1",
+          "text": "Yes for study, but credit the source and do not claim it as original.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-087-r2",
+          "text": "Yes for study, but credit the source and do not claim it as original. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-087-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-088",
+      "topic": "middle-school-art",
+      "question": "Can I use online photos in my art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "can i use online photos in my art",
+        "online",
+        "photos"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-088-r1",
+          "text": "Check licensing and permission before reusing them.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-088-r2",
+          "text": "Check licensing and permission before reusing them. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-088-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-089",
+      "topic": "middle-school-art",
+      "question": "Where should I sign my artwork?",
+      "alternateQuestions": [],
+      "keywords": [
+        "where should i sign my artwork",
+        "where",
+        "should"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-089-r1",
+          "text": "Sign consistently where it will not distract.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-089-r2",
+          "text": "Sign consistently where it will not distract. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-089-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-090",
+      "topic": "middle-school-art",
+      "question": "How do I prepare a school art exhibition?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how do i prepare a school art exhibition",
+        "prepare",
+        "school"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-090-r1",
+          "text": "Choose works, add labels and display them securely.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-090-r2",
+          "text": "Choose works, add labels and display them securely. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-090-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-091",
+      "topic": "middle-school-art",
+      "question": "What is a linocut?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a linocut",
+        "linocut"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-091-r1",
+          "text": "A linocut is a relief print made from a carved linoleum block.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-091-r2",
+          "text": "A linocut is a relief print made from a carved linoleum block. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-091-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-092",
+      "topic": "middle-school-art",
+      "question": "How does screen printing work?",
+      "alternateQuestions": [],
+      "keywords": [
+        "how does screen printing work",
+        "screen",
+        "printing"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-092-r1",
+          "text": "Ink passes through open areas of a prepared mesh screen.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-092-r2",
+          "text": "Ink passes through open areas of a prepared mesh screen. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-092-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-093",
+      "topic": "middle-school-art",
+      "question": "What is a monoprint?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a monoprint",
+        "monoprint"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-093-r1",
+          "text": "A monoprint is a print that produces a unique impression.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-093-r2",
+          "text": "A monoprint is a print that produces a unique impression. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-093-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-094",
+      "topic": "middle-school-art",
+      "question": "What is an armature in sculpture?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is an armature in sculpture",
+        "armature",
+        "sculpture"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-094-r1",
+          "text": "An armature is an internal support for a sculpture.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-094-r2",
+          "text": "An armature is an internal support for a sculpture. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-094-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-095",
+      "topic": "middle-school-art",
+      "question": "What is slip in ceramics?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is slip in ceramics",
+        "ceramics"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-095-r1",
+          "text": "Slip is liquid clay used for decoration or joining clay pieces.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-095-r2",
+          "text": "Slip is liquid clay used for decoration or joining clay pieces. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-095-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-096",
+      "topic": "middle-school-art",
+      "question": "What is an art installation?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is an art installation",
+        "installation"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-096-r1",
+          "text": "An installation arranges materials within a space for viewers to experience.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-096-r2",
+          "text": "An installation arranges materials within a space for viewers to experience. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-096-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-097",
+      "topic": "middle-school-art",
+      "question": "What is a diptych?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a diptych",
+        "diptych"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-097-r1",
+          "text": "A diptych is an artwork made of two related panels.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-097-r2",
+          "text": "A diptych is an artwork made of two related panels. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-097-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-098",
+      "topic": "middle-school-art",
+      "question": "What is a triptych?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a triptych",
+        "triptych"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-098-r1",
+          "text": "A triptych is an artwork made of three related panels.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-098-r2",
+          "text": "A triptych is an artwork made of three related panels. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-098-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-099",
+      "topic": "middle-school-art",
+      "question": "What is mixed-media art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is mixed-media art",
+        "mixed-media"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-099-r1",
+          "text": "Mixed-media art combines different artistic materials or techniques.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-099-r2",
+          "text": "Mixed-media art combines different artistic materials or techniques. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-099-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "middle-school-100",
+      "topic": "middle-school-art",
+      "question": "What is a zine?",
+      "alternateQuestions": [],
+      "keywords": [
+        "what is a zine"
+      ],
+      "responses": [
+        {
+          "id": "middle-school-100-r1",
+          "text": "A zine is a small self-published booklet of writing or art.",
+          "weight": 1
+        },
+        {
+          "id": "middle-school-100-r2",
+          "text": "A zine is a small self-published booklet of writing or art. Try a small study to explore the idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "middle-school-100-f1",
+          "text": "Would you like an example or a practice challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "middle-school-editorial-seed",
+      "version": 1,
+      "ageBand": "middle-school"
     }
   ]
 }
