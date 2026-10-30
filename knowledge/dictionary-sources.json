@@ -26,11 +26,30 @@
       "url": "https://artist1970.github.io/creative-spark.github.io/knowledge/stos/terminology.json",
       "purpose": "Fallback technical aliases and terminology",
       "priority": 3
+    },
+    {
+      "id": "academy-sovereign-dictionary",
+      "repository": "vervenveda/Khaemenes_Linguistics.github.io",
+      "path": "data/sovereign-dictionary.v1.json",
+      "url": "https://vervenveda.com/Khaemenes_Linguistics.github.io/data/sovereign-dictionary.v1.json",
+      "purpose": "Canonical source-attributed definitions, creative vocabulary, related terms and source-provided bilingual word pairs",
+      "priority": 2,
+      "trust": "source-attributed unreviewed reference; distinguish creative terms from definitions and draft translations from reviewed translations"
+    },
+    {
+      "id": "academy-interlingual-core",
+      "repository": "vervenveda/Khaemenes_Linguistics.github.io",
+      "path": "assets/khaemenes-interlingual-core.js",
+      "url": "https://vervenveda.com/Khaemenes_Linguistics.github.io/assets/khaemenes-interlingual-core.js",
+      "purpose": "Shared browser translation and dictionary lookup API; integrate via a tested adapter, not by treating JS as JSON",
+      "priority": 2
     }
   ],
   "notes": [
     "Never treat vocabulary words as approved conversational answers.",
     "No cross-repository write access is granted.",
-    "Cross-origin browser fetch requires compatible deployment and CORS; test before enabling live retrieval."
+    "Cross-origin browser fetch requires compatible deployment and CORS; test before enabling live retrieval.",
+    "Academy dictionary has a canonical JSON and a separate offline bundle; verify bundle parity before deployment.",
+    "Never silently treat source-listed related terms as certified synonyms or draft phrase pairs as verified translations."
   ]
 }
