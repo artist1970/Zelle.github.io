@@ -28,6 +28,11 @@
     const normalized = message.toLowerCase();
     const tokens = new Set(words(message));
     let value = 0;
+    const questionForms = [topic.question, ...(topic.alternateQuestions || [])].filter(Boolean);
+    const clean = s => String(s).toLowerCase().replace(/[^a-z0-9 ]/g,"").replace(/\s+/g," ").trim();
+    const incoming = clean(message);
+    if (questionForms.some(q => clean(q) === incoming)) value += 100;
+    else if (questionForms.some(q => incoming.includes(clean(q)) && clean(q).length > 12)) value += 30;
     for (const keyword of topic.keywords || []) {
       const key = String(keyword).toLowerCase();
       if (key.includes(" ") ? normalized.includes(key) : tokens.has(key)) value += key.includes(" ") ? 5 : 3;
