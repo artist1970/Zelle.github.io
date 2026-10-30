@@ -1,0 +1,382 @@
+{
+  "schema": "zelle-question-collection-v1",
+  "version": 1,
+  "records": [
+    {
+      "schema": "zelle-question-v1",
+      "id": "drawing-start",
+      "topic": "drawing",
+      "question": "How do I start drawing?",
+      "alternateQuestions": [
+        "What should I draw first?"
+      ],
+      "keywords": [
+        "draw",
+        "drawing",
+        "sketch",
+        "beginner",
+        "start drawing"
+      ],
+      "responses": [
+        {
+          "id": "drawing-start-r1",
+          "text": "Begin with a simple object. Look for its largest shapes before adding details. What would you like to draw?",
+          "weight": 1
+        },
+        {
+          "id": "drawing-start-r2",
+          "text": "Try a five-minute sketch using only circles, rectangles, and lines. What subject interests you?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "drawing-start-f1",
+          "text": "Do you prefer pencil, charcoal, or ink?",
+          "weight": 1
+        },
+        {
+          "id": "drawing-start-f2",
+          "text": "Would you like to draw from observation or imagination?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "pencil",
+      "topic": "drawing",
+      "question": "What pencil should I use?",
+      "alternateQuestions": [
+        "I like pencil."
+      ],
+      "keywords": [
+        "pencil",
+        "graphite",
+        "hb",
+        "2b",
+        "eraser"
+      ],
+      "responses": [
+        {
+          "id": "pencil-r1",
+          "text": "Pencil is a wonderful choice. Start with light marks, then strengthen the outlines you want to keep. Are you drawing an object or a scene?",
+          "weight": 1
+        },
+        {
+          "id": "pencil-r2",
+          "text": "Try holding your pencil lightly and shading from pale to dark. What are you sketching today?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "pencil-f1",
+          "text": "Would you like a simple shading exercise?",
+          "weight": 1
+        },
+        {
+          "id": "pencil-f2",
+          "text": "What are you drawing with your pencil?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "still-life",
+      "topic": "drawing",
+      "question": "How do I draw a still life?",
+      "alternateQuestions": [
+        "I am doing a still life."
+      ],
+      "keywords": [
+        "still life",
+        "still-life",
+        "fruit",
+        "vase",
+        "objects",
+        "bowl"
+      ],
+      "responses": [
+        {
+          "id": "still-life-r1",
+          "text": "Arrange two or three objects where the light comes from one side. Sketch their big shapes first, then compare their heights and spacing.",
+          "weight": 1
+        },
+        {
+          "id": "still-life-r2",
+          "text": "For your still life, notice the darkest shadow and the lightest highlight. Block in the shapes before drawing details.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "still-life-f1",
+          "text": "Which objects are in your still life?",
+          "weight": 1
+        },
+        {
+          "id": "still-life-f2",
+          "text": "Would you like to work on proportions or shading next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "shading",
+      "topic": "drawing",
+      "question": "How do I shade with pencil?",
+      "alternateQuestions": [],
+      "keywords": [
+        "shade",
+        "shading",
+        "shadow",
+        "highlight",
+        "value"
+      ],
+      "responses": [
+        {
+          "id": "shading-r1",
+          "text": "Choose one light source. Keep the light-facing side pale and build darker values gradually on the opposite side.",
+          "weight": 1
+        },
+        {
+          "id": "shading-r2",
+          "text": "Try a five-step value scale from white paper to your darkest graphite, then use it on one object.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "shading-f1",
+          "text": "Where is your light coming from?",
+          "weight": 1
+        },
+        {
+          "id": "shading-f2",
+          "text": "Would you like a quick value-scale exercise?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "color",
+      "topic": "painting",
+      "question": "How do I choose colors?",
+      "alternateQuestions": [],
+      "keywords": [
+        "color",
+        "colour",
+        "palette",
+        "hue",
+        "contrast",
+        "painting"
+      ],
+      "responses": [
+        {
+          "id": "color-r1",
+          "text": "Choose one dominant color, one supporting color, and one accent. Which mood are you trying to create?",
+          "weight": 1
+        },
+        {
+          "id": "color-r2",
+          "text": "Try a limited palette of three colors first. Notice how warm and cool colors change the feeling.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "color-f1",
+          "text": "Are you working in paint, digital art, or another medium?",
+          "weight": 1
+        },
+        {
+          "id": "color-f2",
+          "text": "What feeling should the colors communicate?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "composition",
+      "topic": "design",
+      "question": "How do I improve my composition?",
+      "alternateQuestions": [],
+      "keywords": [
+        "composition",
+        "focal point",
+        "layout",
+        "balance"
+      ],
+      "responses": [
+        {
+          "id": "composition-r1",
+          "text": "Make three small thumbnails with different focal points. Which one guides your eye most clearly?",
+          "weight": 1
+        },
+        {
+          "id": "composition-r2",
+          "text": "Try shifting your subject away from the center and leaving some breathing room around it.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "composition-f1",
+          "text": "What should the viewer notice first?",
+          "weight": 1
+        },
+        {
+          "id": "composition-f2",
+          "text": "Would you like to explore balance or contrast?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "photography",
+      "topic": "photography",
+      "question": "How do I take a better photo?",
+      "alternateQuestions": [],
+      "keywords": [
+        "photo",
+        "photography",
+        "camera",
+        "portrait",
+        "lens"
+      ],
+      "responses": [
+        {
+          "id": "photography-r1",
+          "text": "Begin with your light. Move around the subject and notice how the shadows change before taking the picture.",
+          "weight": 1
+        },
+        {
+          "id": "photography-r2",
+          "text": "Try photographing the same subject from three different heights. Which angle tells the strongest story?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "photography-f1",
+          "text": "Are you photographing a person, object, or landscape?",
+          "weight": 1
+        },
+        {
+          "id": "photography-f2",
+          "text": "Is your biggest challenge light or framing?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "creative-block",
+      "topic": "creative-process",
+      "question": "What do I do when I feel stuck?",
+      "alternateQuestions": [],
+      "keywords": [
+        "stuck",
+        "blocked",
+        "creative block",
+        "no ideas",
+        "inspiration"
+      ],
+      "responses": [
+        {
+          "id": "creative-block-r1",
+          "text": "Give yourself permission to make three imperfect studies. Which tiny experiment could you finish in five minutes?",
+          "weight": 1
+        },
+        {
+          "id": "creative-block-r2",
+          "text": "Pick one material and one shape, and make a page of variations without judging them.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "creative-block-f1",
+          "text": "Would a short prompt or a practical exercise help?",
+          "weight": 1
+        },
+        {
+          "id": "creative-block-f2",
+          "text": "What material do you have nearby?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "safety",
+      "topic": "community",
+      "question": "How do I report a problem?",
+      "alternateQuestions": [],
+      "keywords": [
+        "report",
+        "harassment",
+        "spam",
+        "bullying",
+        "threat",
+        "moderator"
+      ],
+      "responses": [
+        {
+          "id": "safety-r1",
+          "text": "I can explain community safety, but this chat cannot submit a report or take moderation action. Please use the live feed's existing reporting controls.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "safety-f1",
+          "text": "Would you like help describing the issue without sharing private details?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    }
+  ]
+}
