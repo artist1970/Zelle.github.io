@@ -1,0 +1,36 @@
+{
+  "schema": "zelle-dictionary-sources-v1",
+  "version": 1,
+  "policy": "Read-only external vocabulary and terminology. Zelle question-records.json remains authoritative for approved answers.",
+  "sources": [
+    {
+      "id": "creative-vocabulary",
+      "repository": "artist1970/creative-spark.github.io",
+      "path": "Dictionary/creative_dictionary_v2.json",
+      "url": "https://artist1970.github.io/creative-spark.github.io/Dictionary/creative_dictionary_v2.json",
+      "purpose": "Creative vocabulary for recognizing art media, themes, emotions, and symbols",
+      "priority": 1
+    },
+    {
+      "id": "stos-definitions",
+      "repository": "artist1970/creative-spark.github.io",
+      "path": "knowledge/stos/dictionary.json",
+      "url": "https://artist1970.github.io/creative-spark.github.io/knowledge/stos/dictionary.json",
+      "purpose": "Technical and ecosystem definitions",
+      "priority": 2
+    },
+    {
+      "id": "stos-terminology",
+      "repository": "artist1970/creative-spark.github.io",
+      "path": "knowledge/stos/terminology.json",
+      "url": "https://artist1970.github.io/creative-spark.github.io/knowledge/stos/terminology.json",
+      "purpose": "Fallback technical aliases and terminology",
+      "priority": 3
+    }
+  ],
+  "notes": [
+    "Never treat vocabulary words as approved conversational answers.",
+    "No cross-repository write access is granted.",
+    "Cross-origin browser fetch requires compatible deployment and CORS; test before enabling live retrieval."
+  ]
+}
