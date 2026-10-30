@@ -763,6 +763,1716 @@
       "status": "approved",
       "source": "editorial-seed",
       "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-negative-space",
+      "topic": "drawing",
+      "question": "How do I draw negative space?",
+      "alternateQuestions": [],
+      "keywords": [
+        "negative space",
+        "negative"
+      ],
+      "responses": [
+        {
+          "id": "art-negative-space-r1",
+          "text": "Draw the gaps around objects instead of outlining the objects themselves.",
+          "weight": 1
+        },
+        {
+          "id": "art-negative-space-r2",
+          "text": "Compare the shapes between chair legs or leaves to check proportions.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-negative-space-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-crosshatching",
+      "topic": "drawing",
+      "question": "How does crosshatching work?",
+      "alternateQuestions": [],
+      "keywords": [
+        "crosshatching",
+        "crosshatching"
+      ],
+      "responses": [
+        {
+          "id": "art-crosshatching-r1",
+          "text": "Use parallel lines for tone, then add crossing lines to deepen shadows.",
+          "weight": 1
+        },
+        {
+          "id": "art-crosshatching-r2",
+          "text": "Vary line spacing before adding more layers to control darkness.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-crosshatching-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-graphite-blending",
+      "topic": "drawing",
+      "question": "How do I blend graphite?",
+      "alternateQuestions": [],
+      "keywords": [
+        "graphite blending",
+        "graphite"
+      ],
+      "responses": [
+        {
+          "id": "art-graphite-blending-r1",
+          "text": "Layer light strokes before gently blending with a clean stump.",
+          "weight": 1
+        },
+        {
+          "id": "art-graphite-blending-r2",
+          "text": "Use several pencil grades to create gradual values without smearing highlights.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-graphite-blending-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-eraser-art",
+      "topic": "drawing",
+      "question": "How can I draw with an eraser?",
+      "alternateQuestions": [],
+      "keywords": [
+        "eraser art",
+        "eraser"
+      ],
+      "responses": [
+        {
+          "id": "art-eraser-art-r1",
+          "text": "Lift highlights from graphite with a shaped kneaded eraser.",
+          "weight": 1
+        },
+        {
+          "id": "art-eraser-art-r2",
+          "text": "Try subtractive drawing by darkening a patch and erasing the light shapes.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-eraser-art-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-hands",
+      "topic": "drawing",
+      "question": "How do I draw hands?",
+      "alternateQuestions": [],
+      "keywords": [
+        "hands"
+      ],
+      "responses": [
+        {
+          "id": "art-hands-r1",
+          "text": "Block in the palm and treat fingers as jointed cylinders.",
+          "weight": 1
+        },
+        {
+          "id": "art-hands-r2",
+          "text": "Draw the overall gesture before refining knuckles and finger lengths.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-hands-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-faces",
+      "topic": "drawing",
+      "question": "How do I draw faces?",
+      "alternateQuestions": [],
+      "keywords": [
+        "faces"
+      ],
+      "responses": [
+        {
+          "id": "art-faces-r1",
+          "text": "Begin with the head shape and light placement guides.",
+          "weight": 1
+        },
+        {
+          "id": "art-faces-r2",
+          "text": "Compare feature spacing from observation before adding details.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-faces-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-eyes",
+      "topic": "drawing",
+      "question": "How do I draw eyes?",
+      "alternateQuestions": [],
+      "keywords": [
+        "eyes"
+      ],
+      "responses": [
+        {
+          "id": "art-eyes-r1",
+          "text": "Think of eyelids wrapping around a rounded form.",
+          "weight": 1
+        },
+        {
+          "id": "art-eyes-r2",
+          "text": "Notice the upper-lid shadow and reserve a small highlight.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-eyes-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-hair",
+      "topic": "drawing",
+      "question": "How do I draw hair?",
+      "alternateQuestions": [],
+      "keywords": [
+        "hair"
+      ],
+      "responses": [
+        {
+          "id": "art-hair-r1",
+          "text": "Sketch the overall hair mass before individual strands.",
+          "weight": 1
+        },
+        {
+          "id": "art-hair-r2",
+          "text": "Group locks into light and dark shapes to show volume.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-hair-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-anatomy",
+      "topic": "drawing",
+      "question": "How do I learn figure anatomy?",
+      "alternateQuestions": [],
+      "keywords": [
+        "anatomy",
+        "figure",
+        "anatomy"
+      ],
+      "responses": [
+        {
+          "id": "art-anatomy-r1",
+          "text": "Begin with gesture and simple rib-cage and pelvis masses.",
+          "weight": 1
+        },
+        {
+          "id": "art-anatomy-r2",
+          "text": "Study joints and major forms from reference rather than memorizing every muscle.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-anatomy-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-landscape",
+      "topic": "drawing",
+      "question": "How do I draw landscapes?",
+      "alternateQuestions": [],
+      "keywords": [
+        "landscape",
+        "landscapes"
+      ],
+      "responses": [
+        {
+          "id": "art-landscape-r1",
+          "text": "Divide the view into foreground, middle ground and background.",
+          "weight": 1
+        },
+        {
+          "id": "art-landscape-r2",
+          "text": "Use less contrast and fewer details in distant forms.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-landscape-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-urban-sketch",
+      "topic": "drawing",
+      "question": "How do I sketch buildings?",
+      "alternateQuestions": [],
+      "keywords": [
+        "urban sketch",
+        "sketch",
+        "buildings"
+      ],
+      "responses": [
+        {
+          "id": "art-urban-sketch-r1",
+          "text": "Start with major verticals and horizontals of one building.",
+          "weight": 1
+        },
+        {
+          "id": "art-urban-sketch-r2",
+          "text": "Capture large street shapes before windows and signs.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-urban-sketch-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-ink",
+      "topic": "drawing",
+      "question": "How do I draw with ink?",
+      "alternateQuestions": [],
+      "keywords": [
+        "ink"
+      ],
+      "responses": [
+        {
+          "id": "art-ink-r1",
+          "text": "Practice line weights and hatching on scrap paper.",
+          "weight": 1
+        },
+        {
+          "id": "art-ink-r2",
+          "text": "Plan highlights before applying permanent ink.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-ink-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-oil",
+      "topic": "painting",
+      "question": "How do I begin oil painting?",
+      "alternateQuestions": [],
+      "keywords": [
+        "oil",
+        "painting"
+      ],
+      "responses": [
+        {
+          "id": "art-oil-r1",
+          "text": "Start with a small value study and limited palette on a prepared surface.",
+          "weight": 1
+        },
+        {
+          "id": "art-oil-r2",
+          "text": "Establish broad shapes before refining edges; follow material safety directions.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-oil-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-gouache",
+      "topic": "painting",
+      "question": "What is gouache?",
+      "alternateQuestions": [],
+      "keywords": [
+        "gouache",
+        "gouache"
+      ],
+      "responses": [
+        {
+          "id": "art-gouache-r1",
+          "text": "Gouache is an opaque water-based paint suited to flat shapes.",
+          "weight": 1
+        },
+        {
+          "id": "art-gouache-r2",
+          "text": "Test how water changes opacity and let lower layers dry.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-gouache-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-pastel",
+      "topic": "painting",
+      "question": "How do I use soft pastels?",
+      "alternateQuestions": [],
+      "keywords": [
+        "pastel",
+        "pastels"
+      ],
+      "responses": [
+        {
+          "id": "art-pastel-r1",
+          "text": "Block broad color areas with the side of a pastel.",
+          "weight": 1
+        },
+        {
+          "id": "art-pastel-r2",
+          "text": "Use suitable textured paper and avoid creating airborne pigment dust.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-pastel-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-underpainting",
+      "topic": "painting",
+      "question": "What is an underpainting?",
+      "alternateQuestions": [],
+      "keywords": [
+        "underpainting",
+        "underpainting"
+      ],
+      "responses": [
+        {
+          "id": "art-underpainting-r1",
+          "text": "An underpainting establishes shapes and values before final color.",
+          "weight": 1
+        },
+        {
+          "id": "art-underpainting-r2",
+          "text": "Try a monochrome study to solve light and dark first.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-underpainting-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-glazing",
+      "topic": "painting",
+      "question": "How does painting glaze work?",
+      "alternateQuestions": [],
+      "keywords": [
+        "glazing",
+        "painting"
+      ],
+      "responses": [
+        {
+          "id": "art-glazing-r1",
+          "text": "Apply a thin transparent layer over a dry paint layer.",
+          "weight": 1
+        },
+        {
+          "id": "art-glazing-r2",
+          "text": "Test transparency on a sample and follow medium-specific guidance.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-glazing-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-edges",
+      "topic": "painting",
+      "question": "How do I paint soft edges?",
+      "alternateQuestions": [],
+      "keywords": [
+        "edges"
+      ],
+      "responses": [
+        {
+          "id": "art-edges-r1",
+          "text": "Use softer transitions away from the focal point.",
+          "weight": 1
+        },
+        {
+          "id": "art-edges-r2",
+          "text": "Squint to see where neighboring shapes merge.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-edges-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-light",
+      "topic": "painting",
+      "question": "How do I paint convincing light?",
+      "alternateQuestions": [],
+      "keywords": [
+        "light",
+        "convincing"
+      ],
+      "responses": [
+        {
+          "id": "art-light-r1",
+          "text": "Identify highlights, midtones, core shadows and cast shadows.",
+          "weight": 1
+        },
+        {
+          "id": "art-light-r2",
+          "text": "Simplify the scene into three values before choosing colors.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-light-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-canvas",
+      "topic": "painting",
+      "question": "How do I prepare a canvas?",
+      "alternateQuestions": [],
+      "keywords": [
+        "canvas",
+        "prepare",
+        "canvas"
+      ],
+      "responses": [
+        {
+          "id": "art-canvas-r1",
+          "text": "Check whether the canvas is already primed.",
+          "weight": 1
+        },
+        {
+          "id": "art-canvas-r2",
+          "text": "Apply compatible primer in thin coats if needed, following product instructions.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-canvas-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-brush-care",
+      "topic": "painting",
+      "question": "How do I clean paintbrushes?",
+      "alternateQuestions": [],
+      "keywords": [
+        "brush care",
+        "paintbrushes"
+      ],
+      "responses": [
+        {
+          "id": "art-brush-care-r1",
+          "text": "Clean water-based paints before they dry and reshape bristles.",
+          "weight": 1
+        },
+        {
+          "id": "art-brush-care-r2",
+          "text": "Follow product guidance for oil-paint cleanup and solvent disposal.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-brush-care-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-palette-knife",
+      "topic": "painting",
+      "question": "How do I paint with a palette knife?",
+      "alternateQuestions": [],
+      "keywords": [
+        "palette knife",
+        "palette"
+      ],
+      "responses": [
+        {
+          "id": "art-palette-knife-r1",
+          "text": "Spread broad patches of color with the flat blade.",
+          "weight": 1
+        },
+        {
+          "id": "art-palette-knife-r2",
+          "text": "Drag adjacent colors lightly for textured broken-color effects.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-palette-knife-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-color-wheel",
+      "topic": "color",
+      "question": "How does the color wheel help?",
+      "alternateQuestions": [],
+      "keywords": [
+        "color wheel"
+      ],
+      "responses": [
+        {
+          "id": "art-color-wheel-r1",
+          "text": "Use the wheel to compare analogous and complementary colors.",
+          "weight": 1
+        },
+        {
+          "id": "art-color-wheel-r2",
+          "text": "Explore lighter, darker, warmer and cooler versions of one hue.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-color-wheel-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-complements",
+      "topic": "color",
+      "question": "What are complementary colors?",
+      "alternateQuestions": [],
+      "keywords": [
+        "complements",
+        "complementary",
+        "colors"
+      ],
+      "responses": [
+        {
+          "id": "art-complements-r1",
+          "text": "They sit opposite one another on a traditional artist color wheel.",
+          "weight": 1
+        },
+        {
+          "id": "art-complements-r2",
+          "text": "Use a small complementary accent to strengthen contrast.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-complements-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-warm-cool",
+      "topic": "color",
+      "question": "What are warm and cool colors?",
+      "alternateQuestions": [],
+      "keywords": [
+        "warm cool",
+        "colors"
+      ],
+      "responses": [
+        {
+          "id": "art-warm-cool-r1",
+          "text": "Compare warm yellows and reds with cooler blues and blue-greens.",
+          "weight": 1
+        },
+        {
+          "id": "art-warm-cool-r2",
+          "text": "Temperature is relative; compare two versions of the same hue.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-warm-cool-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-neutrals",
+      "topic": "color",
+      "question": "How do I mix neutral colors?",
+      "alternateQuestions": [],
+      "keywords": [
+        "neutrals",
+        "neutral",
+        "colors"
+      ],
+      "responses": [
+        {
+          "id": "art-neutrals-r1",
+          "text": "Try small amounts of complementary pigments to make muted hues.",
+          "weight": 1
+        },
+        {
+          "id": "art-neutrals-r2",
+          "text": "Adjust slowly because exact results depend on the pigments.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-neutrals-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-harmony",
+      "topic": "color",
+      "question": "How do I make harmonious colors?",
+      "alternateQuestions": [],
+      "keywords": [
+        "harmony",
+        "harmonious",
+        "colors"
+      ],
+      "responses": [
+        {
+          "id": "art-harmony-r1",
+          "text": "Repeat a small family of colors across the piece.",
+          "weight": 1
+        },
+        {
+          "id": "art-harmony-r2",
+          "text": "Choose a dominant hue and let supporting colors reinforce it.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-harmony-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-texture",
+      "topic": "mixed-media",
+      "question": "How can I add texture to art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "texture",
+        "texture"
+      ],
+      "responses": [
+        {
+          "id": "art-texture-r1",
+          "text": "Contrast smooth and rough passages for visual interest.",
+          "weight": 1
+        },
+        {
+          "id": "art-texture-r2",
+          "text": "Test compatible materials on a small sample first.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-texture-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-collage",
+      "topic": "mixed-media",
+      "question": "How do I arrange a collage?",
+      "alternateQuestions": [],
+      "keywords": [
+        "collage",
+        "arrange",
+        "collage"
+      ],
+      "responses": [
+        {
+          "id": "art-collage-r1",
+          "text": "Arrange pieces before gluing and establish a focal point.",
+          "weight": 1
+        },
+        {
+          "id": "art-collage-r2",
+          "text": "Repeat a few shapes or colors to unify the fragments.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-collage-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-monoprint",
+      "topic": "printmaking",
+      "question": "How can I try printmaking?",
+      "alternateQuestions": [],
+      "keywords": [
+        "monoprint",
+        "printmaking"
+      ],
+      "responses": [
+        {
+          "id": "art-monoprint-r1",
+          "text": "Try a simple monoprint using washable paint and a smooth surface.",
+          "weight": 1
+        },
+        {
+          "id": "art-monoprint-r2",
+          "text": "Experiment with pressure and paper placement to vary each impression.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-monoprint-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-linocut",
+      "topic": "printmaking",
+      "question": "What is linocut printing?",
+      "alternateQuestions": [],
+      "keywords": [
+        "linocut",
+        "linocut",
+        "printing"
+      ],
+      "responses": [
+        {
+          "id": "art-linocut-r1",
+          "text": "Raised areas receive ink while cut-away areas remain unprinted.",
+          "weight": 1
+        },
+        {
+          "id": "art-linocut-r2",
+          "text": "Plan a bold design first; carving tools need careful handling and supervision.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-linocut-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-clay",
+      "topic": "sculpture",
+      "question": "How do I start sculpting clay?",
+      "alternateQuestions": [],
+      "keywords": [
+        "clay",
+        "sculpting"
+      ],
+      "responses": [
+        {
+          "id": "art-clay-r1",
+          "text": "Make a pinch pot or coil form to learn how clay responds.",
+          "weight": 1
+        },
+        {
+          "id": "art-clay-r2",
+          "text": "Keep walls even and follow joining instructions for your clay type.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-clay-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-balance",
+      "topic": "sculpture",
+      "question": "How do I balance a sculpture?",
+      "alternateQuestions": [],
+      "keywords": [
+        "balance",
+        "balance",
+        "sculpture"
+      ],
+      "responses": [
+        {
+          "id": "art-balance-r1",
+          "text": "Place the weight over a stable base.",
+          "weight": 1
+        },
+        {
+          "id": "art-balance-r2",
+          "text": "Build a small mock-up to test center of gravity.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-balance-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-ceramic-glaze",
+      "topic": "sculpture",
+      "question": "How do I glaze ceramics?",
+      "alternateQuestions": [],
+      "keywords": [
+        "ceramic glaze",
+        "ceramics"
+      ],
+      "responses": [
+        {
+          "id": "art-ceramic-glaze-r1",
+          "text": "Use glaze compatible with the clay and firing range.",
+          "weight": 1
+        },
+        {
+          "id": "art-ceramic-glaze-r2",
+          "text": "Follow studio firing guidance; decorative glaze is not automatically food-safe.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-ceramic-glaze-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-layers",
+      "topic": "digital-art",
+      "question": "How do digital art layers work?",
+      "alternateQuestions": [],
+      "keywords": [
+        "layers",
+        "digital",
+        "layers"
+      ],
+      "responses": [
+        {
+          "id": "art-layers-r1",
+          "text": "Keep sketch, color and shading on separate layers.",
+          "weight": 1
+        },
+        {
+          "id": "art-layers-r2",
+          "text": "Name layers and save an editable copy before flattening.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-layers-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-digital-brush",
+      "topic": "digital-art",
+      "question": "Which digital brush should I use?",
+      "alternateQuestions": [],
+      "keywords": [
+        "digital brush",
+        "digital",
+        "should"
+      ],
+      "responses": [
+        {
+          "id": "art-digital-brush-r1",
+          "text": "Begin with one round brush and learn opacity and size.",
+          "weight": 1
+        },
+        {
+          "id": "art-digital-brush-r2",
+          "text": "Limit presets while practicing form and value.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-digital-brush-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-pixel",
+      "topic": "digital-art",
+      "question": "How do I make pixel art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "pixel"
+      ],
+      "responses": [
+        {
+          "id": "art-pixel-r1",
+          "text": "Start with a small grid and clear silhouette.",
+          "weight": 1
+        },
+        {
+          "id": "art-pixel-r2",
+          "text": "Use a limited palette and check the image at native size.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-pixel-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-vector",
+      "topic": "digital-art",
+      "question": "What is vector art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "vector",
+        "vector"
+      ],
+      "responses": [
+        {
+          "id": "art-vector-r1",
+          "text": "Vector images use scalable editable paths.",
+          "weight": 1
+        },
+        {
+          "id": "art-vector-r2",
+          "text": "Practice a simple icon with a few Bézier curves.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-vector-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-exposure",
+      "topic": "photography",
+      "question": "What is exposure in photography?",
+      "alternateQuestions": [],
+      "keywords": [
+        "exposure",
+        "exposure",
+        "photography"
+      ],
+      "responses": [
+        {
+          "id": "art-exposure-r1",
+          "text": "Aperture, shutter speed and ISO together affect exposure.",
+          "weight": 1
+        },
+        {
+          "id": "art-exposure-r2",
+          "text": "Change one setting at a time to learn its effect.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-exposure-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-depth",
+      "topic": "photography",
+      "question": "How do I blur a photo background?",
+      "alternateQuestions": [],
+      "keywords": [
+        "depth",
+        "background"
+      ],
+      "responses": [
+        {
+          "id": "art-depth-r1",
+          "text": "Move the subject farther from the background.",
+          "weight": 1
+        },
+        {
+          "id": "art-depth-r2",
+          "text": "Where available, use a wider aperture and keep the subject sharp.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-depth-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-framing",
+      "topic": "photography",
+      "question": "How can I frame photographs?",
+      "alternateQuestions": [],
+      "keywords": [
+        "framing",
+        "photographs"
+      ],
+      "responses": [
+        {
+          "id": "art-framing-r1",
+          "text": "Use windows or branches to frame your subject.",
+          "weight": 1
+        },
+        {
+          "id": "art-framing-r2",
+          "text": "Check the image edges for distractions.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-framing-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-editing",
+      "topic": "photography",
+      "question": "How should I edit photographs?",
+      "alternateQuestions": [],
+      "keywords": [
+        "editing",
+        "should",
+        "photographs"
+      ],
+      "responses": [
+        {
+          "id": "art-editing-r1",
+          "text": "Start with crop, exposure and white balance.",
+          "weight": 1
+        },
+        {
+          "id": "art-editing-r2",
+          "text": "Compare adjustments against the original to avoid losing detail.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-editing-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-style",
+      "topic": "art-history",
+      "question": "How do I develop an art style?",
+      "alternateQuestions": [],
+      "keywords": [
+        "style",
+        "develop"
+      ],
+      "responses": [
+        {
+          "id": "art-style-r1",
+          "text": "Notice recurring subjects, marks and moods in your studies.",
+          "weight": 1
+        },
+        {
+          "id": "art-style-r2",
+          "text": "Experiment broadly and keep techniques that serve your ideas.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-style-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-history",
+      "topic": "art-history",
+      "question": "Why study art history?",
+      "alternateQuestions": [],
+      "keywords": [
+        "history",
+        "history"
+      ],
+      "responses": [
+        {
+          "id": "art-history-r1",
+          "text": "Compare how materials, cultures and patrons shaped artworks.",
+          "weight": 1
+        },
+        {
+          "id": "art-history-r2",
+          "text": "Study one work closely before adapting a technique.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-history-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-abstract",
+      "topic": "art-history",
+      "question": "How do I create abstract art?",
+      "alternateQuestions": [],
+      "keywords": [
+        "abstract",
+        "create",
+        "abstract"
+      ],
+      "responses": [
+        {
+          "id": "art-abstract-r1",
+          "text": "Express a mood through shapes, rhythm and color.",
+          "weight": 1
+        },
+        {
+          "id": "art-abstract-r2",
+          "text": "Simplify a familiar object into increasingly abstract forms.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-abstract-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-portfolio",
+      "topic": "creative-process",
+      "question": "How do I build an art portfolio?",
+      "alternateQuestions": [],
+      "keywords": [
+        "portfolio",
+        "portfolio"
+      ],
+      "responses": [
+        {
+          "id": "art-portfolio-r1",
+          "text": "Choose strong pieces that show your range and intentions.",
+          "weight": 1
+        },
+        {
+          "id": "art-portfolio-r2",
+          "text": "Order works deliberately and add concise process notes.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-portfolio-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-pricing",
+      "topic": "creative-process",
+      "question": "How do I price my artwork?",
+      "alternateQuestions": [],
+      "keywords": [
+        "pricing",
+        "artwork"
+      ],
+      "responses": [
+        {
+          "id": "art-pricing-r1",
+          "text": "Estimate materials, time, overhead and comparable market prices.",
+          "weight": 1
+        },
+        {
+          "id": "art-pricing-r2",
+          "text": "Keep cost records and adjust for the type of work.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-pricing-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-statement",
+      "topic": "creative-process",
+      "question": "How do I write an artist statement?",
+      "alternateQuestions": [],
+      "keywords": [
+        "statement",
+        "artist",
+        "statement"
+      ],
+      "responses": [
+        {
+          "id": "art-statement-r1",
+          "text": "Explain what you make, why and how your materials support it.",
+          "weight": 1
+        },
+        {
+          "id": "art-statement-r2",
+          "text": "Use a concrete example instead of abstract praise.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-statement-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-routine",
+      "topic": "creative-process",
+      "question": "How can I practice art regularly?",
+      "alternateQuestions": [],
+      "keywords": [
+        "routine",
+        "practice",
+        "regularly"
+      ],
+      "responses": [
+        {
+          "id": "art-routine-r1",
+          "text": "Set a manageable ten-minute observation practice.",
+          "weight": 1
+        },
+        {
+          "id": "art-routine-r2",
+          "text": "Rotate exercises, experiments and personal projects.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-routine-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "art-reference",
+      "topic": "creative-process",
+      "question": "How should I use art reference photos?",
+      "alternateQuestions": [],
+      "keywords": [
+        "reference",
+        "should",
+        "reference",
+        "photos"
+      ],
+      "responses": [
+        {
+          "id": "art-reference-r1",
+          "text": "Study the reference for light, proportion and structure rather than tracing blindly.",
+          "weight": 1
+        },
+        {
+          "id": "art-reference-r2",
+          "text": "Use photos you have rights to use and combine observations with your own decisions.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "art-reference-f1",
+          "text": "What part would you like to explore or practice next?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
     }
   ]
 }
