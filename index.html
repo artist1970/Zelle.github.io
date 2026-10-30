@@ -220,15 +220,15 @@ footer{
 
 <section aria-labelledby="zelle-chat-title">
   <h2 id="zelle-chat-title">Talk with Zelle · Creative Studio</h2>
-  <p class="copy">Explore artistic ideas with Zelle's local guided conversation. This is a scripted, offline-friendly creative companion—not a connected AI chatbot or a live moderation channel.</p>
+  <p class="copy">Explore artistic ideas using Zelle's curated question library and varied responses. This is an offline-friendly, rule-based creative companion—not a live AI or moderation channel.</p>
   <div class="zelle-chat" id="zelle-conversation">
     <div class="zelle-chat-log" data-zelle-log role="log" aria-live="polite" aria-label="Creative conversation"></div>
     <form>
       <label for="zelle-chat-input">Your creative question</label>
       <textarea id="zelle-chat-input" maxlength="2000" placeholder="I'm working on a painting, but the colors feel flat..." required></textarea>
-      <div class="zelle-chat-actions"><button type="submit">Explore with Zelle</button><button type="button" class="secondary" data-zelle-clear>Clear conversation</button></div>
+      <div class="zelle-chat-actions"><button type="submit">Explore with Zelle</button><button type="button" class="secondary" data-zelle-clear>Clear conversation</button><button type="button" class="secondary" data-zelle-export>Export unanswered questions</button></div>
     </form>
-    <p class="zelle-chat-status" data-zelle-status>No login required. Messages stay in this browser page and are not saved.</p>
+    <p class="zelle-chat-status" data-zelle-status>No login required. Unknown questions may be saved on this device for optional JSON export; nothing is automatically uploaded.</p>
   </div>
 </section>
 
