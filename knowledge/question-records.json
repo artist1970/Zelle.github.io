@@ -377,6 +377,392 @@
       "status": "approved",
       "source": "editorial-seed",
       "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "proportions",
+      "topic": "drawing",
+      "question": "How can I draw proportions accurately?",
+      "alternateQuestions": [],
+      "keywords": [
+        "proportion",
+        "proportions",
+        "measure"
+      ],
+      "responses": [
+        {
+          "id": "proportions-r1",
+          "text": "Compare the height and width of your subject before adding details.",
+          "weight": 1
+        },
+        {
+          "id": "proportions-r2",
+          "text": "Use light guide marks to compare the relative size of each part.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "proportions-f1",
+          "text": "Which part seems too large or too small?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "perspective",
+      "topic": "drawing",
+      "question": "How do I draw perspective?",
+      "alternateQuestions": [],
+      "keywords": [
+        "perspective",
+        "vanishing point",
+        "horizon"
+      ],
+      "responses": [
+        {
+          "id": "perspective-r1",
+          "text": "Start with a horizon line and one vanishing point; let receding edges meet there.",
+          "weight": 1
+        },
+        {
+          "id": "perspective-r2",
+          "text": "Try drawing a simple road that narrows toward a point in the distance.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "perspective-f1",
+          "text": "Would you like to try one-point perspective?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "contour",
+      "topic": "drawing",
+      "question": "What is contour drawing?",
+      "alternateQuestions": [],
+      "keywords": [
+        "contour",
+        "outline",
+        "line drawing"
+      ],
+      "responses": [
+        {
+          "id": "contour-r1",
+          "text": "Follow the edge of an object slowly with your eyes and pencil.",
+          "weight": 1
+        },
+        {
+          "id": "contour-r2",
+          "text": "Try a two-minute continuous-line sketch without lifting your pencil.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "contour-f1",
+          "text": "Would you like a blind-contour exercise?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "gesture",
+      "topic": "drawing",
+      "question": "How do I sketch movement?",
+      "alternateQuestions": [],
+      "keywords": [
+        "gesture",
+        "movement",
+        "pose"
+      ],
+      "responses": [
+        {
+          "id": "gesture-r1",
+          "text": "Capture the action with a flowing line before worrying about details.",
+          "weight": 1
+        },
+        {
+          "id": "gesture-r2",
+          "text": "Make quick 30-second studies of the direction and energy of a pose.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "gesture-f1",
+          "text": "Are you drawing a person or animal?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "charcoal",
+      "topic": "drawing",
+      "question": "How do I draw with charcoal?",
+      "alternateQuestions": [],
+      "keywords": [
+        "charcoal",
+        "vine charcoal",
+        "compressed charcoal"
+      ],
+      "responses": [
+        {
+          "id": "charcoal-r1",
+          "text": "Use the side of charcoal for broad tones and the tip for accents.",
+          "weight": 1
+        },
+        {
+          "id": "charcoal-r2",
+          "text": "Build dark shapes gradually, then lift highlights with a kneaded eraser.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "charcoal-f1",
+          "text": "Would you like to practice a charcoal value scale?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "watercolor",
+      "topic": "painting",
+      "question": "How do I begin watercolor painting?",
+      "alternateQuestions": [],
+      "keywords": [
+        "watercolor",
+        "watercolour",
+        "wash"
+      ],
+      "responses": [
+        {
+          "id": "watercolor-r1",
+          "text": "Begin with two colors and a light wash on scrap paper.",
+          "weight": 1
+        },
+        {
+          "id": "watercolor-r2",
+          "text": "Let washes dry before layering to keep colors from turning muddy.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "watercolor-f1",
+          "text": "Would you like to try wet-on-wet or wet-on-dry?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "acrylic",
+      "topic": "painting",
+      "question": "How do I use acrylic paint?",
+      "alternateQuestions": [],
+      "keywords": [
+        "acrylic",
+        "acrylics",
+        "acrylic paint"
+      ],
+      "responses": [
+        {
+          "id": "acrylic-r1",
+          "text": "Paint the large color shapes first, then add smaller details.",
+          "weight": 1
+        },
+        {
+          "id": "acrylic-r2",
+          "text": "Blend two neighboring colors while both are still wet.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "acrylic-f1",
+          "text": "Are you painting on paper, board, or canvas?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "brushes",
+      "topic": "painting",
+      "question": "Which paintbrush should I use?",
+      "alternateQuestions": [],
+      "keywords": [
+        "brush",
+        "brushes",
+        "round brush",
+        "flat brush"
+      ],
+      "responses": [
+        {
+          "id": "brushes-r1",
+          "text": "A medium round brush and a flat brush are enough for many beginner exercises.",
+          "weight": 1
+        },
+        {
+          "id": "brushes-r2",
+          "text": "Test different marks by changing your brush angle and pressure.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "brushes-f1",
+          "text": "Are you working in watercolor or acrylic?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "sketchbook",
+      "topic": "creative-process",
+      "question": "How should I use a sketchbook?",
+      "alternateQuestions": [],
+      "keywords": [
+        "sketchbook",
+        "art journal",
+        "daily practice"
+      ],
+      "responses": [
+        {
+          "id": "sketchbook-r1",
+          "text": "Treat your sketchbook as a place to experiment, not a gallery.",
+          "weight": 1
+        },
+        {
+          "id": "sketchbook-r2",
+          "text": "Try one small drawing and one observation each day for a week.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "sketchbook-f1",
+          "text": "Would you enjoy a seven-day sketchbook challenge?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "critique",
+      "topic": "creative-process",
+      "question": "How can I improve my artwork?",
+      "alternateQuestions": [],
+      "keywords": [
+        "critique",
+        "feedback",
+        "improve artwork"
+      ],
+      "responses": [
+        {
+          "id": "critique-r1",
+          "text": "Identify what already works, then choose one thing to test in a new version.",
+          "weight": 1
+        },
+        {
+          "id": "critique-r2",
+          "text": "Compare your intended focal point with what catches the eye first.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "critique-f1",
+          "text": "Would you like to focus on composition or technique?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "mixed-media",
+      "topic": "mixed-media",
+      "question": "How do I start a mixed-media artwork?",
+      "alternateQuestions": [],
+      "keywords": [
+        "mixed media",
+        "mixed-media",
+        "collage"
+      ],
+      "responses": [
+        {
+          "id": "mixed-media-r1",
+          "text": "Choose two contrasting materials such as pencil and torn paper.",
+          "weight": 1
+        },
+        {
+          "id": "mixed-media-r2",
+          "text": "Build in layers, letting one material lead and another support the focal point.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [
+        {
+          "id": "mixed-media-f1",
+          "text": "Which materials do you have available?",
+          "weight": 1
+        }
+      ],
+      "status": "approved",
+      "source": "editorial-seed",
+      "version": 1
     }
   ]
 }
