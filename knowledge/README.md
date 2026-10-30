@@ -20,3 +20,9 @@ To collect questions across users, build an authenticated, rate-limited endpoint
 ## Current limitations
 
 This is a rule-based topic matcher, not an LLM or autonomous learner. It cannot infer intent reliably from every short reply. The question bank requires editorial maintenance, and the knowledge JSON needs an HTTP(S) static server (such as GitHub Pages) for browser fetch.
+
+## Canonical singular question records
+
+The active, GitHub-backed knowledge source is now `knowledge/question-records.json` (`zelle-question-collection-v1`). Each entry has one primary `question`, optional `alternateQuestions`, `keywords`, weighted `responses`, `rebuttals`, `followups`, and an explicit `status`. Only `approved` entries are read by the public chat. `questions.json` remains a legacy snapshot and is not the active source.
+
+A `rebuttals` item may later contain `id`, `trigger`, `text`, and `weight`; the current browser engine does not yet select rebuttals contextually. The public static chat cannot commit to GitHub. Unknown questions are still retained in the local export queue until a secure server-side intake bridge is deployed. Do not treat this as automatic cloud intake.
