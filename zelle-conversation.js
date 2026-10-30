@@ -84,9 +84,9 @@
     try { localStorage.setItem(queueKey, JSON.stringify(unanswered)); } catch {}
   }
   add("Zelle","Welcome to my studio. Tell me what you're making, and we'll explore it together.");
-  fetch("./knowledge/questions.json", {cache:"no-store"}).then(r => {if(!r.ok) throw Error("Knowledge unavailable");return r.json();}).then(data => {
-    if (data.schema !== "zelle-knowledge-v1" || !Array.isArray(data.topics)) throw Error("Invalid knowledge");
-    topics = data.topics.filter(x => x && typeof x.id === "string" && Array.isArray(x.keywords));
+  fetch("./knowledge/question-records.json", {cache:"no-store"}).then(r => {if(!r.ok) throw Error("Knowledge unavailable");return r.json();}).then(data => {
+    if (data.schema !== "zelle-question-collection-v1" || !Array.isArray(data.records)) throw Error("Invalid knowledge");
+    topics = data.records.filter(x => x && x.status === "approved" && typeof x.id === "string" && Array.isArray(x.keywords)).map(x => ({...x, folder:x.topic, questions:[x.question,...(x.alternateQuestions || [])]}));
     status.textContent = "Curated local knowledge ready. Unanswered questions are stored only on this device for optional export.";
   }).catch(() => {status.textContent = "Knowledge library unavailable. Please refresh when connected; no questions are being uploaded.";});
   form.addEventListener("submit", event => {
