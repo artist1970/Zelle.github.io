@@ -149,6 +149,15 @@ footer{
   header{flex-direction:column;align-items:flex-start;padding:18px 0}
   .cards{grid-template-columns:1fr}
 }
+
+.zelle-chat{border:1px solid var(--line);border-radius:7px;padding:20px;background:var(--panel);margin-top:22px}
+.zelle-chat-log{height:230px;overflow:auto;background:#09070d;border:1px solid var(--line);border-radius:7px;padding:12px;margin-bottom:12px}
+.zelle-chat-log p{margin:0 0 12px;overflow-wrap:anywhere}
+.zelle-chat textarea{display:block;width:100%;min-height:90px;resize:vertical;background:#09070d;color:var(--ink);border:1px solid var(--line);border-radius:7px;padding:12px;font:inherit}
+.zelle-chat button{border:1px solid var(--gold);border-radius:7px;padding:10px 18px;background:var(--gold);color:#17110b;font:inherit;cursor:pointer}
+.zelle-chat button.secondary{background:transparent;color:var(--gold)}
+.zelle-chat-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
+.zelle-chat-status{color:var(--muted);font-size:.88rem}
 </style>
 </head>
 <body>
@@ -201,6 +210,20 @@ footer{
   </div>
 </section>
 
+<section aria-labelledby="zelle-chat-title">
+  <h2 id="zelle-chat-title">Talk with Zelle · Creative Studio</h2>
+  <p class="copy">Explore artistic ideas with Zelle's local guided conversation. This is a scripted, offline-friendly creative companion—not a connected AI chatbot or a live moderation channel.</p>
+  <div class="zelle-chat" id="zelle-conversation">
+    <div class="zelle-chat-log" data-zelle-log role="log" aria-live="polite" aria-label="Creative conversation"></div>
+    <form>
+      <label for="zelle-chat-input">Your creative question</label>
+      <textarea id="zelle-chat-input" maxlength="2000" placeholder="I'm working on a painting, but the colors feel flat..." required></textarea>
+      <div class="zelle-chat-actions"><button type="submit">Explore with Zelle</button><button type="button" class="secondary" data-zelle-clear>Clear conversation</button></div>
+    </form>
+    <p class="zelle-chat-status" data-zelle-status>No login required. Messages stay in this browser page and are not saved.</p>
+  </div>
+</section>
+
 <section aria-labelledby="zelle-live-roles">
   <h2 id="zelle-live-roles">Zelle at Bazaar Art Live</h2>
   <p class="copy">As Bazaar Art's Art Director, Zelle also has three defined responsibilities for the live creative community. Her conversational and supervisory services are being prepared; they are not yet connected to a live AI or moderation service.</p>
@@ -240,5 +263,6 @@ footer{
   Zelle · Creative Guide
 </footer>
 </div>
+<script src="./zelle-conversation.js" defer></script>
 </body>
 </html>
