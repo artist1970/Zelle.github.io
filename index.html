@@ -29,7 +29,7 @@ body{
     radial-gradient(circle at 85% 25%,rgba(255,123,181,.10),transparent 26rem),
     radial-gradient(circle at 50% 80%,rgba(117,216,231,.05),transparent 30rem),
     var(--bg);
-  font-family:Georgia,"Times New Roman",serif;
+  font-family:"Nunito","Brandon Grotesque","Avenir Next",Avenir,Arial,sans-serif;
   line-height:1.65;
 }
 .wrap{width:min(calc(100% - 2rem),var(--max));margin:auto}
@@ -71,6 +71,7 @@ header{
   font-size:.74rem;
 }
 h1{
+  font-family:"Cinzel",Georgia,serif;
   margin:.16em 0;
   font-weight:400;
   font-size:clamp(4rem,11vw,8.2rem);
@@ -90,6 +91,7 @@ h1{
 }
 section{padding:30px 0 68px}
 h2{
+  font-family:"Cinzel",Georgia,serif;
   margin:0 0 9px;
   font-size:clamp(2rem,4vw,3rem);
   font-weight:400;
@@ -114,6 +116,7 @@ h2{
   letter-spacing:.14em;
 }
 .card h3{
+  font-family:"Cinzel",Georgia,serif;
   margin:8px 0 9px;
   font-size:1.3rem;
   font-weight:400;
@@ -150,6 +153,11 @@ footer{
   .cards{grid-template-columns:1fr}
 }
 
+.brand,.kicker{font-family:"Cinzel",Georgia,serif}
+.zelle-chat label,.zelle-chat-log strong{font-family:"Cinzel",Georgia,serif;font-weight:400}
+.zelle-chat,.zelle-chat textarea,.zelle-chat button,.zelle-chat-log{font-family:"Nunito","Brandon Grotesque","Avenir Next",Avenir,Arial,sans-serif;font-weight:400}
+.zelle-chat-log{line-height:1.65;font-size:1rem}
+.zelle-chat-log strong{color:var(--gold);letter-spacing:.02em}
 .zelle-chat{border:1px solid var(--line);border-radius:7px;padding:20px;background:var(--panel);margin-top:22px}
 .zelle-chat-log{height:230px;overflow:auto;background:#09070d;border:1px solid var(--line);border-radius:7px;padding:12px;margin-bottom:12px}
 .zelle-chat-log p{margin:0 0 12px;overflow-wrap:anywhere}
