@@ -9547,6 +9547,1456 @@
       "source": "middle-school-editorial-seed",
       "version": 1,
       "ageBand": "middle-school"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-001",
+      "topic": "social-conversation",
+      "question": "hello",
+      "alternateQuestions": [],
+      "keywords": [
+        "hello"
+      ],
+      "responses": [
+        {
+          "id": "social-001-r1",
+          "text": "Hello! I'm glad you're here. What would you like to create today?",
+          "weight": 1
+        },
+        {
+          "id": "social-001-r2",
+          "text": "Hi there! Are we drawing, painting, or just chatting?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-002",
+      "topic": "social-conversation",
+      "question": "hi",
+      "alternateQuestions": [],
+      "keywords": [
+        "hi"
+      ],
+      "responses": [
+        {
+          "id": "social-002-r1",
+          "text": "Hi! Welcome to the studio.",
+          "weight": 1
+        },
+        {
+          "id": "social-002-r2",
+          "text": "Hello! What's on your mind today?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-003",
+      "topic": "social-conversation",
+      "question": "hey",
+      "alternateQuestions": [],
+      "keywords": [
+        "hey"
+      ],
+      "responses": [
+        {
+          "id": "social-003-r1",
+          "text": "Hey there! What are you working on?",
+          "weight": 1
+        },
+        {
+          "id": "social-003-r2",
+          "text": "Hey! Ready to explore an art idea?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-004",
+      "topic": "social-conversation",
+      "question": "good morning",
+      "alternateQuestions": [],
+      "keywords": [
+        "good morning"
+      ],
+      "responses": [
+        {
+          "id": "social-004-r1",
+          "text": "Good morning! I hope your day begins with a little creativity.",
+          "weight": 1
+        },
+        {
+          "id": "social-004-r2",
+          "text": "Morning! What's your first idea today?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-005",
+      "topic": "social-conversation",
+      "question": "good afternoon",
+      "alternateQuestions": [],
+      "keywords": [
+        "good afternoon"
+      ],
+      "responses": [
+        {
+          "id": "social-005-r1",
+          "text": "Good afternoon! How is your day going?",
+          "weight": 1
+        },
+        {
+          "id": "social-005-r2",
+          "text": "Hello this afternoon! Anything fun you're making?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-006",
+      "topic": "social-conversation",
+      "question": "good evening",
+      "alternateQuestions": [],
+      "keywords": [
+        "good evening"
+      ],
+      "responses": [
+        {
+          "id": "social-006-r1",
+          "text": "Good evening! It's a lovely time to explore ideas.",
+          "weight": 1
+        },
+        {
+          "id": "social-006-r2",
+          "text": "Evening! Would you like to chat or create?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-007",
+      "topic": "social-conversation",
+      "question": "how are you",
+      "alternateQuestions": [],
+      "keywords": [
+        "how are you"
+      ],
+      "responses": [
+        {
+          "id": "social-007-r1",
+          "text": "I'm ready to help you explore something creative. How are you?",
+          "weight": 1
+        },
+        {
+          "id": "social-007-r2",
+          "text": "Thanks for asking! What's happening in your world today?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-008",
+      "topic": "social-conversation",
+      "question": "how is your day",
+      "alternateQuestions": [],
+      "keywords": [
+        "how is your day"
+      ],
+      "responses": [
+        {
+          "id": "social-008-r1",
+          "text": "Thanks for asking! I'm here and ready for our next idea.",
+          "weight": 1
+        },
+        {
+          "id": "social-008-r2",
+          "text": "It's nice to chat with you. How has your day been?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-009",
+      "topic": "social-conversation",
+      "question": "what's up",
+      "alternateQuestions": [],
+      "keywords": [
+        "what's up"
+      ],
+      "responses": [
+        {
+          "id": "social-009-r1",
+          "text": "Not much—just ready for a creative conversation! What's up with you?",
+          "weight": 1
+        },
+        {
+          "id": "social-009-r2",
+          "text": "I'm here for ideas, questions, and art adventures.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-010",
+      "topic": "social-conversation",
+      "question": "nice to meet you",
+      "alternateQuestions": [],
+      "keywords": [
+        "nice to meet you"
+      ],
+      "responses": [
+        {
+          "id": "social-010-r1",
+          "text": "Nice to meet you too! What do you enjoy making?",
+          "weight": 1
+        },
+        {
+          "id": "social-010-r2",
+          "text": "I'm glad we met. What kinds of art do you like?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-011",
+      "topic": "social-conversation",
+      "question": "my name is",
+      "alternateQuestions": [],
+      "keywords": [
+        "my name is"
+      ],
+      "responses": [
+        {
+          "id": "social-011-r1",
+          "text": "It's lovely to meet you! What would you like to talk about?",
+          "weight": 1
+        },
+        {
+          "id": "social-011-r2",
+          "text": "Welcome! You can tell me about an art project anytime.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-012",
+      "topic": "social-conversation",
+      "question": "who are you",
+      "alternateQuestions": [],
+      "keywords": [
+        "who are you"
+      ],
+      "responses": [
+        {
+          "id": "social-012-r1",
+          "text": "I'm Zelle, a creative guide who helps with art ideas and questions.",
+          "weight": 1
+        },
+        {
+          "id": "social-012-r2",
+          "text": "I'm Zelle. I love exploring drawing, color, design, and imagination with you.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-013",
+      "topic": "social-conversation",
+      "question": "what do you do",
+      "alternateQuestions": [],
+      "keywords": [
+        "what do you do"
+      ],
+      "responses": [
+        {
+          "id": "social-013-r1",
+          "text": "I help people learn about art and explore creative ideas.",
+          "weight": 1
+        },
+        {
+          "id": "social-013-r2",
+          "text": "You can ask me about drawing, painting, photography, and other arts.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-014",
+      "topic": "social-conversation",
+      "question": "can we talk",
+      "alternateQuestions": [],
+      "keywords": [
+        "can we talk"
+      ],
+      "responses": [
+        {
+          "id": "social-014-r1",
+          "text": "Of course! What's on your mind?",
+          "weight": 1
+        },
+        {
+          "id": "social-014-r2",
+          "text": "Yes, I'm here to chat. What would you like to discuss?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-015",
+      "topic": "social-conversation",
+      "question": "are you there",
+      "alternateQuestions": [],
+      "keywords": [
+        "are you there"
+      ],
+      "responses": [
+        {
+          "id": "social-015-r1",
+          "text": "I'm here! What would you like to explore?",
+          "weight": 1
+        },
+        {
+          "id": "social-015-r2",
+          "text": "Yes! Ready whenever you are.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-016",
+      "topic": "social-conversation",
+      "question": "thank you",
+      "alternateQuestions": [],
+      "keywords": [
+        "thank you"
+      ],
+      "responses": [
+        {
+          "id": "social-016-r1",
+          "text": "You're welcome! I'm happy to help.",
+          "weight": 1
+        },
+        {
+          "id": "social-016-r2",
+          "text": "My pleasure! Keep creating.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-017",
+      "topic": "social-conversation",
+      "question": "thanks",
+      "alternateQuestions": [],
+      "keywords": [
+        "thanks"
+      ],
+      "responses": [
+        {
+          "id": "social-017-r1",
+          "text": "Anytime! What else can I help with?",
+          "weight": 1
+        },
+        {
+          "id": "social-017-r2",
+          "text": "You're very welcome.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-018",
+      "topic": "social-conversation",
+      "question": "thank you so much",
+      "alternateQuestions": [],
+      "keywords": [
+        "thank you so much"
+      ],
+      "responses": [
+        {
+          "id": "social-018-r1",
+          "text": "You're very welcome! I'm glad our conversation helped.",
+          "weight": 1
+        },
+        {
+          "id": "social-018-r2",
+          "text": "It's a pleasure to help you explore your ideas.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-019",
+      "topic": "social-conversation",
+      "question": "you're welcome",
+      "alternateQuestions": [],
+      "keywords": [
+        "you're welcome"
+      ],
+      "responses": [
+        {
+          "id": "social-019-r1",
+          "text": "That's kind of you! What shall we explore next?",
+          "weight": 1
+        },
+        {
+          "id": "social-019-r2",
+          "text": "Thanks! Shall we keep creating?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-020",
+      "topic": "social-conversation",
+      "question": "please",
+      "alternateQuestions": [],
+      "keywords": [
+        "please"
+      ],
+      "responses": [
+        {
+          "id": "social-020-r1",
+          "text": "Of course. Tell me what you'd like help with.",
+          "weight": 1
+        },
+        {
+          "id": "social-020-r2",
+          "text": "I'd be glad to help. What's your question?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-021",
+      "topic": "social-conversation",
+      "question": "excuse me",
+      "alternateQuestions": [],
+      "keywords": [
+        "excuse me"
+      ],
+      "responses": [
+        {
+          "id": "social-021-r1",
+          "text": "Of course! What do you need?",
+          "weight": 1
+        },
+        {
+          "id": "social-021-r2",
+          "text": "No problem. How can I help?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-022",
+      "topic": "social-conversation",
+      "question": "sorry",
+      "alternateQuestions": [],
+      "keywords": [
+        "sorry"
+      ],
+      "responses": [
+        {
+          "id": "social-022-r1",
+          "text": "No worries. We can continue whenever you're ready.",
+          "weight": 1
+        },
+        {
+          "id": "social-022-r2",
+          "text": "It's okay. What would you like to do next?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-023",
+      "topic": "social-conversation",
+      "question": "i'm sorry",
+      "alternateQuestions": [],
+      "keywords": [
+        "i'm sorry"
+      ],
+      "responses": [
+        {
+          "id": "social-023-r1",
+          "text": "Thank you for saying that. We can start fresh.",
+          "weight": 1
+        },
+        {
+          "id": "social-023-r2",
+          "text": "That's all right. Would you like to keep talking?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-024",
+      "topic": "social-conversation",
+      "question": "my mistake",
+      "alternateQuestions": [],
+      "keywords": [
+        "my mistake"
+      ],
+      "responses": [
+        {
+          "id": "social-024-r1",
+          "text": "No problem—mistakes are part of learning.",
+          "weight": 1
+        },
+        {
+          "id": "social-024-r2",
+          "text": "That's okay! We can try another way.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-025",
+      "topic": "social-conversation",
+      "question": "i don't understand",
+      "alternateQuestions": [],
+      "keywords": [
+        "i don't understand"
+      ],
+      "responses": [
+        {
+          "id": "social-025-r1",
+          "text": "I can explain it more simply. Which part is confusing?",
+          "weight": 1
+        },
+        {
+          "id": "social-025-r2",
+          "text": "Let's try a different explanation. What part should we start with?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-026",
+      "topic": "social-conversation",
+      "question": "can you repeat that",
+      "alternateQuestions": [],
+      "keywords": [
+        "can you repeat that"
+      ],
+      "responses": [
+        {
+          "id": "social-026-r1",
+          "text": "Certainly! Tell me which part you'd like repeated.",
+          "weight": 1
+        },
+        {
+          "id": "social-026-r2",
+          "text": "Of course. Which explanation should I go over again?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-027",
+      "topic": "social-conversation",
+      "question": "can you help me",
+      "alternateQuestions": [],
+      "keywords": [
+        "can you help me"
+      ],
+      "responses": [
+        {
+          "id": "social-027-r1",
+          "text": "I'd be happy to help! What are you trying to do?",
+          "weight": 1
+        },
+        {
+          "id": "social-027-r2",
+          "text": "Yes! Tell me what you need help with.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-028",
+      "topic": "social-conversation",
+      "question": "i need help",
+      "alternateQuestions": [],
+      "keywords": [
+        "i need help"
+      ],
+      "responses": [
+        {
+          "id": "social-028-r1",
+          "text": "I'm here to help. What's the problem?",
+          "weight": 1
+        },
+        {
+          "id": "social-028-r2",
+          "text": "Tell me what's tricky, and we'll work through it.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-029",
+      "topic": "social-conversation",
+      "question": "good job",
+      "alternateQuestions": [],
+      "keywords": [
+        "good job"
+      ],
+      "responses": [
+        {
+          "id": "social-029-r1",
+          "text": "Thank you! I'm glad that was useful.",
+          "weight": 1
+        },
+        {
+          "id": "social-029-r2",
+          "text": "That's kind of you to say!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-030",
+      "topic": "social-conversation",
+      "question": "well done",
+      "alternateQuestions": [],
+      "keywords": [
+        "well done"
+      ],
+      "responses": [
+        {
+          "id": "social-030-r1",
+          "text": "Thank you! Shall we try something else?",
+          "weight": 1
+        },
+        {
+          "id": "social-030-r2",
+          "text": "I appreciate that. What's next?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-031",
+      "topic": "social-conversation",
+      "question": "congratulations",
+      "alternateQuestions": [],
+      "keywords": [
+        "congratulations"
+      ],
+      "responses": [
+        {
+          "id": "social-031-r1",
+          "text": "Thank you! What are we celebrating?",
+          "weight": 1
+        },
+        {
+          "id": "social-031-r2",
+          "text": "How exciting! Tell me the good news.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-032",
+      "topic": "social-conversation",
+      "question": "i did it",
+      "alternateQuestions": [],
+      "keywords": [
+        "i did it"
+      ],
+      "responses": [
+        {
+          "id": "social-032-r1",
+          "text": "You did it! Congratulations on your progress!",
+          "weight": 1
+        },
+        {
+          "id": "social-032-r2",
+          "text": "Wonderful work! What part are you most proud of?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-033",
+      "topic": "social-conversation",
+      "question": "i finished my drawing",
+      "alternateQuestions": [],
+      "keywords": [
+        "i finished my drawing"
+      ],
+      "responses": [
+        {
+          "id": "social-033-r1",
+          "text": "Congratulations on finishing your drawing!",
+          "weight": 1
+        },
+        {
+          "id": "social-033-r2",
+          "text": "That's a great milestone. What do you like most about it?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-034",
+      "topic": "social-conversation",
+      "question": "i got a good grade",
+      "alternateQuestions": [],
+      "keywords": [
+        "i got a good grade"
+      ],
+      "responses": [
+        {
+          "id": "social-034-r1",
+          "text": "Congratulations! Your effort deserves recognition.",
+          "weight": 1
+        },
+        {
+          "id": "social-034-r2",
+          "text": "Great news! What did you enjoy learning?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-035",
+      "topic": "social-conversation",
+      "question": "i won",
+      "alternateQuestions": [],
+      "keywords": [
+        "i won"
+      ],
+      "responses": [
+        {
+          "id": "social-035-r1",
+          "text": "Congratulations! What an exciting achievement.",
+          "weight": 1
+        },
+        {
+          "id": "social-035-r2",
+          "text": "Well done! Tell me about your win.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-036",
+      "topic": "social-conversation",
+      "question": "i tried my best",
+      "alternateQuestions": [],
+      "keywords": [
+        "i tried my best"
+      ],
+      "responses": [
+        {
+          "id": "social-036-r1",
+          "text": "That effort matters. You can be proud of trying.",
+          "weight": 1
+        },
+        {
+          "id": "social-036-r2",
+          "text": "Trying your best is an important part of growing as an artist.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-037",
+      "topic": "social-conversation",
+      "question": "i made a mistake",
+      "alternateQuestions": [],
+      "keywords": [
+        "i made a mistake"
+      ],
+      "responses": [
+        {
+          "id": "social-037-r1",
+          "text": "Mistakes can teach us something new. Want to try again?",
+          "weight": 1
+        },
+        {
+          "id": "social-037-r2",
+          "text": "That's okay. Let's see what you learned from it.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-038",
+      "topic": "social-conversation",
+      "question": "i feel proud",
+      "alternateQuestions": [],
+      "keywords": [
+        "i feel proud"
+      ],
+      "responses": [
+        {
+          "id": "social-038-r1",
+          "text": "That's wonderful! What are you proud of?",
+          "weight": 1
+        },
+        {
+          "id": "social-038-r2",
+          "text": "Enjoy that feeling. Your work and effort matter.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-039",
+      "topic": "social-conversation",
+      "question": "i'm excited",
+      "alternateQuestions": [],
+      "keywords": [
+        "i'm excited"
+      ],
+      "responses": [
+        {
+          "id": "social-039-r1",
+          "text": "That's exciting! What's happening?",
+          "weight": 1
+        },
+        {
+          "id": "social-039-r2",
+          "text": "I love hearing your enthusiasm. Tell me more!",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-040",
+      "topic": "social-conversation",
+      "question": "i'm happy",
+      "alternateQuestions": [],
+      "keywords": [
+        "i'm happy"
+      ],
+      "responses": [
+        {
+          "id": "social-040-r1",
+          "text": "I'm glad to hear that! What's making you happy?",
+          "weight": 1
+        },
+        {
+          "id": "social-040-r2",
+          "text": "That's lovely. Want to turn that feeling into art?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-041",
+      "topic": "social-conversation",
+      "question": "i'm sad",
+      "alternateQuestions": [],
+      "keywords": [
+        "i'm sad"
+      ],
+      "responses": [
+        {
+          "id": "social-041-r1",
+          "text": "I'm sorry you're feeling sad. Would talking or a gentle art activity help?",
+          "weight": 1
+        },
+        {
+          "id": "social-041-r2",
+          "text": "I'm here to listen. You can tell me what's on your mind.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-042",
+      "topic": "social-conversation",
+      "question": "i'm bored",
+      "alternateQuestions": [],
+      "keywords": [
+        "i'm bored"
+      ],
+      "responses": [
+        {
+          "id": "social-042-r1",
+          "text": "Want a quick creative challenge? Draw an animal in an unusual place.",
+          "weight": 1
+        },
+        {
+          "id": "social-042-r2",
+          "text": "Let's invent something fun. How about a five-minute doodle?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-043",
+      "topic": "social-conversation",
+      "question": "that's cool",
+      "alternateQuestions": [],
+      "keywords": [
+        "that's cool"
+      ],
+      "responses": [
+        {
+          "id": "social-043-r1",
+          "text": "It is interesting! What part caught your attention?",
+          "weight": 1
+        },
+        {
+          "id": "social-043-r2",
+          "text": "I'm glad you like it. Want to explore further?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-044",
+      "topic": "social-conversation",
+      "question": "i like it",
+      "alternateQuestions": [],
+      "keywords": [
+        "i like it"
+      ],
+      "responses": [
+        {
+          "id": "social-044-r1",
+          "text": "I'm glad! What do you like most about it?",
+          "weight": 1
+        },
+        {
+          "id": "social-044-r2",
+          "text": "Wonderful. Would you like to try your own version?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-045",
+      "topic": "social-conversation",
+      "question": "i don't like it",
+      "alternateQuestions": [],
+      "keywords": [
+        "i don't like it"
+      ],
+      "responses": [
+        {
+          "id": "social-045-r1",
+          "text": "That's okay. What would you change?",
+          "weight": 1
+        },
+        {
+          "id": "social-045-r2",
+          "text": "Different tastes make art interesting. What would you prefer?",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-046",
+      "topic": "social-conversation",
+      "question": "goodbye",
+      "alternateQuestions": [],
+      "keywords": [
+        "goodbye"
+      ],
+      "responses": [
+        {
+          "id": "social-046-r1",
+          "text": "Goodbye! Keep creating, and come back anytime.",
+          "weight": 1
+        },
+        {
+          "id": "social-046-r2",
+          "text": "See you next time! Enjoy your creative day.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-047",
+      "topic": "social-conversation",
+      "question": "bye",
+      "alternateQuestions": [],
+      "keywords": [
+        "bye"
+      ],
+      "responses": [
+        {
+          "id": "social-047-r1",
+          "text": "Bye! Have a lovely day.",
+          "weight": 1
+        },
+        {
+          "id": "social-047-r2",
+          "text": "See you soon! Keep imagining.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-048",
+      "topic": "social-conversation",
+      "question": "see you later",
+      "alternateQuestions": [],
+      "keywords": [
+        "see you later"
+      ],
+      "responses": [
+        {
+          "id": "social-048-r1",
+          "text": "See you later! I'll be here when you're ready.",
+          "weight": 1
+        },
+        {
+          "id": "social-048-r2",
+          "text": "Until next time! Have fun creating.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-049",
+      "topic": "social-conversation",
+      "question": "good night",
+      "alternateQuestions": [],
+      "keywords": [
+        "good night"
+      ],
+      "responses": [
+        {
+          "id": "social-049-r1",
+          "text": "Good night! Rest well and dream creatively.",
+          "weight": 1
+        },
+        {
+          "id": "social-049-r2",
+          "text": "Sleep well! We can explore more ideas another time.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "social-050",
+      "topic": "social-conversation",
+      "question": "talk to you tomorrow",
+      "alternateQuestions": [],
+      "keywords": [
+        "talk to you tomorrow"
+      ],
+      "responses": [
+        {
+          "id": "social-050-r1",
+          "text": "See you tomorrow! I'll be ready for more ideas.",
+          "weight": 1
+        },
+        {
+          "id": "social-050-r2",
+          "text": "Looking forward to our next creative conversation.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "social-editorial-seed",
+      "version": 1,
+      "intent": "social",
+      "ageBand": "all"
     }
   ]
 }
