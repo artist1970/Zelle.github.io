@@ -10,6 +10,9 @@ on:
       - 'tests/zelle-dialogue-context.test.mjs'
       - 'zelle-dialogue-core.js'
       - 'zelle-conversation.js'
+      - 'zelle-voice.js'
+      - 'tests/zelle-polyglot-voice.test.mjs'
+      - 'index.html'
       - '.github/workflows/zelle-knowledge-500qa.yml'
   pull_request:
     paths:
@@ -33,4 +36,4 @@ jobs:
         with:
           node-version: '22'
       - name: Validate Zelle's approved knowledge bank and publication lineage
-        run: node --test tests/zelle-qa-expansion.test.mjs tests/zelle-dialogue-context.test.mjs
+        run: node --test tests/zelle-qa-expansion.test.mjs tests/zelle-dialogue-context.test.mjs tests/zelle-polyglot-voice.test.mjs
