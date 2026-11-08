@@ -1,0 +1,24 @@
+{
+  "schema": "zelle-public-qa-publication-receipt-v1",
+  "mentorId": "zelle",
+  "publishedOn": "2026-11-08",
+  "approval": "User explicitly approved the 180 Zelle-specific Q&A drafts in the associated ChatGPT conversation.",
+  "approvalType": "human-founder-approval",
+  "reviewSource": "knowledge/zelle-qa-expansion-180.review.json",
+  "reviewSourceBlobSha": "07907314b900a6cec11eefbcc3e6b0e8fe49d31d",
+  "target": "knowledge/question-records.json",
+  "priorPublicBankBlobSha": "a4d3926ed42bfc0170ad39ff62d3c85f34dbe45e",
+  "publishedPublicBankBlobSha": "b03791394a747434b8dc42b8c1434ef65aa76ec4",
+  "commit": "55095503807df8bbb9f85ec19496407b39369441",
+  "counts": {
+    "preservedExisting": 320,
+    "added": 180,
+    "publishedTotal": 500,
+    "distinct": 500
+  },
+  "limitations": [
+    "Static-source compatibility verified; deployed page/browser response not yet tested.",
+    "No provider-backed model, cross-origin Code Capsule synchronization, AIPCore or Creative Spark live runtime was activated.",
+    "Draft review file remains as immutable lineage artifact; publication status is recorded in this receipt and active bank."
+  ]
+}
