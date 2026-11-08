@@ -35,6 +35,8 @@ function create(records=[]){
      return finish("Creative Spark is a separate studio for developing original ideas. We can also begin here: choose a color, object, or feeling and make three tiny thumbnail sketches. The Creative Spark doorway is linked below the chat.","ideas");
    if(/\b(aurora|breath|grounding|overwhelmed|need a break)\b/.test(s))
      return finish("Aurora offers a separate, gentle grounding space. If you'd like a creative pause, notice your feet on the floor, relax your grip, and take a comfortable breath. You can visit Aurora using the link below.","wellness");
+   if(/\b(do you draw|can you draw|do you make drawings)\b/.test(s))
+     return finish("I can guide you through drawing ideas and techniques, though I do not physically draw on this page. Would you like to sketch a face, object, or imagined scene?","drawing");
    if(/\b(draw a face|drawing a face|draw faces|sketch a face|portrait face|best way to draw a face)\b/.test(s) || /^(a |the )?face$/.test(s)&&memory.subject==="portrait")
      return finish("For a face, sketch the head as a simple oval, mark a light vertical centerline and eye-level guide, then compare the placement of eyes, nose, and mouth. Draw from observation and adjust proportions before detailing. Would you like a quick portrait exercise?","portrait","portrait-practice");
    if(/\b(circle|circles|infinite|infinity)\b/.test(s)&&!/\bhow do i draw a circle\b/.test(s))
