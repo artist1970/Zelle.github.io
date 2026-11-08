@@ -1,6 +1,6 @@
 {
   "schema": "zelle-question-collection-v1",
-  "version": 1,
+  "version": 2,
   "records": [
     {
       "schema": "zelle-question-v1",
@@ -10997,6 +10997,3606 @@
       "version": 1,
       "intent": "social",
       "ageBand": "all"
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-001",
+      "topic": "composition",
+      "question": "How can I make the focal point clearer in a crowded painting?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-001-r1",
+          "text": "Choose one dominant contrast—value, edge, color, or scale—near the subject you want noticed first. Soften competing details and view the painting from across the room.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-002",
+      "topic": "composition",
+      "question": "What is a practical way to test asymmetrical balance?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-002-r1",
+          "text": "Cover each half of the image in turn. Compare visual weight rather than object count: a small high-contrast mark can balance a larger quiet shape.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-003",
+      "topic": "composition",
+      "question": "How do I use negative space deliberately?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-003-r1",
+          "text": "Draw the empty shapes between objects as carefully as the objects themselves. Adjust those gaps until the composition feels intentional and the subject can breathe.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-004",
+      "topic": "composition",
+      "question": "When should I use a centered composition?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-004-r1",
+          "text": "Centering can communicate stillness, ceremony, or direct confrontation. Add subtle variation in edges, lighting, or surrounding space so symmetry serves the meaning rather than feeling automatic.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-005",
+      "topic": "composition",
+      "question": "How can I establish a visual path through an illustration?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-005-r1",
+          "text": "Arrange overlapping shapes, repeated angles, and shifts in contrast to lead the eye from entry point to important detail. Trace the path with your finger to test it.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-006",
+      "topic": "composition",
+      "question": "What can I do when the horizon divides the canvas in half?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-006-r1",
+          "text": "Decide whether the sky or foreground carries more meaning, then try moving the horizon above or below center. Keep the centered version if it best supports your idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-007",
+      "topic": "composition",
+      "question": "How do I create depth without realistic perspective?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-007-r1",
+          "text": "Layer shapes, change their size and contrast, and use warmer or sharper accents in front of quieter distant forms. Depth can be suggested without a vanishing point.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-008",
+      "topic": "composition",
+      "question": "How do I prevent decorative borders from overpowering the artwork?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-008-r1",
+          "text": "Keep border contrast and pattern complexity below the main subject's. Test the work without the border, then reintroduce only the ornament that strengthens its story.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-009",
+      "topic": "composition",
+      "question": "Why does my layout feel top-heavy?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-009-r1",
+          "text": "Large dark forms or dense detail near the top may outweigh the lower area. Try shifting one mass, adding breathing room, or placing a smaller grounding accent below.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-010",
+      "topic": "composition",
+      "question": "How can a diagonal composition change the mood?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-010-r1",
+          "text": "Diagonals often suggest movement or tension. Use their direction to reinforce a gesture or narrative, then balance them with quieter horizontal or vertical elements if needed.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-011",
+      "topic": "composition",
+      "question": "What is a thumbnail study for composition?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-011-r1",
+          "text": "A thumbnail is a tiny, fast arrangement of the major dark and light shapes. Make four variations before committing to detail, and compare which one best expresses your intention.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-012",
+      "topic": "composition",
+      "question": "How should I crop a figure for stronger storytelling?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-012-r1",
+          "text": "Crop where it clarifies the gesture and avoids awkward tangencies at joints. Make a few versions and check what each crop reveals or withholds about the moment.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-013",
+      "topic": "composition",
+      "question": "How do repeated shapes create rhythm?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-013-r1",
+          "text": "Repeat a shape at varied scales and intervals so the eye recognizes a family without seeing a rigid pattern. Leave one interruption where you want attention to pause.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-014",
+      "topic": "composition",
+      "question": "What makes a silhouette readable?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-014-r1",
+          "text": "Reduce the subject to one dark shape against a light background. If the action or pose remains understandable, the silhouette is doing useful work; separate overlapping parts that merge confusingly.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-015",
+      "topic": "composition",
+      "question": "How do I know when a composition is finished?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-015-r1",
+          "text": "Ask whether the focal point, movement, and spacing support your original intention. Stop when further changes only decorate the work rather than improve its meaning.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-016",
+      "topic": "color-light",
+      "question": "How can I choose a limited palette for a moody landscape?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-016-r1",
+          "text": "Pick one dominant temperature, a small contrasting accent, and a range of values. Test mixtures in swatches before covering the canvas.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-017",
+      "topic": "color-light",
+      "question": "What should I adjust when every color looks equally loud?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-017-r1",
+          "text": "Reduce saturation in supporting areas and reserve your strongest chroma for an intentional focal point. Value contrast may matter more than another bright pigment.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-018",
+      "topic": "color-light",
+      "question": "How can I paint reflected light convincingly?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-018-r1",
+          "text": "Look for subtle color bouncing into the shadow side of an object. Keep reflected light usually darker than the illuminated side so the form still reads.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-019",
+      "topic": "color-light",
+      "question": "What is the difference between hue and value in a painting?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-019-r1",
+          "text": "Hue identifies the color family; value describes how light or dark it appears. A grayscale photo of your work can reveal value problems hidden by vivid hues.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-020",
+      "topic": "color-light",
+      "question": "How can I create a warm atmosphere with a cool palette?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-020-r1",
+          "text": "Use mostly cool colors, then introduce restrained warm light where it matters. The relationship between colors, rather than a single paint name, creates the feeling.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-021",
+      "topic": "color-light",
+      "question": "How do I avoid muddy mixtures in acrylic painting?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-021-r1",
+          "text": "Mix fewer pigments at once, clean the brush between color families, and let one layer dry before placing a contrasting glaze. A deliberate neutral can be beautiful; accidental mud obscures intention.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-022",
+      "topic": "color-light",
+      "question": "Why does my yellow look weak beside purple?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-022-r1",
+          "text": "Perceived brightness depends on surrounding contrast and value. Compare the colors in small swatches and consider changing the yellow's value, saturation, or amount of surrounding purple.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-023",
+      "topic": "color-light",
+      "question": "What can I do with a painting that has no clear light source?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-023-r1",
+          "text": "Choose the direction and character of the light first. Align highlights and cast shadows consistently, then keep exceptions only when they support a deliberate stylization.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-024",
+      "topic": "color-light",
+      "question": "How do I use complementary colors without making the work harsh?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-024-r1",
+          "text": "Let one color dominate and use its complement in smaller, quieter accents. Neutral mixtures and changes in value can soften the relationship.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-025",
+      "topic": "color-light",
+      "question": "When is a monochrome study useful?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-025-r1",
+          "text": "Use one hue in several values when learning form, lighting, and edges. Once the structure works, introduce color without sacrificing the value plan.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-026",
+      "topic": "color-light",
+      "question": "How can I paint atmospheric distance?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-026-r1",
+          "text": "Reduce sharp edges and contrast in distant shapes, often shifting their color toward the atmosphere. Compare the background with nearby objects rather than using a fixed color formula.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-027",
+      "topic": "color-light",
+      "question": "How should I test colors for a digital artwork?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-027-r1",
+          "text": "View the image at several sizes and on more than one display where possible. Check that important information survives grayscale and that text or interface elements remain readable.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-028",
+      "topic": "color-light",
+      "question": "What makes a color accent feel intentional?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-028-r1",
+          "text": "Connect it to the narrative or focal point, then repeat it sparingly. An accent works best when most surrounding colors allow it to stand apart.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-029",
+      "topic": "color-light",
+      "question": "How can I study translucent material through color?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-029-r1",
+          "text": "Observe the background color showing through the object, plus changes at its edges and overlaps. Paint the relationships you see rather than treating transparency as a single pale fill.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-030",
+      "topic": "color-light",
+      "question": "How do I decide between hard and soft shadow edges?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-030-r1",
+          "text": "Consider the size and distance of the light source and the material receiving the shadow. Vary edges for clarity and mood instead of outlining every shadow equally.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-031",
+      "topic": "drawing-observation",
+      "question": "How can I compare proportions without measuring tools?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-031-r1",
+          "text": "Choose one familiar unit, such as the width of the head or vase, and compare other lengths against it. Check overall width-to-height before refining features.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-032",
+      "topic": "drawing-observation",
+      "question": "What helps me draw a subject that is foreshortened?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-032-r1",
+          "text": "Look for the big overlapping shapes and shortened distances visible from your angle. Draw what you see, not the idealized shape you expect.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-033",
+      "topic": "drawing-observation",
+      "question": "How do I practice contour drawing without stiff lines?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-033-r1",
+          "text": "Move your eyes along the subject's edge while your hand follows at a similar pace. Accept irregularities and notice where the contour changes direction.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-034",
+      "topic": "drawing-observation",
+      "question": "What is the benefit of drawing with the eraser?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-034-r1",
+          "text": "Start with a broad tone, then lift light shapes using an eraser. This can train you to see illuminated masses instead of constructing every form with an outline.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-035",
+      "topic": "drawing-observation",
+      "question": "How do I simplify an intricate botanical subject?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-035-r1",
+          "text": "Begin with its overall gesture and major clusters of leaves. Add a few distinctive edge shapes, leaving less important texture implied.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-036",
+      "topic": "drawing-observation",
+      "question": "What should I study to improve hands in drawings?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-036-r1",
+          "text": "Sketch the palm as a simple mass and the fingers as grouped directional forms. Observe the thumb's independent angle before refining joints and knuckles.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-037",
+      "topic": "drawing-observation",
+      "question": "How can I draw fabric folds more logically?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-037-r1",
+          "text": "Locate where fabric is held, pulled, or compressed. Let folds radiate from those tension points and organize them by big light and shadow shapes.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-038",
+      "topic": "drawing-observation",
+      "question": "How do I fix a sketch where the perspective keeps shifting?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-038-r1",
+          "text": "Identify the eye level and check which edges should converge. Correct the largest structural relationships before adding windows, bricks, or surface texture.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-039",
+      "topic": "drawing-observation",
+      "question": "Why are quick gesture drawings helpful?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-039-r1",
+          "text": "They train you to capture energy, weight, and the main directional line before detail. Use short timed poses and judge movement rather than accuracy of tiny features.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-040",
+      "topic": "drawing-observation",
+      "question": "How can I create believable texture with pencil marks?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-040-r1",
+          "text": "Change mark direction, density, and pressure based on the surface. Suggest representative patches instead of rendering each hair, pebble, or grain.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-041",
+      "topic": "drawing-observation",
+      "question": "What should I do if my portrait looks flat?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-041-r1",
+          "text": "Study the planes of the face and compare the darkest darks with the lightest light. Look for broad transitions before emphasizing eyelashes or other details.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-042",
+      "topic": "drawing-observation",
+      "question": "How can I draw a reflective metal object?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-042-r1",
+          "text": "Observe its high-contrast patches and distorted reflections. Accurate abstract value shapes often work better than outlining a generic shine.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-043",
+      "topic": "drawing-observation",
+      "question": "What is a good exercise for improving observational accuracy?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-043-r1",
+          "text": "Draw one object, then turn the sketch and reference upside down and compare large shapes. The unusual orientation can reveal assumptions your eye made.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-044",
+      "topic": "drawing-observation",
+      "question": "How should I plan a complex architectural sketch?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-044-r1",
+          "text": "Establish eye level, major masses, and a few perspective guides. Add repeated details only once the large planes and openings align.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-045",
+      "topic": "drawing-observation",
+      "question": "How do I decide which drawing errors to correct first?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-045-r1",
+          "text": "Fix the silhouette, placement, and proportion before surface marks. A strong structure will improve the result more than polishing small details.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-046",
+      "topic": "painting-media",
+      "question": "How do I plan layers in a watercolor landscape?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-046-r1",
+          "text": "Reserve the palest areas, establish large washes, and let them dry before adding darker forms. Work from broad atmosphere toward selective detail.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-047",
+      "topic": "painting-media",
+      "question": "What helps prevent watercolor blossoms when I do not want them?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-047-r1",
+          "text": "Allow a wash to settle before touching it with wetter paint, and manage the water load on brush and paper. Keep blooms deliberately where their organic texture suits the image.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-048",
+      "topic": "painting-media",
+      "question": "How can I use a dry brush in acrylic?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-048-r1",
+          "text": "Remove excess paint and drag the bristles lightly across a textured surface. It is useful for broken highlights, grain, and rough edges.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-049",
+      "topic": "painting-media",
+      "question": "When should I glaze instead of repainting opaquely?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-049-r1",
+          "text": "A transparent glaze can shift color or unify an area while preserving underlying detail. Test compatibility and drying behavior for your chosen medium first.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-050",
+      "topic": "painting-media",
+      "question": "How do I make gouache areas look more even?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-050-r1",
+          "text": "Mix enough paint for the shape, use steady strokes, and avoid repeatedly disturbing a drying patch. A small test can help find the right water balance.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-051",
+      "topic": "painting-media",
+      "question": "How should I choose brush sizes for a new painting?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-051-r1",
+          "text": "Begin with a brush large enough to prevent premature detail, then step down only when the main shapes work. The tool should encourage the decisions you intend to make.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-052",
+      "topic": "painting-media",
+      "question": "What is an underpainting useful for?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-052-r1",
+          "text": "It gives the image a value or color structure before final layers. Choose an underpainting that supports the atmosphere and helps you judge later contrasts.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-053",
+      "topic": "painting-media",
+      "question": "How do I keep acrylic edges from looking uniformly hard?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-053-r1",
+          "text": "Vary how and when edges meet: soften some transitions while wet, overlap others, and reserve crisp boundaries around important features.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-054",
+      "topic": "painting-media",
+      "question": "Why should I make a small color study before a large canvas?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-054-r1",
+          "text": "A small version lets you test value, temperature, and focal point quickly. It can expose a weak color plan before materials and time are committed.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-055",
+      "topic": "painting-media",
+      "question": "How can I make expressive brushwork feel controlled?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-055-r1",
+          "text": "Choose the direction, size, and energy of marks in relation to the form. Leave a few strokes visible rather than blending every decision away.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-056",
+      "topic": "painting-media",
+      "question": "How do I depict rain without drawing every drop?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-056-r1",
+          "text": "Use softened distance, changed reflections, directional marks, and a few distinct droplets where they matter. Let the atmosphere carry most of the effect.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-057",
+      "topic": "painting-media",
+      "question": "What helps an oil painting retain luminous darks?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-057-r1",
+          "text": "Build dark shapes through deliberate value and chroma relationships, avoiding excessive mixing. Follow safe studio practices for pigments, solvents, ventilation, and disposal.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-058",
+      "topic": "painting-media",
+      "question": "How can I combine ink with watercolor?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-058-r1",
+          "text": "Choose waterproof ink if you want defined lines beneath washes, or water-soluble ink for expressive bleeding. Test the combination on matching paper first.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-059",
+      "topic": "painting-media",
+      "question": "What should I do when a wet painting feels overworked?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-059-r1",
+          "text": "Stop and allow it to dry before evaluating. Return with a short list of structural corrections rather than continuing to adjust every inch.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-060",
+      "topic": "painting-media",
+      "question": "How do I compare two finishes of the same painting?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-060-r1",
+          "text": "View both at equal scale in similar lighting and ask which better supports the mood and focal point. Keep the version that serves the work, not simply the more detailed one.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-061",
+      "topic": "photography",
+      "question": "How can I use window light for a portrait?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-061-r1",
+          "text": "Place the subject near a window and rotate them until the shadow-to-light transition suits their expression. A simple reflector can soften the darker side.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-062",
+      "topic": "photography",
+      "question": "What makes environmental portraiture different from a headshot?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-062-r1",
+          "text": "The surrounding place helps explain the person or activity. Include meaningful context while ensuring it does not overwhelm the subject.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-063",
+      "topic": "photography",
+      "question": "How do I keep a photograph's background from distracting?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-063-r1",
+          "text": "Change your viewpoint, move the subject, or adjust depth of field so competing lines and colors become quieter. Check corners before pressing the shutter.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-064",
+      "topic": "photography",
+      "question": "How can I photograph texture without losing dimensionality?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-064-r1",
+          "text": "Try light that comes across the surface rather than straight toward it. Side lighting can reveal small ridges and depressions.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-065",
+      "topic": "photography",
+      "question": "What should I consider before photographing someone's artwork?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-065-r1",
+          "text": "Seek permission, capture it squarely under even lighting, and avoid altering colors in a way that misrepresents the piece. Credit the creator appropriately.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-066",
+      "topic": "photography",
+      "question": "How can I create visual rhythm in street photography?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-066-r1",
+          "text": "Look for repeated windows, shadows, people, or signs, then notice where one element interrupts the pattern. Respect people's privacy and local photography rules.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-067",
+      "topic": "photography",
+      "question": "Why do highlights disappear in my digital photographs?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-067-r1",
+          "text": "Bright areas may exceed the sensor's captured range. Try adjusting exposure for important highlights or using suitable lighting and exposure bracketing.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-068",
+      "topic": "photography",
+      "question": "How do I use reflections to tell a visual story?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-068-r1",
+          "text": "Consider what the reflected scene adds: contrast, ambiguity, place, or a second viewpoint. Keep the reflection intentional rather than merely decorative.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-069",
+      "topic": "photography",
+      "question": "How should I crop a photograph for a square format?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-069-r1",
+          "text": "Protect the gesture and important negative space, then test whether the square creates calm or tension. Avoid cutting through features in ways that distract.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-070",
+      "topic": "photography",
+      "question": "What helps a product photograph feel honest and appealing?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-070-r1",
+          "text": "Use clean lighting and an uncluttered background while preserving the object's actual color, form, and imperfections. Avoid edits that would mislead a buyer.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-071",
+      "topic": "photography",
+      "question": "How can I explore motion blur creatively?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-071-r1",
+          "text": "Try a slower shutter while following a moving subject or keeping the camera fixed. The amount of blur can suggest speed, uncertainty, or softness.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-072",
+      "topic": "photography",
+      "question": "What is the role of a contact sheet in editing photographs?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-072-r1",
+          "text": "Seeing many small images together makes patterns and weaker repetitions easier to spot. Select for coherence before fine-tuning individual frames.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-073",
+      "topic": "photography",
+      "question": "How can I design a documentary photo sequence?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-073-r1",
+          "text": "Include an establishing view, meaningful details, actions, and transitions. Keep captions faithful to what is known rather than implying unverified events.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-074",
+      "topic": "photography",
+      "question": "How should I handle a photo including children at a community event?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-074-r1",
+          "text": "Follow the event's consent rules and avoid sharing identifying details without appropriate permission. Consider a nonidentifying crop when consent or publication rights are unclear.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-075",
+      "topic": "photography",
+      "question": "How can I build a consistent photo series without identical images?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-075-r1",
+          "text": "Repeat a visual principle—light, framing, subject relationship, or palette—while allowing each image to contribute a different idea.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-076",
+      "topic": "mixed-media",
+      "question": "How do I combine collage pieces without losing visual unity?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-076-r1",
+          "text": "Choose a common value range, repeated shape, or limited accent color to connect the materials. Let one texture remain dominant.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-077",
+      "topic": "mixed-media",
+      "question": "What should I test before gluing found papers into an artwork?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-077-r1",
+          "text": "Check whether ink bleeds, paper wrinkles, or adhesive discolors a sample. Consider long-term material stability if the work is meant to be preserved.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-078",
+      "topic": "mixed-media",
+      "question": "How can I add stitching to mixed-media paper?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-078-r1",
+          "text": "Pre-pierce holes on a supported surface and keep tension gentle to prevent tears. Use the stitch direction to reinforce movement or structure.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-079",
+      "topic": "mixed-media",
+      "question": "How do I balance tactile and painted textures?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-079-r1",
+          "text": "Reserve strong relief for selected areas and let flatter paint provide contrast. View the piece under angled light to see how physical shadows affect the composition.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-080",
+      "topic": "mixed-media",
+      "question": "What can I do with fabric scraps in a visual story?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-080-r1",
+          "text": "Use differences in weave, wear, and pattern as narrative clues. Test placement before attaching them, and respect the provenance of found or borrowed materials.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-081",
+      "topic": "mixed-media",
+      "question": "How should I combine digital prints with hand painting?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-081-r1",
+          "text": "Test the print's ink and paper for smudging or warping, then add marks that meaningfully extend the image rather than obscuring its strongest features.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-082",
+      "topic": "mixed-media",
+      "question": "How can I make assemblage objects look related?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-082-r1",
+          "text": "Group them by a visual language such as repeated curves, a common material, or a deliberate progression in scale. Leave enough negative space to read each object.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-083",
+      "topic": "mixed-media",
+      "question": "What is a good way to document a layered collage?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-083-r1",
+          "text": "Photograph the work head-on and from an angle that reveals relief. Keep notes on materials and assembly if future conservation matters.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-084",
+      "topic": "mixed-media",
+      "question": "How do I plan a recycled-material artwork responsibly?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-084-r1",
+          "text": "Clean and inspect materials, avoid sharp or toxic components, and choose forms that use their existing qualities. Treat safety as part of the creative design.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-085",
+      "topic": "mixed-media",
+      "question": "How can I incorporate handwriting into a visual piece?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-085-r1",
+          "text": "Use words as image elements by considering line, spacing, and opacity. Decide whether the viewer must read the text or simply feel its rhythm.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-086",
+      "topic": "mixed-media",
+      "question": "What helps prevent a mixed-media piece from becoming cluttered?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-086-r1",
+          "text": "Remove one material family temporarily and examine the focal point. Restore only what adds a needed contrast, association, or structure.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-087",
+      "topic": "mixed-media",
+      "question": "How do I combine natural objects with paper art?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-087-r1",
+          "text": "Consider moisture, brittleness, and preservation limits. Photograph or make impressions of fragile items if attaching the originals would cause harm.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-088",
+      "topic": "mixed-media",
+      "question": "What can transparency add to a collage?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-088-r1",
+          "text": "Transparent layers allow earlier images to remain visible and can suggest memory, time, or overlapping perspectives. Plan what should appear through each layer.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-089",
+      "topic": "mixed-media",
+      "question": "How should I title a mixed-media artwork?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-089-r1",
+          "text": "Use a title that opens a meaningful doorway rather than explaining every symbol. Compare a descriptive, poetic, and neutral option before choosing.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-090",
+      "topic": "mixed-media",
+      "question": "How can I test the durability of a mixed-media artwork?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-090-r1",
+          "text": "Make a small mockup using the same adhesives, surfaces, and finishes. Observe curling, cracking, or detachment before committing to the final work.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-091",
+      "topic": "illustration-story",
+      "question": "How can I show a character's emotion without using facial expressions?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-091-r1",
+          "text": "Use posture, distance between figures, placement in the frame, and color or light relationships. A subtle gesture may carry more meaning than a dramatic face.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-092",
+      "topic": "illustration-story",
+      "question": "What is a visual motif in a picture book?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-092-r1",
+          "text": "It is a shape, object, or color relationship that recurs with purpose. Let its meaning develop across scenes instead of repeating it only as decoration.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-093",
+      "topic": "illustration-story",
+      "question": "How should I plan the first image in a visual narrative?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-093-r1",
+          "text": "Give the viewer an inviting clue about place, character, or tension. Decide which information belongs in the image rather than duplicating every word of the text.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-094",
+      "topic": "illustration-story",
+      "question": "What makes an illustrated character recognizable across pages?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-094-r1",
+          "text": "Keep a few stable proportions, silhouettes, and distinguishing details while varying poses and expressions. Make a reference sheet before drawing the full sequence.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-095",
+      "topic": "illustration-story",
+      "question": "How can I suggest that time has passed in a sequence of images?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-095-r1",
+          "text": "Repeat a recognizable setting or object while changing light, position, season, or activity. Give viewers enough continuity to notice the passage.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-096",
+      "topic": "illustration-story",
+      "question": "How do I make a quiet scene visually interesting?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-096-r1",
+          "text": "Use meaningful framing, small contrasts, and body language rather than forcing action. Silence and open space can carry narrative weight.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-097",
+      "topic": "illustration-story",
+      "question": "How can I design a believable imaginary environment?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-097-r1",
+          "text": "Establish consistent rules for materials, scale, and light. Repeat those rules in several small studies so the place feels coherent.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-098",
+      "topic": "illustration-story",
+      "question": "What helps a book illustration support young readers?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-098-r1",
+          "text": "Keep the main action readable, avoid overcrowding, and give visual clues that reinforce comprehension. Let illustration add discovery without confusing the text.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-099",
+      "topic": "illustration-story",
+      "question": "How do I make the same location feel different in two scenes?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-099-r1",
+          "text": "Change viewpoint, lighting, weather, or which detail receives emphasis. Preserve enough landmarks to keep the location recognizable.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-100",
+      "topic": "illustration-story",
+      "question": "How can an object become a story symbol?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-100-r1",
+          "text": "Show its practical role first, then repeat it at turning points with changed context. Let the audience discover the association instead of explaining it outright.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-101",
+      "topic": "illustration-story",
+      "question": "What is the benefit of planning a storyboard in thumbnails?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-101-r1",
+          "text": "You can test pace, image size, and scene transitions quickly. Rearranging thumbnails is easier than repainting polished illustrations.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-102",
+      "topic": "illustration-story",
+      "question": "How should I design a panel transition in a comic?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-102-r1",
+          "text": "Decide what happens between panels and how much the reader must infer. Vary the interval for speed, suspense, or reflection.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-103",
+      "topic": "illustration-story",
+      "question": "How do I illustrate an abstract idea like belonging?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-103-r1",
+          "text": "Choose a concrete visual relationship: proximity, shared space, repeated forms, or one figure entering a group. Avoid treating any single symbol as universal.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-104",
+      "topic": "illustration-story",
+      "question": "What helps an illustrated sequence avoid repetitive viewpoints?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-104-r1",
+          "text": "Alternate close views, wider context, and changes in height or angle when the story benefits. Keep shifts purposeful rather than decorative.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-105",
+      "topic": "illustration-story",
+      "question": "How can I preserve my own style while studying other illustrators?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-105-r1",
+          "text": "Study their problem-solving methods—composition, values, pacing—then apply the principle to your original subject and marks. Avoid copying protected designs as finished work.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-106",
+      "topic": "portfolio-curation",
+      "question": "How should I select artwork for a first portfolio?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-106-r1",
+          "text": "Choose pieces that show your strongest decisions and a useful range of skills. A focused selection often communicates more than including everything you have made.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-107",
+      "topic": "portfolio-curation",
+      "question": "What should appear first in an online artist portfolio?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-107-r1",
+          "text": "Lead with a piece that represents the work you most want to make now. Follow with images that deepen that impression and demonstrate consistency.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-108",
+      "topic": "portfolio-curation",
+      "question": "How can I arrange a portfolio with very different media?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-108-r1",
+          "text": "Group projects by a shared theme, visual approach, or series. Short section labels can clarify the relationship without forcing unrelated pieces together.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-109",
+      "topic": "portfolio-curation",
+      "question": "What makes a useful caption for an artwork?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-109-r1",
+          "text": "Include the title, medium, year, dimensions when relevant, and a concise context if it adds meaning. Keep factual details accurate and distinguish concept from process.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-110",
+      "topic": "portfolio-curation",
+      "question": "How can I write an artist statement without sounding generic?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-110-r1",
+          "text": "Describe what you investigate, how you work, and why those choices matter to you. Use concrete examples instead of grand claims about creativity.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-111",
+      "topic": "portfolio-curation",
+      "question": "How do I photograph a textured painting for a submission?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-111-r1",
+          "text": "Capture an even, color-accurate frontal image and consider a separate detail shot under angled light. Follow the recipient's file and dimension requirements.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-112",
+      "topic": "portfolio-curation",
+      "question": "What should I do when a portfolio piece is unfinished?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-112-r1",
+          "text": "Decide whether the process itself is worth showing, and label it clearly as a study or work in progress. Do not imply it is a finished commission.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-113",
+      "topic": "portfolio-curation",
+      "question": "How can I show growth without including weak early pieces?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-113-r1",
+          "text": "Pair a carefully selected early study with a recent work only when the comparison communicates a meaningful change in method or thinking.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-114",
+      "topic": "portfolio-curation",
+      "question": "How should I organize a series for an exhibition proposal?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-114-r1",
+          "text": "Define the shared question or visual language, then order pieces by rhythm and contrast. A simple floor or wall mockup can reveal awkward transitions.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-115",
+      "topic": "portfolio-curation",
+      "question": "How can I create a consistent portfolio layout?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-115-r1",
+          "text": "Use repeatable margins, image scales, caption styles, and navigation. Give each artwork enough space so the interface does not compete with it.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-116",
+      "topic": "portfolio-curation",
+      "question": "What should I include when documenting a commissioned artwork?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-116-r1",
+          "text": "Record the approved brief, deliverables, materials, revisions, credits, and final approval. Keep private client information out of public descriptions.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-117",
+      "topic": "portfolio-curation",
+      "question": "How do I choose which works belong together in a gallery wall?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-117-r1",
+          "text": "Test scale, color, spacing, and narrative relationships. Leave enough quiet space between strong pieces so neither loses its identity.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-118",
+      "topic": "portfolio-curation",
+      "question": "How should I describe artwork for accessibility?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-118-r1",
+          "text": "Write concise alternative text identifying the main subject, composition, meaningful visual details, and any text in the image. Do not guess unseen intentions as fact.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-119",
+      "topic": "portfolio-curation",
+      "question": "How can I review whether my portfolio feels coherent?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-119-r1",
+          "text": "Ask a trusted viewer what they remember after a quick pass, then compare that impression with your artistic intention. Adjust selection before adding more decoration.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-120",
+      "topic": "portfolio-curation",
+      "question": "How do I prepare a portfolio for an unfamiliar opportunity?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-120-r1",
+          "text": "Read the current guidelines, select relevant original work, check image quality and metadata, and verify submission terms before sending anything.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-121",
+      "topic": "critique-mentorship",
+      "question": "How can I ask for feedback without losing ownership of my art?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-121-r1",
+          "text": "Name the specific question you want help with—composition, clarity, mood, or technique—and say which decisions you want to keep. Feedback should support your judgment.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-122",
+      "topic": "critique-mentorship",
+      "question": "What is a helpful first sentence in an art critique?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-122-r1",
+          "text": "Describe something observable before evaluating it, such as the placement of the brightest shape. This gives the creator information rather than a verdict.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-123",
+      "topic": "critique-mentorship",
+      "question": "How do I respond when two people give opposite critiques?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-123-r1",
+          "text": "Find the underlying goals behind each suggestion and test small variations. Your artistic intention determines which, if either, is useful.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-124",
+      "topic": "critique-mentorship",
+      "question": "How can I critique a beginner's drawing respectfully?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-124-r1",
+          "text": "Name one effective choice, identify one changeable issue, and offer a practical exercise. Avoid equating technical experience with artistic worth.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-125",
+      "topic": "critique-mentorship",
+      "question": "What should I ask before suggesting a major revision?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-125-r1",
+          "text": "Ask what the artist wants the viewer to notice and which elements are nonnegotiable. A dramatic improvement by one standard may undermine the intended expression.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-126",
+      "topic": "critique-mentorship",
+      "question": "How do I give feedback on a highly personal artwork?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-126-r1",
+          "text": "Ask permission, focus on the work's visual communication, and avoid analyzing the creator's private life or mental health from the imagery.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-127",
+      "topic": "critique-mentorship",
+      "question": "What makes a critique actionable instead of vague?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-127-r1",
+          "text": "Identify a specific relationship, explain what it currently does, and suggest a test: for example, compare two value studies with different focal points.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-128",
+      "topic": "critique-mentorship",
+      "question": "How can an artist test feedback without committing to it?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-128-r1",
+          "text": "Use a transparent overlay, duplicate digital layer, small color sketch, or removable crop. Keep the original version available for comparison.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-129",
+      "topic": "critique-mentorship",
+      "question": "How should I respond to someone who says their art is bad?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-129-r1",
+          "text": "Invite them to name what feels unresolved, then separate artistic intention from a technical problem they can practice. Broad labels offer little direction.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-130",
+      "topic": "critique-mentorship",
+      "question": "How can I help an artist who feels stuck between two concepts?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-130-r1",
+          "text": "Make a quick decision grid for meaning, feasibility, and excitement, then create a small test of each. The artist makes the final choice.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-131",
+      "topic": "critique-mentorship",
+      "question": "When is it better to ask a question than give advice?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-131-r1",
+          "text": "Ask when the work's intention, audience, or constraints are unclear. One good question can prevent advice that solves the wrong problem.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-132",
+      "topic": "critique-mentorship",
+      "question": "How do I critique digital work without focusing only on software?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-132-r1",
+          "text": "Discuss composition, hierarchy, rhythm, and meaning first. Tools matter when their settings materially affect the artistic result.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-133",
+      "topic": "critique-mentorship",
+      "question": "How should I handle an artist rejecting my suggestion?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-133-r1",
+          "text": "Respect the decision and explore another path if invited. An art director offers possibilities and reasoning, not ownership of the final piece.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-134",
+      "topic": "critique-mentorship",
+      "question": "How can I run a constructive peer critique circle?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-134-r1",
+          "text": "Agree on consent, time limits, observation-first language, and a right to decline suggestions. Keep comments about the work rather than the artist's identity.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-135",
+      "topic": "critique-mentorship",
+      "question": "How do I tell when feedback has become overwhelming?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-135-r1",
+          "text": "Pause the critique and select one or two priorities related to the creator's goal. More comments are not always more useful.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-136",
+      "topic": "community-guidance",
+      "question": "How should a new artist introduce work in a public art discussion?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-136-r1",
+          "text": "Share a brief description, relevant context, and the kind of feedback you welcome. Avoid posting personal contact or account details unless the space is designed for them.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-137",
+      "topic": "community-guidance",
+      "question": "What can a moderator do about an unkind critique?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-137-r1",
+          "text": "Describe the conduct, refer to the community standard, and recommend proportionate action to an authorized human moderator. Disagreement alone is not misconduct.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-138",
+      "topic": "community-guidance",
+      "question": "How should an artist respond to repeated unwanted comments?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-138-r1",
+          "text": "Use available mute or block controls, keep minimal evidence where appropriate, and use the community's reporting pathway. No one has to continue an unwanted exchange.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-139",
+      "topic": "community-guidance",
+      "question": "Can Zelle delete a comment or ban a member by herself?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-139-r1",
+          "text": "No. Zelle may explain standards or prepare a recommendation, but enforcement requires verified authorization and human review in the current governance model.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-140",
+      "topic": "community-guidance",
+      "question": "How can a community distinguish criticism from harassment?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-140-r1",
+          "text": "Consider repetition, targeting, threats, and context—not simply whether the comment is negative. A fair review should allow legitimate artistic disagreement.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-141",
+      "topic": "community-guidance",
+      "question": "What should happen after a suspicious post is reported?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-141-r1",
+          "text": "Preserve only necessary context, avoid publicly accusing anyone, and route the report to an authorized reviewer if that pathway is available. Do not claim a report was delivered without confirmation.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-142",
+      "topic": "community-guidance",
+      "question": "How should moderators handle an appeal?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-142-r1",
+          "text": "Give the affected person a clear way to request review, retain relevant decision reasons, and allow correction when context or evidence changes.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-143",
+      "topic": "community-guidance",
+      "question": "What can Zelle do if someone claims an artwork was stolen?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-143-r1",
+          "text": "Encourage preservation of attribution and source evidence and guide the person to the platform's reporting process. Avoid deciding copyright ownership from one unverified claim.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-144",
+      "topic": "community-guidance",
+      "question": "How do we protect artists' private messages in a live art community?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-144-r1",
+          "text": "Do not grant observation access simply because the community has moderation features. Only verified, purpose-limited authorization can permit any private-message review.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-145",
+      "topic": "community-guidance",
+      "question": "How should a community respond to spam without censoring new artists?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-145-r1",
+          "text": "Look for behavior patterns and applicable rules, not unfamiliar styles or low follower counts. Use measured review and a chance to correct mistakes.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-146",
+      "topic": "community-guidance",
+      "question": "What does Araneae's observation role mean for Bazaar Art Live?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-146-r1",
+          "text": "Araneae's designated brood may support scoped integrity observations and evidence escalation under policy. Zelle's supervisory role does not give her unrestricted surveillance or destructive powers.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-147",
+      "topic": "community-guidance",
+      "question": "How can artists share disagreement respectfully?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-147-r1",
+          "text": "Explain what you see and how it affects your reading, then invite the creator's perspective. Avoid insults, assumed motives, or demands for conformity.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-148",
+      "topic": "community-guidance",
+      "question": "Should an automated safety label be treated as a final decision?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-148-r1",
+          "text": "No. Automated indicators can be wrong; preserve context, uncertainty, and an accountable human review process before consequential enforcement.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-149",
+      "topic": "community-guidance",
+      "question": "How can a community welcome beginners and professionals together?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-149-r1",
+          "text": "Offer clear feedback expectations, separate critique from casual sharing, and value experimentation as well as technical polish.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-150",
+      "topic": "community-guidance",
+      "question": "What if the review queue is not connected yet?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-150-r1",
+          "text": "Explain that no verified submission occurred, retain only user-authorized local notes if appropriate, and direct the person to a currently available official reporting route.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-151",
+      "topic": "creative-direction",
+      "question": "How can I write a visual brief for a collaborative project?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-151-r1",
+          "text": "State the audience, purpose, constraints, desired feeling, references, deliverables, and approval steps. Distinguish required decisions from open creative choices.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-152",
+      "topic": "creative-direction",
+      "question": "How can I direct a project without dictating the artist's style?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-152-r1",
+          "text": "Describe the communication goal and offer visual options with reasons. Let the artist propose the treatment and retain authorship within agreed constraints.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-153",
+      "topic": "creative-direction",
+      "question": "What should a mood board communicate?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-153-r1",
+          "text": "Show a focused set of color, texture, composition, and emotional references with short annotations. Explain relationships rather than copying another artist's finished work.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-154",
+      "topic": "creative-direction",
+      "question": "How do I choose between two design directions?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-154-r1",
+          "text": "Compare each against the brief's purpose, accessibility, production needs, and distinctiveness. Prototype the uncertain parts instead of deciding only by taste.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-155",
+      "topic": "creative-direction",
+      "question": "How can I maintain visual consistency across a campaign?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-155-r1",
+          "text": "Define reusable type, color, spacing, image-treatment, and crediting rules while allowing each work to have its own subject and rhythm.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-156",
+      "topic": "creative-direction",
+      "question": "What makes a productive art-direction meeting?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-156-r1",
+          "text": "Review the intended outcome, inspect a few representative images, record decisions and open questions, and assign approvals without blurring creative ownership.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-157",
+      "topic": "creative-direction",
+      "question": "How should I prepare an artwork for a digital exhibition?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-157-r1",
+          "text": "Check image quality, artist consent, credits, accessibility descriptions, ordering, and device presentation. Preserve original files and avoid unapproved edits.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-158",
+      "topic": "creative-direction",
+      "question": "What should I ask before recommending a new medium?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-158-r1",
+          "text": "Consider the artist's intent, materials, budget, accessibility, available time, and safe workspace. A novel material is useful only if it serves the work.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-159",
+      "topic": "creative-direction",
+      "question": "How can I design an inclusive visual workshop?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-159-r1",
+          "text": "Offer multiple ways to participate, clear demonstrations, optional prompts, adjustable materials, and alternatives for different physical or sensory needs.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-160",
+      "topic": "creative-direction",
+      "question": "How do I direct an exhibition with works from many artists?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-160-r1",
+          "text": "Develop a shared curatorial thread while preserving individual attribution and context. Use spacing and signage to help visitors see each work distinctly.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-161",
+      "topic": "creative-direction",
+      "question": "How can I prepare a creative handoff to another specialist?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-161-r1",
+          "text": "Summarize the visual question, constraints, approved materials, and what still needs a decision. Seek permission before passing any private context to Eiren, Moirai, or another mentor.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-162",
+      "topic": "creative-direction",
+      "question": "What can I do when an art commission brief keeps changing?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-162-r1",
+          "text": "Record the new scope, effects on timing or deliverables, and required approvals. Avoid implying an artist agreed to changes that were not confirmed.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-163",
+      "topic": "creative-direction",
+      "question": "How should an art director handle sensitive symbolism?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-163-r1",
+          "text": "Ask about the intended audience and cultural context, research meanings with reliable sources, and invite relevant perspectives without claiming one interpretation is universal.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-164",
+      "topic": "creative-direction",
+      "question": "How can I help a team choose art assets responsibly?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-164-r1",
+          "text": "Check provenance, permissions, accessibility, quality, and suitability. Do not assume that an image found online is available for unrestricted use.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-165",
+      "topic": "creative-direction",
+      "question": "How do I know whether an art direction is ready for approval?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-165-r1",
+          "text": "Confirm it serves the brief, has been tested at its final scale, respects authorship and permissions, and clearly identifies who must approve the next step.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-166",
+      "topic": "art-history-ethics",
+      "question": "How should I study an artist's technique without copying their work?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-166-r1",
+          "text": "Analyze the choices that produce the effect, practice the underlying skill with original subjects, and credit the source of your study.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-167",
+      "topic": "art-history-ethics",
+      "question": "What is the difference between inspiration and imitation?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-167-r1",
+          "text": "Inspiration transforms an idea through your own purpose and decisions; imitation closely follows a specific treatment. Examine whether the final work has an independent voice.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-168",
+      "topic": "art-history-ethics",
+      "question": "How can I reference a cultural pattern respectfully?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-168-r1",
+          "text": "Learn its origin and significance, consider whether it is ceremonial or restricted, and seek appropriate guidance or permission where needed.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-169",
+      "topic": "art-history-ethics",
+      "question": "Why does provenance matter for an old artwork?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-169-r1",
+          "text": "Documented ownership and exhibition history help researchers evaluate authenticity, context, and lawful custody. Uncertainty should be recorded rather than concealed.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-170",
+      "topic": "art-history-ethics",
+      "question": "How can I compare two art movements fairly?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-170-r1",
+          "text": "Choose specific works and examine form, materials, historical circumstances, and intended audiences. Avoid reducing a movement to one universal style.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-171",
+      "topic": "art-history-ethics",
+      "question": "What should I include when researching a public-domain image?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-171-r1",
+          "text": "Verify the particular image's copyright status in the relevant jurisdiction, distinguish the underlying artwork from the reproduction, and preserve accurate attribution.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-172",
+      "topic": "art-history-ethics",
+      "question": "How do I credit collaborators in a mixed-media piece?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-172-r1",
+          "text": "Record each person's contribution and agreed credit format before publication. Collaborative creation should not erase individual authorship.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-173",
+      "topic": "art-history-ethics",
+      "question": "How can I discuss an artwork's symbolism without overclaiming?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-173-r1",
+          "text": "Separate what is visible from historical evidence and your own interpretation. More than one reasonable reading may remain possible.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-174",
+      "topic": "art-history-ethics",
+      "question": "What is a useful way to study portraiture across cultures?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-174-r1",
+          "text": "Compare works in context, including who commissioned them, how subjects are represented, and which conventions are local to their time and place.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-175",
+      "topic": "art-history-ethics",
+      "question": "How should I handle a controversial image in an educational display?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-175-r1",
+          "text": "Provide accurate context, audience-aware warnings where appropriate, and room for informed discussion. Do not use shock alone as a substitute for explanation.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-176",
+      "topic": "art-history-ethics",
+      "question": "Why should an art archive keep original captions?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-176-r1",
+          "text": "Original language records historical framing and attribution. New interpretation can be added separately without silently overwriting the source.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-177",
+      "topic": "art-history-ethics",
+      "question": "How do I distinguish conservation from creative alteration?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-177-r1",
+          "text": "Conservation aims to stabilize and document an existing object; alteration changes its presentation or substance. Such choices require appropriate expertise, consent, and records.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-178",
+      "topic": "art-history-ethics",
+      "question": "How can I research the material history of a painting?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-178-r1",
+          "text": "Look for documented pigments, supports, workshop methods, and condition records. Present uncertain identifications as hypotheses, not facts.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-179",
+      "topic": "art-history-ethics",
+      "question": "What should I consider before using an artist's image in a commercial design?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-179-r1",
+          "text": "Check copyright, licensing, moral rights where applicable, and the terms of the intended use. Seek qualified guidance for uncertain rights questions.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
+    },
+    {
+      "schema": "zelle-question-v1",
+      "id": "zelle-2026-exp-180",
+      "topic": "art-history-ethics",
+      "question": "How do I teach art history without treating one tradition as the default?",
+      "alternateQuestions": [],
+      "keywords": [],
+      "responses": [
+        {
+          "id": "zelle-2026-exp-180-r1",
+          "text": "Include works from varied regions and communities with appropriate historical context. Compare techniques and ideas without ranking cultures by a single standard.",
+          "weight": 1
+        }
+      ],
+      "rebuttals": [],
+      "followups": [],
+      "status": "approved",
+      "source": "founder-approved-zelle-editorial-expansion-2026-11-08",
+      "version": 1
     }
   ]
 }
