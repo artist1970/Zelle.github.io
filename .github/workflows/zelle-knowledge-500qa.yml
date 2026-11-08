@@ -1,0 +1,33 @@
+name: Zelle Public Knowledge Bank Validation
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'knowledge/question-records.json'
+      - 'knowledge/zelle-qa-expansion-180.review.json'
+      - 'tests/zelle-qa-expansion.test.mjs'
+      - '.github/workflows/zelle-knowledge-500qa.yml'
+  pull_request:
+    paths:
+      - 'knowledge/question-records.json'
+      - 'knowledge/zelle-qa-expansion-180.review.json'
+      - 'tests/zelle-qa-expansion.test.mjs'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-zelle-500qa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate Zelle's approved knowledge bank and publication lineage
+        run: node --test tests/zelle-qa-expansion.test.mjs
