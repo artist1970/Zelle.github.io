@@ -43,7 +43,7 @@ function create(records=[]){
      return finish("I love that connection between circles and infinity as a visual idea. A circle can suggest continuity, cycles, or possibility. Would you like to make a composition using repeated circles of different sizes?","circles","circle-composition");
    if(/\b(what can i paint|what should i paint|painting idea|paint today|something to paint)\b/.test(s))
      return finish("Try one of three painting prompts: a window in changing light, a still life in only three colors, or an imaginary garden built from circles. Which sounds exciting? I can help you pick supplies and the first step.","painting","painting-prompt");
-   if(/\b(suppl|materials|what do i need|tools needed|what should i bring)\b/.test(s)){
+   if(/\b(suppl\w*|materials|what do i need|tools needed|what should i bring)\b/.test(s)){
      if(memory.subject==="portrait")
        return finish("For a portrait sketch, start with paper, an HB or 2B pencil, and an eraser. A mirror or reference with permission is useful. Keep the first marks light.","portrait","portrait-practice");
      if(memory.subject==="painting"||memory.activity==="painting-prompt")
