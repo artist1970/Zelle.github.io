@@ -10,6 +10,7 @@
   const exportButton = root.querySelector("[data-zelle-export]");
   const queueKey = "zelle-unanswered-v1";
   let topics = [];
+  const dialogue = globalThis.ZelleDialogue?.create?.() || null;
   let current = null;
   let lastResponse = "";
   let turn = 0;
@@ -54,22 +55,16 @@
     return pool[pool.length - 1].text;
   }
   function respond(message) {
-    const ranked = topics.map(topic => ({topic, score:score(topic, message)})).sort((a,b) => b.score-a.score);
-    let match = ranked[0];
-    if (!match || match.score <= 0) {
-      const shortAnswer = words(message).length <= 5 && current && !/\b(hello|hi|thanks|thank you)\b/i.test(message);
-      if (shortAnswer) match = {topic:topics.find(x => x.id === current),score:0.5};
+    // The dialogue layer prioritizes full-turn intent and bounded session context.
+    // Never treat a low-confidence word overlap as a reliable answer.
+    const reply = dialogue?.answer(message);
+    if (typeof reply === "string" && reply.trim()) {
+      lastResponse = reply;
+      turn++;
+      return reply;
     }
-    if (!match || !match.topic || match.score <= 0) {
-      queueUnknown(message);
-      return "That's an interesting question, and I don't have a reliable prepared answer yet. Could you tell me a little more about what you'd like to make or learn?";
-    }
-    current = match.topic.id;
-    const response = choose(match.topic.responses);
-    lastResponse = response;
-    turn++;
-    const followup = turn % 2 === 0 ? choose(match.topic.followups) : "";
-    return response + (followup ? " " + followup : "");
+    queueUnknown(message);
+    return "I don't have a reliable prepared answer for that question yet. Could you tell me what you're trying to draw, paint, or design? I can help you find a starting point.";
   }
   function category(message) {
     const m = message.toLowerCase();
@@ -83,7 +78,11 @@
   function queueUnknown(message) {
     // No server upload: user can export for review. Avoid recording duplicates.
     const text = message.trim().slice(0, 500);
-    if (!text || unanswered.some(x => x.question.toLowerCase() === text.toLowerCase())) return;
+    // Browser-local review only: never queue likely personal, secret, or high-risk content.
+    if (!text || text.length < 8 ||
+        /@|https?:|www\.|(?:\+?\d[\d .()-]{8,}\d)/i.test(text) ||
+        /\b(?:password|secret|token|private|student|child|minor|medical|health|diagnos|therapy|suicide|self harm|address|phone|email|my name is|my daughter|my son|credit card|social security|bank account)\b/i.test(text) ||
+        unanswered.some(x => x.question.toLowerCase() === text.toLowerCase())) return;
     unanswered.push({id:"q-"+Date.now()+"-"+Math.floor(Math.random()*100000),folder:category(text),question:text,status:"needs-curation",source:"voluntary-local-session"});
     unanswered = unanswered.slice(-100);
     try { localStorage.setItem(queueKey, JSON.stringify(unanswered)); } catch {}
@@ -92,7 +91,8 @@
   fetch("./knowledge/question-records.json", {cache:"no-store"}).then(r => {if(!r.ok) throw Error("Knowledge unavailable");return r.json();}).then(data => {
     if (data.schema !== "zelle-question-collection-v1" || !Array.isArray(data.records)) throw Error("Invalid knowledge");
     topics = data.records.filter(x => x && x.status === "approved" && typeof x.id === "string" && Array.isArray(x.keywords)).map(x => ({...x, folder:x.topic, questions:[x.question,...(x.alternateQuestions || [])]}));
-    status.textContent = "Curated local knowledge ready. Unanswered questions are stored only on this device for optional export.";
+    dialogue?.setRecords(topics);
+    status.textContent = "Zelle’s "+topics.length+" reviewed art answers are ready. Unanswered general questions stay on this device for optional export; no remote search or upload is active.";
   }).catch(() => {status.textContent = "Knowledge library unavailable. Please refresh when connected; no questions are being uploaded.";});
   form.addEventListener("submit", event => {
     event.preventDefault();
@@ -106,6 +106,7 @@
   root.querySelector("[data-zelle-clear]").addEventListener("click", () => {
     output.replaceChildren();
     current = null; lastResponse = ""; turn = 0;
+    dialogue?.reset();
     add("Zelle","A fresh canvas. What would you like to explore?");
     status.textContent = "Conversation cleared. The separate local unanswered-question queue was not deleted.";
   });
