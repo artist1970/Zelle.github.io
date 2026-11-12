@@ -4,6 +4,9 @@ on:
     branches: [main]
     paths:
       - 'index.html'
+      - 'creative-spark-mentor-language-v1.js'
+      - 'creative-spark-language-request-v1.js'
+      - 'tests/creative-spark-language-request.test.mjs'
       - 'zelle-conversation.js'
       - 'creative-spark-mentor-qa-v1.js'
       - 'tests/mentor-qa-federation-integration.test.mjs'
@@ -25,4 +28,4 @@ jobs:
         with:
           node-version: '22'
       - name: Zelle ecosystem regression
-        run: node --test tests/zelle-ecosystem-upgrade.test.mjs tests/zelle-qa-expansion.test.mjs tests/zelle-dialogue-context.test.mjs tests/zelle-polyglot-voice.test.mjs tests/mentor-full-voice.test.mjs tests/mentor-qa-federation-integration.test.mjs
+        run: node --test tests/zelle-ecosystem-upgrade.test.mjs tests/zelle-qa-expansion.test.mjs tests/zelle-dialogue-context.test.mjs tests/zelle-polyglot-voice.test.mjs tests/mentor-full-voice.test.mjs tests/mentor-qa-federation-integration.test.mjs tests/creative-spark-language-request.test.mjs
