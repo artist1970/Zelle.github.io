@@ -167,6 +167,7 @@ footer{
 .zelle-chat-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
 .zelle-chat-status{color:var(--muted);font-size:.88rem}
 </style>
+<link rel="stylesheet" href="styles/zelle-landing-refinement-v1.css">
 </head>
 <body>
 <div class="wrap">
@@ -175,8 +176,8 @@ footer{
   <div class="tag">Imagination · Curiosity · Making</div>
 </header>
 
-<main>
-<section class="hero">
+<main id="main">
+<section class="hero" id="zelle-introduction">
   <div class="hero-inner">
     <div class="spark" aria-hidden="true">✦</div>
     <div class="kicker">For the moment before making</div>
@@ -186,6 +187,11 @@ footer{
       or simply the feeling that you want to make something.
     </p>
     <p class="quote">“There is always another door into the work.”</p>
+    <nav class="zelle-hero-actions" aria-label="Zelle's studio">
+      <a href="#zelle-conversation">Talk with Zelle</a>
+      <a href="#zelle-live-roles">Bazaar Art Live roles</a>
+      <a href="#mentor-language-laboratory">Knowledge directory</a>
+    </nav>
   </div>
 </section>
 
@@ -219,6 +225,10 @@ footer{
 </section>
 
 <section aria-labelledby="zelle-chat-title">
+  <nav class="zelle-section-anchor" aria-label="Creative studio section navigation">
+    <span>Creative Studio · Talk with Zelle</span>
+    <a href="#zelle-introduction">Back to introduction ↑</a>
+  </nav>
   <h2 id="zelle-chat-title">Talk with Zelle · Creative Studio</h2>
   <p class="copy">Explore artistic ideas using Zelle's curated question library and varied responses. This is an offline-friendly, rule-based creative companion—not a live AI or moderation channel.</p>
   <div class="zelle-chat" id="zelle-conversation">
@@ -276,7 +286,13 @@ footer{
 </main>
 
 <footer>
-  Zelle · Creative Guide
+  Zelle · Art Director at Bazaar Art · Verve N Veda
+  <nav class="zelle-footer-nav" aria-label="Footer navigation">
+    <a href="#zelle-introduction">Introduction</a>
+    <a href="#zelle-conversation">Creative Studio</a>
+    <a href="#zelle-live-roles">Bazaar Art Live</a>
+    <a href="https://vervenveda.com/">Verve N Veda</a>
+  </nav>
 </footer>
 </div>
 <script src="https://artist1970.github.io/creative-spark.github.io/language-laboratory/mentor-public-lookup-v1.js" data-mentor-id="zelle" defer></script>
@@ -287,5 +303,9 @@ footer{
 <script src="./zelle-conversation.js" defer></script>
 <script src="./zelle-voice.js" defer></script>
 <script>window.addEventListener("DOMContentLoaded",()=>window.CreativeSparkMentorLanguage?.init("zelle"),{once:true});</script>
+<script src="https://vervenveda.com/assets/vnv-333-ticker.js" defer></script>
+<script src="https://vervenveda.com/assets/vnv-ticker-autopopulate.js" defer></script>
+<script src="https://vervenveda.com/assets/vnv-ecosystem-toolbar.js" defer></script>
+<script>window.addEventListener("load",()=>window.VNV_TICKER?.autoPopulate?.({label:"Zelle · Bazaar Art",max:14}),{once:true});</script>
 </body>
 </html>
