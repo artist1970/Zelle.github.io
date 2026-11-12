@@ -14,7 +14,9 @@ function context(){
   lookup:(word,{mentorId,mode})=>word==="abacus"&&mentorId==="zelle"&&mode==="definition"?"abacus: a reviewed counting tool":null,
   grammar:(text,{mentorId})=>mentorId==="zelle"?{notes:["Article may need review."],advisory:true}:null
  }};
- vm.runInNewContext(dialogue,{window,console},{timeout:1500});
+ const context={window,console};context.globalThis=context;
+ vm.runInNewContext(dialogue,context,{timeout:1500});
+ context.window.ZelleDialogue=context.ZelleDialogue;
  const s=window.ZelleDialogue.create(bank.records);
  return {window,s};
 }
