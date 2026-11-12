@@ -1,0 +1,26 @@
+name: Zelle Ecosystem Upgrade Regression
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'zelle-conversation.js'
+      - 'zelle-dialogue-core.js'
+      - 'zelle-voice.js'
+      - 'creative-spark-mentor-language-v1.js'
+      - 'styles/zelle-landing-refinement-v1.css'
+      - 'tests/zelle-ecosystem-upgrade.test.mjs'
+      - '.github/workflows/zelle-ecosystem-upgrade.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Zelle ecosystem regression
+        run: node --test tests/zelle-ecosystem-upgrade.test.mjs tests/zelle-qa-expansion.test.mjs tests/zelle-dialogue-context.test.mjs tests/zelle-polyglot-voice.test.mjs tests/mentor-full-voice.test.mjs
