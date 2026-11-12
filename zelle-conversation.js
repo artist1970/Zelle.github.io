@@ -8,6 +8,8 @@
   const input = root.querySelector("textarea");
   const status = root.querySelector("[data-zelle-status]");
   const exportButton = root.querySelector("[data-zelle-export]");
+  const deleteButton = root.querySelector("[data-zelle-delete]");
+  const optIn = root.querySelector("[data-zelle-review-optin]");
   const queueKey = "zelle-unanswered-v1";
   let topics = [];
   const dialogue = globalThis.ZelleDialogue?.create?.() || null;
@@ -15,6 +17,7 @@
   let lastResponse = "";
   let turn = 0;
   let unanswered = [];
+  let consent = false; // Deliberately session-only and off after each page load.
   try { const saved = JSON.parse(localStorage.getItem(queueKey) || "[]"); if (Array.isArray(saved)) unanswered = saved.slice(-100); } catch {}
   function add(speaker, message) {
     const item = document.createElement("p");
@@ -76,6 +79,7 @@
     return "general";
   }
   function queueUnknown(message) {
+    if (!consent) return;
     // No server upload: user can export for review. Avoid recording duplicates.
     const text = message.trim().slice(0, 500);
     // Browser-local review only: never queue likely personal, secret, or high-risk content.
@@ -87,12 +91,23 @@
     unanswered = unanswered.slice(-100);
     try { localStorage.setItem(queueKey, JSON.stringify(unanswered)); } catch {}
   }
+  if(optIn) optIn.addEventListener("change",()=>{
+    consent=!!optIn.checked;
+    status.textContent=consent
+      ?"Optional local review enabled for screened unmatched art questions; export or delete them any time."
+      :"Local unanswered-question capture is off. Existing saved entries remain available to export or delete.";
+  });
+  if(deleteButton) deleteButton.addEventListener("click",()=>{
+    unanswered=[];
+    try{localStorage.removeItem(queueKey);}catch{}
+    status.textContent="Saved unanswered questions deleted from this browser. Local capture "+(consent?"is enabled.":"remains off.");
+  });
   add("Zelle","Welcome to my studio. Tell me what you're making, and we'll explore it together.");
   fetch("./knowledge/question-records.json", {cache:"no-store"}).then(r => {if(!r.ok) throw Error("Knowledge unavailable");return r.json();}).then(data => {
     if (data.schema !== "zelle-question-collection-v1" || !Array.isArray(data.records)) throw Error("Invalid knowledge");
     topics = data.records.filter(x => x && x.status === "approved" && typeof x.id === "string" && Array.isArray(x.keywords)).map(x => ({...x, folder:x.topic, questions:[x.question,...(x.alternateQuestions || [])]}));
     dialogue?.setRecords(topics);
-    status.textContent = "Zelle’s "+topics.length+" reviewed art answers are ready. Unanswered general questions stay on this device for optional export; no remote search or upload is active.";
+    status.textContent = "Zelle’s "+topics.length+" reviewed art answers are ready. Unanswered-question saving is off until you opt in; no automatic upload.";
   }).catch(() => {status.textContent = "Knowledge library unavailable. Please refresh when connected; no questions are being uploaded.";});
   form.addEventListener("submit", event => {
     event.preventDefault();
