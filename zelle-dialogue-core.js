@@ -25,6 +25,19 @@ function create(records=[]){
      return finish("Please do not share credentials or private records here. We can work with a general, non-identifying art question instead.");
    if(/\b(kill myself|suicide|self harm|self-harm|immediate danger|being attacked)\b/i.test(msg))
      return finish("If you or someone else is in immediate danger, contact local emergency services or a trusted person nearby. This art chatbot cannot provide emergency help.");
+   // Approved shared public vocabulary and basic grammar only; no private CORE or learner data.
+   const shared=global.CreativeSparkMentorLanguage;
+   const grammar=msg.match(/^(?:check|review|help with)(?: my)? grammar\s*[:—-]\s*(.{4,1000})$/i);
+   if(grammar){
+     const notes=shared?.grammar(grammar[1],{mentorId:"zelle"})?.notes;
+     return finish(notes?.length?notes.join(" "):"My basic grammar checker did not flag one of its limited patterns. For a detailed writing review, Eiren or Pierre can help.");
+   }
+   const word=msg.match(/^(?:please\s+)?(define|meaning of|synonyms of|antonyms of)\s+(?:the word\s+)?['"“”]?([a-z-]{2,70})['"“”]?[?.!]?$/i);
+   if(word){
+     const mode=word[1].startsWith("synonyms")?"synonyms":word[1].startsWith("antonyms")?"antonyms":"definition";
+     return finish(shared?.lookup(word[2],{mentorId:"zelle",mode})||
+       "That word is not currently in the approved public dictionary I can use. I won't invent a definition; let's consider how it works in your art description.");
+   }
    if(/^(hello|hi|hey|good morning|good afternoon)( zelle)?( how are you( today)?)?$/.test(s)||/\bhow are you( today)?\b/.test(s))
      return finish("Hello! I'm here and ready to explore your art with you. What are you making or imagining?");
    if(/\b(programming you|coding you|building you|developing you)\b/.test(s))
