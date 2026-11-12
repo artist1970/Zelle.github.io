@@ -66,6 +66,8 @@
       turn++;
       return reply;
     }
+    const cross=window.CreativeSparkMentorQA?.answer(message,{mentorId:"zelle",scope:"creative-studio"});
+    if(cross)return "From "+cross.sourceName+"'s approved public knowledge: "+cross.answer+" (Reference: "+cross.sourceName+" · "+cross.topic+".) What could you take from this into a visual project?";
     queueUnknown(message);
     return "I don't have a reliable prepared answer for that question yet. Could you tell me what you're trying to draw, paint, or design? I can help you find a starting point.";
   }
