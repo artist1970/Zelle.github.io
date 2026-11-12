@@ -5,21 +5,23 @@
 (()=>{"use strict";
 const host=document.getElementById("zelle-conversation");if(!host)return;
 const log=host.querySelector("[data-zelle-log]"),actions=host.querySelector(".zelle-chat-actions");if(!log||!actions)return;
-const speakBtn=document.createElement("button"),stopBtn=document.createElement("button"),preview=document.createElement("button"),state=document.createElement("p");
-for(const button of [speakBtn,stopBtn,preview]){button.type="button";button.className="secondary";}
-speakBtn.textContent="Listen to Zelle";stopBtn.textContent="Stop audio";preview.textContent="Preview voice";
+const speakBtn=document.createElement("button"),stopBtn=document.createElement("button"),preview=document.createElement("button"),autoBtn=document.createElement("button"),state=document.createElement("p");
+for(const button of [speakBtn,stopBtn,preview,autoBtn]){button.type="button";button.className="secondary";}
+speakBtn.textContent="Listen to Zelle";stopBtn.textContent="Stop audio";preview.textContent="Preview voice";autoBtn.textContent="Voice Off";autoBtn.setAttribute("aria-pressed","false");autoBtn.setAttribute("aria-label","Toggle automatic Zelle narration");
 state.setAttribute("role","status");state.setAttribute("aria-live","polite");state.className="zelle-chat-status";
 const group=document.createElement("div");group.style.cssText="display:flex;align-items:center;flex-wrap:wrap;gap:9px;margin:15px 0;padding:13px;border:1px solid #b58b46;border-radius:7px";
 const label=document.createElement("label");label.textContent="Zelle's voice";label.htmlFor="zelle-voice-select";label.style.cssText="font-size:16px";
 const select=document.createElement("select");select.id="zelle-voice-select";select.style.cssText="flex:1;min-width:180px;max-width:100%;padding:10px;background:#f4f0e7;color:#243038;border:1px solid #b58b46;border-radius:7px;font:inherit;font-size:16px";
-group.append(label,select,preview);actions.after(group);
+group.append(label,select,autoBtn,preview);actions.after(group);
 actions.append(speakBtn,stopBtn);group.after(state);
 const supported=("speechSynthesis" in window)&&("SpeechSynthesisUtterance" in window);
 const fallback=Object.freeze({voiceName:"Samantha",lang:"en-US",rate:1.10,pitch:1.45});
 const profile=()=>window.PolyglotMentorVoiceProfiles?.get?.("zelle")||fallback;
 const key=v=>JSON.stringify([v.voiceURI||"",v.name||"",v.lang||"",!!v.localService]);
 const pref="vnv.public.voice.zelle.v1";
-let voices=[],choice="auto";
+const autoPref="vnv.public.voice.autoplay.zelle.v1";
+let voices=[],choice="auto",autoRead=false;
+try{autoRead=localStorage.getItem(autoPref)==="on";}catch{}
 try{const saved=localStorage.getItem(pref);if(saved&&saved.length<500)choice=saved;}catch{}
 const labelVoice=v=>(v.name||"Unnamed")+" · "+(v.lang||"unknown")+(v.localService?" · device":" · browser/service");
 function automatic(){
@@ -53,19 +55,43 @@ function speak(text){
  window.speechSynthesis.speak(utterance);
  }catch{setStatus("Speech playback could not start.");}
 }
+function renderAuto(){
+ autoBtn.textContent=autoRead?"Voice On":"Voice Off";
+ autoBtn.setAttribute("aria-pressed",String(autoRead));
+}
+renderAuto();
+autoBtn.addEventListener("click",()=>{
+ if(!supported)return;
+ autoRead=!autoRead;
+ try{localStorage.setItem(autoPref,autoRead?"on":"off");}catch{}
+ if(!autoRead)window.speechSynthesis.cancel();
+ renderAuto();
+ setStatus(autoRead?"New Zelle replies will be read aloud.":"Automatic reading is off; manual playback is available.");
+});
 function replies(){return [...log.querySelectorAll("p")].filter(p=>p.querySelector("strong")?.textContent?.trim().startsWith("Zelle:"));}
-function reply(p){return (p?.textContent||"").replace(/^Zelle:\s*/,"").trim();}
-function decorate(){for(const p of replies()){
+function reply(p){
+ if(!p)return "";
+ const text=Array.from(p.childNodes||[]).filter(n=>!(n.nodeType===1&&n.classList?.contains("zelle-replay"))).map(n=>n.textContent||"").join("");
+ return (text||p.textContent||"").replace(/^Zelle:\\s*/,"").trim();
+}
+function decorate(readNew=false){for(const p of replies()){
  if(p.querySelector(".zelle-replay"))continue;
  const t=reply(p),b=document.createElement("button");b.type="button";b.className="secondary zelle-replay";b.textContent="Listen to this reply";b.style.cssText="display:block;margin-top:8px;font-size:16px";
  b.addEventListener("click",()=>speak(t));p.append(b);
+ if(readNew&&autoRead&&t)speak(t);
 }}
-decorate();if("MutationObserver" in window){const observer=new MutationObserver(decorate);observer.observe(log,{childList:true});}
+decorate();if("MutationObserver" in window){
+ const observer=new MutationObserver(changes=>{
+  if(!changes.some(c=>c.type==="childList"&&Array.from(c.addedNodes||[]).some(n=>n.parentNode===log)))return;
+  decorate(true);
+ });
+ observer.observe(log,{childList:true});
+}
 speakBtn.addEventListener("click",()=>{const r=replies().at(-1);if(r)speak(reply(r));else setStatus("Zelle has no reply to read yet.");});
 preview.addEventListener("click",()=>speak("Hello, I am Zelle! Shall we make something wonderful today?"));
 stopBtn.addEventListener("click",()=>{if(supported)window.speechSynthesis.cancel();setStatus("Speech stopped.");});
 select.addEventListener("change",()=>{choice=select.value||"auto";try{localStorage.setItem(pref,choice);}catch{}setStatus("Voice: "+(selected()?labelVoice(selected()):"browser default"));});
 if(supported){refresh();window.speechSynthesis.addEventListener?.("voiceschanged",refresh);}
-else{select.disabled=true;preview.disabled=true;speakBtn.disabled=true;stopBtn.disabled=true;setStatus("Speech playback is unavailable in this browser.");}
+else{select.disabled=true;autoBtn.disabled=true;preview.disabled=true;speakBtn.disabled=true;stopBtn.disabled=true;setStatus("Speech playback is unavailable in this browser.");}
 window.addEventListener("pagehide",()=>{if(supported)window.speechSynthesis.cancel();});
 })();
