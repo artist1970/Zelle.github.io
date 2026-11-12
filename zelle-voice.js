@@ -72,7 +72,7 @@ function replies(){return [...log.querySelectorAll("p")].filter(p=>p.querySelect
 function reply(p){
  if(!p)return "";
  const text=Array.from(p.childNodes||[]).filter(n=>!(n.nodeType===1&&n.classList?.contains("zelle-replay"))).map(n=>n.textContent||"").join("");
- return (text||p.textContent||"").replace(/^Zelle:\\s*/,"").trim();
+ return (text||p.textContent||"").replace(/^Zelle:\s*/,"").trim();
 }
 function decorate(readNew=false){for(const p of replies()){
  if(p.querySelector(".zelle-replay"))continue;
