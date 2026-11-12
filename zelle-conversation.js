@@ -60,6 +60,8 @@
   function respond(message) {
     // The dialogue layer prioritizes full-turn intent and bounded session context.
     // Never treat a low-confidence word overlap as a reliable answer.
+    const language = window.CreativeSparkLanguageRequest?.answer(message,{mentorId:"zelle"});
+    if(language)return language;
     const reply = dialogue?.answer(message);
     if (typeof reply === "string" && reply.trim()) {
       lastResponse = reply;
